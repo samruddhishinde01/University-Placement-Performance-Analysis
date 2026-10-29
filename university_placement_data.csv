@@ -1,0 +1,2001 @@
+Student_ID,Department,Gender,Batch_Year,CGPA,Backlogs,Internship,Attendance_%,Scholarship,Placed,Package_LPA,Company_Type,Placed_Flag,CGPA_Group,Attendance_Group,Backlog_Group
+S0001,Civil,Male,2023,7.53,0,No,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0002,E&TC,Female,2024,6.31,0,No,63,No,Yes,3.7,IT,1,2. 6-7,2. 60-69,0
+S0003,Electrical,Male,2022,7.06,0,No,59,No,Yes,5.1,Core,1,3. 7-8,1. Below 60,0
+S0004,Civil,Male,2025,5.69,1,No,65,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0005,Computer,Female,2023,5.6,1,Yes,68,No,Yes,13.1,IT,1,1. Below 6,2. 60-69,1
+S0006,Electrical,Male,2023,7.82,0,No,65,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0007,Civil,Male,2024,6.37,0,Yes,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0008,Civil,Female,2023,7.84,0,No,88,No,Yes,4.1,IT,1,3. 7-8,4. 80-89,0
+S0009,Computer,Female,2022,8.4,0,No,87,No,Yes,9.7,IT,1,4. 8+,4. 80-89,0
+S0010,E&TC,Male,2024,6.64,1,Yes,73,No,Yes,5.2,Core,1,2. 6-7,3. 70-79,1
+S0011,E&TC,Male,2024,7.73,0,Yes,61,No,Yes,5.1,Core,1,3. 7-8,2. 60-69,0
+S0012,Electrical,Female,2025,6.55,1,Yes,80,No,Yes,5.8,Core,1,2. 6-7,4. 80-89,1
+S0013,Mechanical,Male,2025,5.44,2,No,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S0014,Civil,Male,2022,7.16,1,No,80,No,No,0,Not Placed,0,3. 7-8,4. 80-89,1
+S0015,E&TC,Male,2024,6.78,2,Yes,92,No,No,0,Not Placed,0,2. 6-7,5. 90+,2
+S0016,IT,Male,2022,6.95,0,No,68,Yes,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0017,Mechanical,Male,2024,8.88,0,Yes,55,Yes,Yes,5,Core,1,4. 8+,1. Below 60,0
+S0018,Computer,Male,2023,6.03,2,Yes,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S0019,Civil,Male,2023,7.39,0,No,81,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0020,Mechanical,Male,2025,6.2,0,Yes,73,No,Yes,5.1,Startup,1,2. 6-7,3. 70-79,0
+S0021,Civil,Female,2023,7.87,0,Yes,67,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0022,E&TC,Male,2023,7.47,0,No,64,No,Yes,6.1,IT,1,3. 7-8,2. 60-69,0
+S0023,Electrical,Female,2023,7.49,0,No,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0024,Electrical,Male,2023,6.3,0,Yes,62,No,Yes,5.3,Core,1,2. 6-7,2. 60-69,0
+S0025,Civil,Female,2024,6.36,0,No,78,No,Yes,4.4,Other,1,2. 6-7,3. 70-79,0
+S0026,IT,Female,2024,8.18,0,Yes,75,No,Yes,6.3,Startup,1,4. 8+,3. 70-79,0
+S0027,E&TC,Female,2024,8.79,0,Yes,75,No,Yes,4.7,Core,1,4. 8+,3. 70-79,0
+S0028,Computer,Male,2022,7.83,0,Yes,71,No,Yes,8.9,IT,1,3. 7-8,3. 70-79,0
+S0029,Computer,Male,2024,6.59,1,Yes,77,No,Yes,8.4,IT,1,2. 6-7,3. 70-79,1
+S0030,Civil,Female,2024,7.36,0,Yes,77,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0031,Civil,Male,2024,9.23,0,No,84,No,Yes,3.7,Core,1,4. 8+,4. 80-89,0
+S0032,Electrical,Male,2022,7.24,0,Yes,78,No,Yes,5.4,Other,1,3. 7-8,3. 70-79,0
+S0033,IT,Female,2022,8.67,0,Yes,80,Yes,Yes,10.6,IT,1,4. 8+,4. 80-89,0
+S0034,E&TC,Male,2023,6.53,0,Yes,65,No,Yes,7.6,IT,1,2. 6-7,2. 60-69,0
+S0035,E&TC,Male,2024,7.16,0,No,69,Yes,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0036,IT,Female,2025,7.91,1,Yes,75,No,Yes,11.7,IT,1,3. 7-8,3. 70-79,1
+S0037,Computer,Male,2023,7.76,0,No,96,No,Yes,5.7,IT,1,3. 7-8,5. 90+,0
+S0038,E&TC,Female,2025,6.51,2,Yes,62,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S0039,IT,Male,2024,6.62,1,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0040,Mechanical,Male,2024,7.99,0,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0041,E&TC,Male,2022,8.27,0,Yes,76,No,Yes,4.3,IT,1,4. 8+,3. 70-79,0
+S0042,Electrical,Male,2025,8.51,0,Yes,90,Yes,Yes,4.9,Core,1,4. 8+,5. 90+,0
+S0043,Civil,Male,2022,8.67,1,No,78,Yes,Yes,4.3,Core,1,4. 8+,3. 70-79,1
+S0044,IT,Male,2024,7.47,0,Yes,75,No,Yes,7.2,Other,1,3. 7-8,3. 70-79,0
+S0045,Electrical,Male,2023,6.87,0,No,82,No,Yes,3.9,Startup,1,2. 6-7,4. 80-89,0
+S0046,Civil,Female,2022,8.27,0,No,96,No,Yes,3.8,Other,1,4. 8+,5. 90+,0
+S0047,E&TC,Male,2025,7.84,0,Yes,91,No,Yes,6.7,Other,1,3. 7-8,5. 90+,0
+S0048,IT,Female,2024,6.47,0,No,73,Yes,Yes,4.7,Other,1,2. 6-7,3. 70-79,0
+S0049,Civil,Male,2025,6.12,3,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,3+
+S0050,Computer,Female,2022,7.84,0,Yes,78,No,Yes,17.4,Other,1,3. 7-8,3. 70-79,0
+S0051,IT,Male,2024,7.19,0,No,77,No,Yes,7.1,IT,1,3. 7-8,3. 70-79,0
+S0052,Computer,Female,2022,7.38,0,Yes,69,No,Yes,11.8,IT,1,3. 7-8,2. 60-69,0
+S0053,Civil,Female,2023,8.02,0,No,87,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0054,Mechanical,Female,2022,7.78,0,Yes,80,No,Yes,4.2,Core,1,3. 7-8,4. 80-89,0
+S0055,Civil,Male,2022,8.25,0,Yes,79,No,Yes,5.3,Core,1,4. 8+,3. 70-79,0
+S0056,Civil,Male,2022,5.31,3,No,59,No,No,0,Not Placed,0,1. Below 6,1. Below 60,3+
+S0057,E&TC,Female,2023,7.43,1,Yes,77,No,Yes,5.9,Startup,1,3. 7-8,3. 70-79,1
+S0058,Mechanical,Male,2023,7.73,0,Yes,61,No,Yes,6.3,Core,1,3. 7-8,2. 60-69,0
+S0059,Computer,Male,2023,6.03,0,Yes,67,No,Yes,7.8,Startup,1,2. 6-7,2. 60-69,0
+S0060,Computer,Female,2025,6.81,0,No,70,No,Yes,12.2,Startup,1,2. 6-7,3. 70-79,0
+S0061,Mechanical,Male,2024,6.34,0,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0062,E&TC,Male,2022,7.22,0,Yes,93,No,Yes,3.7,Core,1,3. 7-8,5. 90+,0
+S0063,Mechanical,Male,2025,8.57,0,Yes,85,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0064,Civil,Female,2025,8.87,0,No,94,No,Yes,5.6,Core,1,4. 8+,5. 90+,0
+S0065,Mechanical,Female,2022,6.37,1,Yes,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0066,Mechanical,Male,2022,7.57,0,No,87,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0067,Mechanical,Male,2025,7.6,0,No,94,No,Yes,4.7,Core,1,3. 7-8,5. 90+,0
+S0068,IT,Male,2022,7.7,0,Yes,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0069,Computer,Male,2025,7.76,0,No,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0070,E&TC,Female,2025,7.47,0,Yes,83,No,Yes,4.3,Core,1,3. 7-8,4. 80-89,0
+S0071,IT,Male,2025,8.87,0,Yes,81,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0072,E&TC,Male,2025,8.19,0,Yes,81,No,Yes,10.3,IT,1,4. 8+,4. 80-89,0
+S0073,Electrical,Male,2022,6.2,1,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0074,IT,Female,2022,8.07,0,No,73,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0075,Computer,Female,2023,8.2,0,Yes,94,No,Yes,15.4,IT,1,4. 8+,5. 90+,0
+S0076,IT,Male,2024,7.63,0,Yes,67,No,Yes,4.4,IT,1,3. 7-8,2. 60-69,0
+S0077,IT,Male,2022,8.37,0,Yes,86,No,Yes,8.5,IT,1,4. 8+,4. 80-89,0
+S0078,Mechanical,Male,2023,7.27,0,Yes,81,No,Yes,5.9,Core,1,3. 7-8,4. 80-89,0
+S0079,Mechanical,Male,2023,7.28,0,No,62,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0080,Civil,Male,2023,7.16,0,No,68,No,Yes,4.4,Core,1,3. 7-8,2. 60-69,0
+S0081,Mechanical,Male,2023,5.28,1,No,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0082,E&TC,Male,2024,7.13,0,No,81,No,Yes,8,Core,1,3. 7-8,4. 80-89,0
+S0083,Civil,Male,2025,6.45,0,No,70,No,Yes,5.5,Other,1,2. 6-7,3. 70-79,0
+S0084,Computer,Male,2023,6.33,0,No,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0085,Computer,Male,2023,8.69,0,Yes,67,No,Yes,10.1,IT,1,4. 8+,2. 60-69,0
+S0086,Computer,Male,2022,7.85,0,Yes,99,No,Yes,17,Other,1,3. 7-8,5. 90+,0
+S0087,Civil,Male,2022,7.02,0,Yes,76,No,Yes,5.5,IT,1,3. 7-8,3. 70-79,0
+S0088,E&TC,Male,2025,6.69,0,Yes,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0089,Computer,Male,2023,7.67,0,Yes,73,No,Yes,8.1,IT,1,3. 7-8,3. 70-79,0
+S0090,E&TC,Male,2025,8.09,0,Yes,73,No,Yes,5.1,Other,1,4. 8+,3. 70-79,0
+S0091,Computer,Male,2022,6.66,0,Yes,92,No,Yes,12,Startup,1,2. 6-7,5. 90+,0
+S0092,Civil,Male,2022,7.05,0,No,58,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S0093,E&TC,Male,2024,7.98,0,Yes,81,Yes,Yes,4.7,Core,1,3. 7-8,4. 80-89,0
+S0094,E&TC,Male,2022,5.46,2,Yes,60,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S0095,IT,Male,2024,7.3,0,Yes,73,No,Yes,6.8,Startup,1,3. 7-8,3. 70-79,0
+S0096,Mechanical,Male,2025,6.71,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0097,E&TC,Male,2022,7.08,0,No,67,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0098,Computer,Male,2023,6.95,0,No,76,No,Yes,7.5,IT,1,2. 6-7,3. 70-79,0
+S0099,Computer,Male,2025,7.52,1,Yes,54,Yes,No,0,Not Placed,0,3. 7-8,1. Below 60,1
+S0100,Electrical,Male,2024,8.88,0,Yes,78,No,Yes,6,Startup,1,4. 8+,3. 70-79,0
+S0101,Electrical,Male,2023,6.86,2,Yes,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0102,Civil,Male,2022,7.31,0,Yes,64,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0103,IT,Female,2022,9.15,0,Yes,95,Yes,Yes,7.9,IT,1,4. 8+,5. 90+,0
+S0104,Electrical,Male,2022,6.65,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0105,Civil,Male,2024,8.68,1,Yes,78,Yes,Yes,3.2,Startup,1,4. 8+,3. 70-79,1
+S0106,Civil,Female,2025,7.05,0,Yes,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0107,E&TC,Male,2024,8.8,0,No,80,Yes,Yes,7.8,Other,1,4. 8+,4. 80-89,0
+S0108,IT,Male,2023,8.03,1,Yes,90,No,Yes,7.1,Startup,1,4. 8+,5. 90+,1
+S0109,Computer,Male,2022,7.68,1,Yes,99,No,Yes,15.7,Startup,1,3. 7-8,5. 90+,1
+S0110,Electrical,Male,2025,7.09,0,Yes,82,No,Yes,5.4,Core,1,3. 7-8,4. 80-89,0
+S0111,E&TC,Male,2025,6.64,0,No,84,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0112,IT,Female,2022,7.42,0,Yes,92,No,Yes,11,IT,1,3. 7-8,5. 90+,0
+S0113,IT,Male,2025,8.16,0,Yes,81,No,Yes,9.5,IT,1,4. 8+,4. 80-89,0
+S0114,Mechanical,Female,2025,7.09,0,No,90,No,Yes,6.4,Other,1,3. 7-8,5. 90+,0
+S0115,Computer,Male,2023,7.12,0,Yes,83,No,Yes,10.2,IT,1,3. 7-8,4. 80-89,0
+S0116,Electrical,Male,2022,6.92,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0117,Civil,Male,2025,7.94,0,Yes,81,No,Yes,4.7,Core,1,3. 7-8,4. 80-89,0
+S0118,Civil,Male,2024,8.15,0,Yes,62,No,Yes,6,Startup,1,4. 8+,2. 60-69,0
+S0119,E&TC,Male,2024,6.6,0,Yes,77,No,Yes,11,IT,1,2. 6-7,3. 70-79,0
+S0120,Mechanical,Male,2024,6.5,0,No,60,No,Yes,4,Startup,1,2. 6-7,2. 60-69,0
+S0121,Mechanical,Male,2025,7.44,0,Yes,62,No,Yes,6.1,Startup,1,3. 7-8,2. 60-69,0
+S0122,Mechanical,Male,2025,8.47,0,Yes,82,No,Yes,5.1,Core,1,4. 8+,4. 80-89,0
+S0123,Computer,Male,2023,8.43,0,No,70,No,Yes,9.9,IT,1,4. 8+,3. 70-79,0
+S0124,E&TC,Male,2022,6.07,3,Yes,73,No,Yes,5.4,Startup,1,2. 6-7,3. 70-79,3+
+S0125,Computer,Male,2024,7.16,0,No,77,No,Yes,4.4,IT,1,3. 7-8,3. 70-79,0
+S0126,E&TC,Male,2025,6.36,0,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0127,IT,Male,2022,7.11,0,Yes,68,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0128,Computer,Male,2025,8.84,0,Yes,89,No,Yes,8.9,Other,1,4. 8+,4. 80-89,0
+S0129,Computer,Female,2023,6.12,2,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0130,Mechanical,Male,2023,5.64,3,Yes,75,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S0131,Computer,Male,2022,6.65,0,No,64,No,Yes,10.4,IT,1,2. 6-7,2. 60-69,0
+S0132,Electrical,Male,2024,7.41,0,No,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0133,Mechanical,Male,2023,7.66,0,No,87,No,Yes,3.7,Core,1,3. 7-8,4. 80-89,0
+S0134,E&TC,Female,2024,7.59,0,No,86,No,Yes,6.9,IT,1,3. 7-8,4. 80-89,0
+S0135,Mechanical,Male,2023,8.16,0,No,72,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0136,Computer,Male,2025,5.81,1,Yes,67,No,Yes,8.6,Startup,1,1. Below 6,2. 60-69,1
+S0137,Electrical,Male,2025,8.22,0,Yes,70,No,Yes,5,Core,1,4. 8+,3. 70-79,0
+S0138,E&TC,Female,2024,6.92,0,No,69,Yes,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0139,Civil,Female,2024,7.71,0,No,65,No,Yes,5.2,Other,1,3. 7-8,2. 60-69,0
+S0140,Computer,Male,2025,6.21,2,No,72,No,Yes,9.3,Other,1,2. 6-7,3. 70-79,2
+S0141,E&TC,Male,2024,7.2,0,Yes,82,No,Yes,6.4,Core,1,3. 7-8,4. 80-89,0
+S0142,E&TC,Female,2024,7.41,0,Yes,70,No,Yes,7.6,IT,1,3. 7-8,3. 70-79,0
+S0143,Electrical,Female,2023,8.19,0,No,78,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0144,Mechanical,Male,2025,5.67,1,No,69,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0145,E&TC,Female,2025,7.23,0,No,86,No,Yes,5.6,IT,1,3. 7-8,4. 80-89,0
+S0146,IT,Male,2025,6.37,1,No,68,No,Yes,4.3,Startup,1,2. 6-7,2. 60-69,1
+S0147,IT,Male,2023,7.8,0,Yes,73,No,Yes,7.1,IT,1,3. 7-8,3. 70-79,0
+S0148,Mechanical,Male,2024,7.8,0,Yes,70,No,Yes,3,Other,1,3. 7-8,3. 70-79,0
+S0149,E&TC,Male,2025,8.36,0,No,69,No,Yes,6.7,Other,1,4. 8+,2. 60-69,0
+S0150,Computer,Female,2024,6.92,0,Yes,80,No,Yes,11.1,IT,1,2. 6-7,4. 80-89,0
+S0151,Civil,Male,2025,7.88,0,No,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0152,Electrical,Male,2023,8.37,0,Yes,80,No,Yes,6.9,Core,1,4. 8+,4. 80-89,0
+S0153,Computer,Male,2022,5.92,0,Yes,84,No,No,0,Not Placed,0,1. Below 6,4. 80-89,0
+S0154,Mechanical,Male,2024,7.65,0,Yes,89,No,Yes,5.6,Other,1,3. 7-8,4. 80-89,0
+S0155,Computer,Female,2022,8.26,0,Yes,64,No,Yes,12,Startup,1,4. 8+,2. 60-69,0
+S0156,Mechanical,Male,2022,6.87,0,No,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0157,IT,Male,2022,6.26,0,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0158,Mechanical,Male,2024,7.95,1,No,74,No,Yes,3,Core,1,3. 7-8,3. 70-79,1
+S0159,Civil,Male,2022,5.97,1,No,75,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0160,Civil,Female,2022,6.89,0,Yes,60,No,Yes,4.1,Core,1,2. 6-7,2. 60-69,0
+S0161,Computer,Male,2024,7.36,0,Yes,90,Yes,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0162,Electrical,Male,2022,7.79,0,No,82,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0163,IT,Male,2025,6.79,0,Yes,67,No,Yes,5,IT,1,2. 6-7,2. 60-69,0
+S0164,Computer,Female,2022,6.78,0,No,69,No,Yes,7.2,IT,1,2. 6-7,2. 60-69,0
+S0165,Mechanical,Male,2024,7.19,0,Yes,61,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0166,E&TC,Female,2025,8.11,0,Yes,76,No,Yes,9.3,Other,1,4. 8+,3. 70-79,0
+S0167,Civil,Male,2022,9.11,0,No,77,No,Yes,5.9,Core,1,4. 8+,3. 70-79,0
+S0168,Civil,Male,2024,5.69,0,No,60,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S0169,IT,Male,2025,7.63,0,Yes,84,No,Yes,9.4,Startup,1,3. 7-8,4. 80-89,0
+S0170,Electrical,Male,2022,6.17,0,No,84,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0171,IT,Male,2023,8.27,0,Yes,79,No,Yes,7.6,IT,1,4. 8+,3. 70-79,0
+S0172,Mechanical,Male,2025,6.26,2,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0173,IT,Male,2022,6.74,0,Yes,79,No,Yes,5.6,Startup,1,2. 6-7,3. 70-79,0
+S0174,Electrical,Male,2022,6.62,0,Yes,74,No,Yes,5.1,Core,1,2. 6-7,3. 70-79,0
+S0175,Computer,Female,2025,7.33,0,Yes,67,No,Yes,12,Startup,1,3. 7-8,2. 60-69,0
+S0176,Computer,Male,2025,7.69,0,Yes,72,No,Yes,10,IT,1,3. 7-8,3. 70-79,0
+S0177,E&TC,Male,2022,7.64,0,Yes,75,No,Yes,3.7,Other,1,3. 7-8,3. 70-79,0
+S0178,Electrical,Male,2025,7.14,0,Yes,78,No,Yes,5.2,Core,1,3. 7-8,3. 70-79,0
+S0179,Electrical,Male,2023,5.95,0,Yes,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0180,Civil,Male,2023,7.71,0,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0181,Electrical,Male,2022,7.1,0,No,62,No,Yes,2.7,Core,1,3. 7-8,2. 60-69,0
+S0182,Electrical,Male,2025,8.2,0,No,85,No,Yes,6.1,Core,1,4. 8+,4. 80-89,0
+S0183,Mechanical,Male,2023,6.46,1,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0184,IT,Female,2024,5.91,1,No,95,No,Yes,5.5,IT,1,1. Below 6,5. 90+,1
+S0185,Civil,Male,2024,7.02,0,Yes,72,No,Yes,3,Core,1,3. 7-8,3. 70-79,0
+S0186,Mechanical,Male,2022,8.27,0,Yes,82,No,Yes,6.4,Core,1,4. 8+,4. 80-89,0
+S0187,E&TC,Male,2024,7.34,0,No,99,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0188,Computer,Male,2024,7.22,0,Yes,78,No,Yes,10.2,IT,1,3. 7-8,3. 70-79,0
+S0189,Civil,Male,2022,6.27,0,Yes,73,No,Yes,4.3,Core,1,2. 6-7,3. 70-79,0
+S0190,IT,Male,2022,8.93,0,Yes,72,Yes,Yes,15.3,IT,1,4. 8+,3. 70-79,0
+S0191,Electrical,Female,2023,6.22,4,No,87,No,No,0,Not Placed,0,2. 6-7,4. 80-89,3+
+S0192,IT,Male,2022,6.7,1,No,64,No,Yes,8.2,Startup,1,2. 6-7,2. 60-69,1
+S0193,Computer,Male,2024,7.91,0,Yes,82,No,Yes,7.5,IT,1,3. 7-8,4. 80-89,0
+S0194,Electrical,Male,2022,5.48,2,No,67,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S0195,Computer,Male,2023,8.55,0,Yes,78,Yes,Yes,10.8,IT,1,4. 8+,3. 70-79,0
+S0196,Computer,Male,2025,7.96,1,Yes,65,No,Yes,8.4,Startup,1,3. 7-8,2. 60-69,1
+S0197,Mechanical,Male,2023,7.91,0,No,90,Yes,Yes,6.6,Core,1,3. 7-8,5. 90+,0
+S0198,Electrical,Male,2024,7.65,0,No,75,No,Yes,5.1,Core,1,3. 7-8,3. 70-79,0
+S0199,IT,Male,2022,7.2,0,No,65,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0200,IT,Male,2024,6.39,0,No,85,No,Yes,7.5,Other,1,2. 6-7,4. 80-89,0
+S0201,Civil,Male,2024,6.92,0,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0202,Electrical,Male,2023,6.27,0,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0203,E&TC,Female,2023,7.64,0,Yes,85,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0204,Computer,Male,2023,8.13,0,No,83,No,Yes,5.6,Startup,1,4. 8+,4. 80-89,0
+S0205,Computer,Female,2025,8.73,0,No,61,No,Yes,8.8,IT,1,4. 8+,2. 60-69,0
+S0206,IT,Female,2022,7.68,0,Yes,84,No,Yes,7.7,IT,1,3. 7-8,4. 80-89,0
+S0207,Computer,Male,2022,8.23,0,Yes,78,No,Yes,6.9,Startup,1,4. 8+,3. 70-79,0
+S0208,Mechanical,Male,2025,6.83,0,Yes,72,No,Yes,4.4,Other,1,2. 6-7,3. 70-79,0
+S0209,Computer,Male,2022,6.97,0,Yes,74,No,Yes,9.7,IT,1,2. 6-7,3. 70-79,0
+S0210,E&TC,Male,2025,7.63,0,No,63,No,Yes,5.4,Core,1,3. 7-8,2. 60-69,0
+S0211,Civil,Male,2024,6.7,0,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0212,Mechanical,Male,2023,7.34,0,No,64,No,Yes,3,Other,1,3. 7-8,2. 60-69,0
+S0213,IT,Female,2022,6.39,0,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0214,Civil,Male,2024,6.26,0,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0215,Civil,Male,2023,7.62,0,No,87,No,Yes,3.7,Other,1,3. 7-8,4. 80-89,0
+S0216,Civil,Male,2023,7.85,0,Yes,71,No,Yes,3.9,Core,1,3. 7-8,3. 70-79,0
+S0217,Computer,Female,2023,6.51,1,Yes,87,No,Yes,8.9,IT,1,2. 6-7,4. 80-89,1
+S0218,Computer,Female,2022,8,0,Yes,87,No,Yes,9.3,IT,1,4. 8+,4. 80-89,0
+S0219,Electrical,Male,2025,6.67,0,Yes,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0220,E&TC,Female,2023,7.21,0,Yes,66,No,Yes,5.1,IT,1,3. 7-8,2. 60-69,0
+S0221,IT,Female,2022,8.63,0,Yes,67,No,Yes,7.2,Startup,1,4. 8+,2. 60-69,0
+S0222,E&TC,Male,2025,7.93,0,Yes,81,No,Yes,6,Core,1,3. 7-8,4. 80-89,0
+S0223,Mechanical,Male,2025,7.82,0,Yes,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0224,Electrical,Male,2025,8.87,0,No,92,Yes,No,0,Not Placed,0,4. 8+,5. 90+,0
+S0225,IT,Male,2025,6.72,0,Yes,68,No,Yes,9.8,IT,1,2. 6-7,2. 60-69,0
+S0226,Electrical,Male,2024,6.26,1,Yes,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S0227,Computer,Male,2022,6.75,0,No,77,No,Yes,8.5,IT,1,2. 6-7,3. 70-79,0
+S0228,Mechanical,Male,2023,6.87,0,Yes,69,No,Yes,7,Other,1,2. 6-7,2. 60-69,0
+S0229,Mechanical,Male,2024,5,1,No,69,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0230,Computer,Female,2022,7.21,0,No,85,No,Yes,11.1,Startup,1,3. 7-8,4. 80-89,0
+S0231,Computer,Male,2025,6.91,0,Yes,76,No,Yes,13.1,Startup,1,2. 6-7,3. 70-79,0
+S0232,E&TC,Male,2024,7.91,0,Yes,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0233,Electrical,Male,2022,7.47,0,No,79,No,Yes,6.9,Other,1,3. 7-8,3. 70-79,0
+S0234,Mechanical,Male,2023,6.56,0,No,59,Yes,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0235,Electrical,Male,2024,7.68,0,Yes,81,No,Yes,8,Other,1,3. 7-8,4. 80-89,0
+S0236,Civil,Male,2023,7.7,0,Yes,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0237,E&TC,Male,2022,6.51,1,Yes,82,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S0238,Civil,Male,2025,6.61,1,No,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S0239,Computer,Male,2023,5.4,0,Yes,69,No,Yes,5.8,IT,1,1. Below 6,2. 60-69,0
+S0240,Computer,Male,2024,6.42,0,Yes,83,No,Yes,10.1,IT,1,2. 6-7,4. 80-89,0
+S0241,Civil,Female,2024,6.38,0,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0242,Civil,Female,2025,7.12,0,No,78,No,Yes,5.5,Other,1,3. 7-8,3. 70-79,0
+S0243,IT,Male,2023,6.5,2,Yes,71,No,Yes,10.9,Startup,1,2. 6-7,3. 70-79,2
+S0244,Mechanical,Male,2024,6.64,0,Yes,78,No,Yes,3.8,Core,1,2. 6-7,3. 70-79,0
+S0245,Mechanical,Male,2025,6,1,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S0246,Electrical,Male,2023,7.3,0,No,91,No,Yes,5.6,Other,1,3. 7-8,5. 90+,0
+S0247,Mechanical,Female,2024,7.48,0,No,95,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0248,E&TC,Male,2024,7.56,0,No,85,No,Yes,5.5,IT,1,3. 7-8,4. 80-89,0
+S0249,E&TC,Female,2023,7.21,0,Yes,90,No,Yes,9.5,Other,1,3. 7-8,5. 90+,0
+S0250,E&TC,Male,2022,5.81,2,Yes,58,No,No,0,Not Placed,0,1. Below 6,1. Below 60,2
+S0251,Mechanical,Male,2025,6.54,1,Yes,61,No,Yes,3.1,Core,1,2. 6-7,2. 60-69,1
+S0252,Electrical,Male,2025,6.78,0,Yes,72,Yes,Yes,4,IT,1,2. 6-7,3. 70-79,0
+S0253,E&TC,Female,2022,6.84,0,No,75,No,Yes,3.1,Other,1,2. 6-7,3. 70-79,0
+S0254,IT,Male,2025,7.42,0,No,75,No,Yes,7.4,Startup,1,3. 7-8,3. 70-79,0
+S0255,IT,Female,2024,8.63,0,Yes,66,No,Yes,15.4,Startup,1,4. 8+,2. 60-69,0
+S0256,Civil,Female,2023,7.78,0,No,88,No,Yes,4,Core,1,3. 7-8,4. 80-89,0
+S0257,Civil,Male,2024,6.16,0,Yes,92,No,Yes,4.2,Core,1,2. 6-7,5. 90+,0
+S0258,Computer,Female,2025,8.01,0,Yes,90,No,Yes,10.6,IT,1,4. 8+,5. 90+,0
+S0259,Computer,Female,2025,7.98,0,Yes,88,No,Yes,8.8,IT,1,3. 7-8,4. 80-89,0
+S0260,Mechanical,Male,2023,6.37,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0261,Computer,Male,2023,8.16,0,Yes,71,No,Yes,10.1,IT,1,4. 8+,3. 70-79,0
+S0262,Civil,Male,2025,6.91,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0263,IT,Female,2022,6.08,2,No,92,Yes,No,0,Not Placed,0,2. 6-7,5. 90+,2
+S0264,Computer,Female,2023,7.81,0,No,75,No,Yes,9.3,IT,1,3. 7-8,3. 70-79,0
+S0265,Electrical,Male,2022,7.35,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0266,Computer,Female,2024,7.2,0,Yes,86,No,Yes,6.9,IT,1,3. 7-8,4. 80-89,0
+S0267,IT,Female,2024,7.32,0,Yes,87,No,Yes,7.5,IT,1,3. 7-8,4. 80-89,0
+S0268,Computer,Female,2024,6.75,0,Yes,67,No,Yes,10.5,IT,1,2. 6-7,2. 60-69,0
+S0269,Computer,Male,2022,7.95,0,No,76,No,Yes,10.9,IT,1,3. 7-8,3. 70-79,0
+S0270,Computer,Male,2025,7.36,0,Yes,72,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0271,Computer,Female,2024,7.55,0,Yes,78,No,Yes,12.8,IT,1,3. 7-8,3. 70-79,0
+S0272,Computer,Female,2025,7.72,0,Yes,87,No,Yes,9.8,Other,1,3. 7-8,4. 80-89,0
+S0273,Computer,Male,2022,6.36,1,Yes,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S0274,Mechanical,Male,2022,6.3,0,No,83,No,Yes,4.7,Other,1,2. 6-7,4. 80-89,0
+S0275,Civil,Male,2022,5.06,1,No,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0276,E&TC,Female,2023,7.71,0,No,98,No,Yes,6.6,Startup,1,3. 7-8,5. 90+,0
+S0277,IT,Female,2024,6.26,2,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0278,E&TC,Female,2025,7.32,0,No,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0279,Electrical,Female,2022,7.48,0,Yes,82,No,Yes,4.3,IT,1,3. 7-8,4. 80-89,0
+S0280,Electrical,Male,2022,7.69,0,Yes,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0281,Computer,Male,2024,6.32,0,Yes,57,No,Yes,7,Startup,1,2. 6-7,1. Below 60,0
+S0282,IT,Female,2025,7.29,0,Yes,74,No,Yes,7.4,IT,1,3. 7-8,3. 70-79,0
+S0283,IT,Male,2023,8.85,0,Yes,79,Yes,Yes,5.8,IT,1,4. 8+,3. 70-79,0
+S0284,IT,Female,2023,8.89,0,Yes,67,Yes,Yes,9.3,Other,1,4. 8+,2. 60-69,0
+S0285,Mechanical,Male,2025,7.99,0,Yes,78,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0286,E&TC,Male,2022,7.5,0,Yes,58,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S0287,Computer,Male,2024,6.5,0,No,71,No,Yes,10.5,IT,1,2. 6-7,3. 70-79,0
+S0288,E&TC,Female,2022,7.85,0,Yes,80,No,Yes,4.8,Other,1,3. 7-8,4. 80-89,0
+S0289,Mechanical,Male,2023,6.96,0,Yes,76,No,Yes,5.4,Startup,1,2. 6-7,3. 70-79,0
+S0290,Computer,Female,2022,7.9,0,Yes,74,No,Yes,7.6,IT,1,3. 7-8,3. 70-79,0
+S0291,Electrical,Female,2024,6.58,0,Yes,73,No,Yes,3.7,IT,1,2. 6-7,3. 70-79,0
+S0292,Computer,Male,2025,7.24,0,No,69,Yes,Yes,14.4,Startup,1,3. 7-8,2. 60-69,0
+S0293,Electrical,Female,2025,7.3,0,Yes,76,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0294,Computer,Male,2023,7.62,0,Yes,78,No,Yes,6.7,IT,1,3. 7-8,3. 70-79,0
+S0295,Electrical,Male,2023,7.59,0,No,69,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0296,Electrical,Male,2022,6.63,0,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0297,Electrical,Female,2023,5.94,1,No,75,Yes,Yes,3,IT,1,1. Below 6,3. 70-79,1
+S0298,Civil,Male,2023,8.51,0,No,78,No,Yes,4.5,Core,1,4. 8+,3. 70-79,0
+S0299,Civil,Male,2025,9.29,0,Yes,99,No,Yes,5.1,Other,1,4. 8+,5. 90+,0
+S0300,Mechanical,Male,2024,7.5,0,No,76,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0301,Civil,Male,2023,5.86,0,No,69,No,Yes,4.4,Core,1,1. Below 6,2. 60-69,0
+S0302,Computer,Female,2022,6.7,0,Yes,71,No,Yes,14.9,Other,1,2. 6-7,3. 70-79,0
+S0303,Mechanical,Male,2025,7.56,0,No,68,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0304,Mechanical,Female,2023,8.31,0,Yes,86,No,Yes,4.1,Core,1,4. 8+,4. 80-89,0
+S0305,Electrical,Male,2025,6.06,2,Yes,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S0306,E&TC,Male,2024,7.09,0,Yes,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0307,E&TC,Male,2024,7.38,0,Yes,72,Yes,Yes,4.9,IT,1,3. 7-8,3. 70-79,0
+S0308,Mechanical,Male,2023,7.88,0,Yes,69,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0309,IT,Female,2023,7.04,0,Yes,60,No,Yes,11.9,IT,1,3. 7-8,2. 60-69,0
+S0310,Computer,Female,2022,5.99,1,Yes,68,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0311,E&TC,Male,2024,7.76,0,No,86,No,Yes,7,Startup,1,3. 7-8,4. 80-89,0
+S0312,E&TC,Male,2022,8.21,0,Yes,81,No,Yes,7.5,Core,1,4. 8+,4. 80-89,0
+S0313,IT,Female,2023,7.28,0,No,90,No,Yes,6,IT,1,3. 7-8,5. 90+,0
+S0314,E&TC,Male,2025,7.56,0,Yes,84,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0315,E&TC,Male,2023,6.77,1,Yes,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0316,IT,Female,2024,6.59,0,No,91,No,Yes,9.4,IT,1,2. 6-7,5. 90+,0
+S0317,E&TC,Female,2023,8.12,0,No,78,No,Yes,6.9,Other,1,4. 8+,3. 70-79,0
+S0318,Civil,Male,2023,7.4,0,No,77,No,Yes,4.2,Core,1,3. 7-8,3. 70-79,0
+S0319,IT,Male,2024,7.79,0,Yes,78,No,Yes,6.7,IT,1,3. 7-8,3. 70-79,0
+S0320,Electrical,Male,2025,8.5,0,No,94,No,Yes,5.1,Core,1,4. 8+,5. 90+,0
+S0321,Electrical,Male,2025,6.2,2,No,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0322,E&TC,Male,2022,6.7,1,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S0323,IT,Male,2025,7.49,0,No,82,No,Yes,11.4,IT,1,3. 7-8,4. 80-89,0
+S0324,Mechanical,Male,2025,6.59,0,Yes,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0325,Electrical,Male,2025,7.85,0,Yes,83,No,Yes,3.8,Startup,1,3. 7-8,4. 80-89,0
+S0326,Mechanical,Male,2022,6.93,0,Yes,79,No,Yes,3.8,Core,1,2. 6-7,3. 70-79,0
+S0327,Civil,Male,2022,6.16,1,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0328,Mechanical,Male,2025,7.16,0,No,81,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0329,Mechanical,Male,2024,7.25,0,Yes,63,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0330,IT,Male,2022,8.19,0,Yes,80,No,Yes,6.7,Other,1,4. 8+,4. 80-89,0
+S0331,Civil,Male,2025,7.4,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0332,IT,Male,2024,7.77,0,Yes,99,No,Yes,7,Startup,1,3. 7-8,5. 90+,0
+S0333,Civil,Male,2022,7.34,0,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0334,Electrical,Male,2022,6.98,0,Yes,70,No,Yes,4.9,Core,1,2. 6-7,3. 70-79,0
+S0335,Computer,Male,2022,6.76,0,Yes,62,No,Yes,11.2,Startup,1,2. 6-7,2. 60-69,0
+S0336,Mechanical,Male,2022,7.36,0,Yes,88,No,Yes,5.5,Core,1,3. 7-8,4. 80-89,0
+S0337,Computer,Male,2024,7.1,0,Yes,73,No,Yes,8.8,Core,1,3. 7-8,3. 70-79,0
+S0338,Civil,Male,2024,8.57,0,Yes,73,Yes,Yes,4.9,Core,1,4. 8+,3. 70-79,0
+S0339,Computer,Female,2022,8.61,0,Yes,83,No,Yes,11.1,Other,1,4. 8+,4. 80-89,0
+S0340,Electrical,Male,2023,7.72,0,Yes,83,No,Yes,3.2,Core,1,3. 7-8,4. 80-89,0
+S0341,Computer,Male,2024,7.74,1,Yes,83,No,No,0,Not Placed,0,3. 7-8,4. 80-89,1
+S0342,Electrical,Male,2025,7.07,0,No,76,No,Yes,6.2,Other,1,3. 7-8,3. 70-79,0
+S0343,Civil,Male,2024,5.91,1,Yes,74,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0344,Mechanical,Male,2022,6.91,0,Yes,77,No,Yes,3.8,Core,1,2. 6-7,3. 70-79,0
+S0345,Civil,Male,2022,7.14,1,Yes,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S0346,Civil,Female,2025,7.26,0,No,80,No,Yes,3.5,Core,1,3. 7-8,4. 80-89,0
+S0347,Electrical,Male,2023,7.57,0,No,87,No,Yes,5.2,Other,1,3. 7-8,4. 80-89,0
+S0348,IT,Female,2024,8.18,0,No,79,No,Yes,7.3,IT,1,4. 8+,3. 70-79,0
+S0349,Mechanical,Male,2022,6.48,0,No,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0350,Computer,Male,2024,6.79,0,Yes,73,No,Yes,9.8,IT,1,2. 6-7,3. 70-79,0
+S0351,Mechanical,Male,2022,8.41,0,No,86,No,Yes,4.9,Other,1,4. 8+,4. 80-89,0
+S0352,Computer,Female,2024,8.09,0,Yes,63,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S0353,Mechanical,Male,2023,6.75,0,No,59,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0354,Mechanical,Male,2022,7,0,No,84,Yes,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0355,E&TC,Male,2022,7.11,0,Yes,89,No,Yes,5.2,IT,1,3. 7-8,4. 80-89,0
+S0356,Mechanical,Female,2023,7.13,0,No,64,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0357,Civil,Male,2023,7.48,0,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0358,Civil,Male,2024,9.33,0,No,79,No,Yes,6.7,Other,1,4. 8+,3. 70-79,0
+S0359,E&TC,Male,2024,7.37,0,Yes,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0360,Mechanical,Male,2024,7.7,1,Yes,80,No,Yes,6,Other,1,3. 7-8,4. 80-89,1
+S0361,Electrical,Male,2025,5.63,1,Yes,60,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0362,Computer,Female,2023,6.96,0,Yes,65,No,Yes,9.4,IT,1,2. 6-7,2. 60-69,0
+S0363,Computer,Male,2022,8.51,0,Yes,77,No,Yes,11.3,IT,1,4. 8+,3. 70-79,0
+S0364,Computer,Male,2023,7.76,0,Yes,76,No,Yes,7.4,Other,1,3. 7-8,3. 70-79,0
+S0365,Mechanical,Male,2025,5,1,No,59,No,No,0,Not Placed,0,1. Below 6,1. Below 60,1
+S0366,E&TC,Male,2023,7.81,0,Yes,85,No,Yes,10.7,Other,1,3. 7-8,4. 80-89,0
+S0367,Civil,Male,2023,8.78,0,No,77,Yes,Yes,3.1,Core,1,4. 8+,3. 70-79,0
+S0368,Mechanical,Male,2023,5.3,1,No,67,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0369,IT,Female,2022,8.72,0,Yes,83,No,Yes,8.5,Startup,1,4. 8+,4. 80-89,0
+S0370,Electrical,Male,2024,5,2,No,68,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S0371,Civil,Female,2025,7.89,0,Yes,86,No,Yes,4.1,Core,1,3. 7-8,4. 80-89,0
+S0372,IT,Male,2024,7.34,0,Yes,68,No,Yes,7,IT,1,3. 7-8,2. 60-69,0
+S0373,E&TC,Female,2022,5.09,1,No,57,No,No,0,Not Placed,0,1. Below 6,1. Below 60,1
+S0374,IT,Female,2024,7.75,0,Yes,75,No,Yes,6.9,Startup,1,3. 7-8,3. 70-79,0
+S0375,Computer,Female,2023,8.44,0,Yes,80,No,Yes,7.5,IT,1,4. 8+,4. 80-89,0
+S0376,Computer,Female,2025,7.73,0,No,66,Yes,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0377,Electrical,Male,2025,7.68,0,No,65,Yes,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0378,E&TC,Male,2022,6.83,0,No,77,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0379,E&TC,Female,2025,5.52,2,No,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S0380,Civil,Male,2023,7.67,0,No,64,No,Yes,5.6,Core,1,3. 7-8,2. 60-69,0
+S0381,Mechanical,Male,2022,8.67,0,Yes,89,No,Yes,3.7,Core,1,4. 8+,4. 80-89,0
+S0382,Electrical,Male,2025,8.17,0,Yes,73,No,Yes,6.9,Other,1,4. 8+,3. 70-79,0
+S0383,Civil,Male,2022,5.26,5,No,81,No,No,0,Not Placed,0,1. Below 6,4. 80-89,3+
+S0384,E&TC,Male,2025,5.84,2,No,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S0385,E&TC,Male,2022,6.44,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0386,Electrical,Male,2024,5.72,3,Yes,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S0387,Civil,Male,2025,7.09,0,Yes,52,No,Yes,5.1,Core,1,3. 7-8,1. Below 60,0
+S0388,Electrical,Male,2023,7.5,0,No,67,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0389,Computer,Female,2022,6.11,0,No,72,No,Yes,6.9,IT,1,2. 6-7,3. 70-79,0
+S0390,Electrical,Male,2023,7.85,0,Yes,81,Yes,Yes,6,IT,1,3. 7-8,4. 80-89,0
+S0391,Mechanical,Male,2023,7.64,0,Yes,61,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0392,Computer,Female,2022,6.91,0,Yes,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0393,Mechanical,Male,2024,6.94,0,No,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0394,Civil,Male,2023,5.3,0,No,72,Yes,Yes,3.4,Core,1,1. Below 6,3. 70-79,0
+S0395,Computer,Female,2023,7.1,0,Yes,76,No,Yes,6.4,Other,1,3. 7-8,3. 70-79,0
+S0396,E&TC,Male,2024,7.21,0,No,83,No,Yes,3.9,Core,1,3. 7-8,4. 80-89,0
+S0397,Civil,Male,2025,7.2,0,Yes,86,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0398,IT,Male,2025,7.69,0,Yes,82,No,Yes,9.4,IT,1,3. 7-8,4. 80-89,0
+S0399,E&TC,Female,2025,7.42,0,No,84,No,Yes,6.3,Other,1,3. 7-8,4. 80-89,0
+S0400,E&TC,Female,2022,6.96,0,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0401,IT,Male,2023,7.61,0,No,99,No,Yes,7.7,IT,1,3. 7-8,5. 90+,0
+S0402,Electrical,Male,2023,8.05,0,No,68,No,Yes,4.3,Core,1,4. 8+,2. 60-69,0
+S0403,Civil,Male,2025,6.96,0,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0404,Computer,Female,2025,7.69,0,Yes,86,No,Yes,8.5,Startup,1,3. 7-8,4. 80-89,0
+S0405,Electrical,Female,2022,6.98,0,No,82,No,Yes,4.2,Startup,1,2. 6-7,4. 80-89,0
+S0406,Electrical,Male,2025,6.57,0,Yes,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0407,IT,Male,2023,7.82,0,Yes,84,No,Yes,4.8,IT,1,3. 7-8,4. 80-89,0
+S0408,Electrical,Male,2022,6.65,0,No,56,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0409,Computer,Male,2022,7.75,0,Yes,92,No,Yes,9.1,Startup,1,3. 7-8,5. 90+,0
+S0410,Electrical,Male,2023,7.18,0,No,74,No,Yes,5.4,Core,1,3. 7-8,3. 70-79,0
+S0411,Mechanical,Male,2023,6.83,0,No,86,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0412,Mechanical,Female,2023,6.8,0,No,56,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0413,Computer,Female,2023,6.94,0,Yes,78,No,Yes,8.8,Startup,1,2. 6-7,3. 70-79,0
+S0414,Electrical,Male,2023,5.67,0,No,66,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S0415,Computer,Female,2024,7.74,0,No,83,No,Yes,13.6,IT,1,3. 7-8,4. 80-89,0
+S0416,IT,Female,2025,7.56,0,Yes,80,No,Yes,5.9,Startup,1,3. 7-8,4. 80-89,0
+S0417,Computer,Female,2023,8.16,0,No,82,No,Yes,7,IT,1,4. 8+,4. 80-89,0
+S0418,Civil,Male,2022,6.57,0,No,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0419,IT,Male,2025,9.06,0,Yes,81,Yes,Yes,8.7,Startup,1,4. 8+,4. 80-89,0
+S0420,Electrical,Male,2023,6.81,1,No,73,No,Yes,4.9,Other,1,2. 6-7,3. 70-79,1
+S0421,Mechanical,Male,2025,6.31,0,Yes,78,No,Yes,2.7,Other,1,2. 6-7,3. 70-79,0
+S0422,Computer,Male,2025,6.51,1,Yes,83,No,Yes,10,Startup,1,2. 6-7,4. 80-89,1
+S0423,Computer,Female,2023,5.84,0,Yes,73,No,Yes,8.7,IT,1,1. Below 6,3. 70-79,0
+S0424,Computer,Male,2023,8.78,0,Yes,69,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S0425,Mechanical,Female,2022,8.33,0,Yes,80,No,Yes,2.8,Core,1,4. 8+,4. 80-89,0
+S0426,Civil,Male,2023,7.59,0,No,99,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0427,IT,Female,2023,6.54,0,Yes,89,No,Yes,7.1,IT,1,2. 6-7,4. 80-89,0
+S0428,Electrical,Male,2024,8.78,0,No,54,Yes,Yes,4,IT,1,4. 8+,1. Below 60,0
+S0429,Computer,Female,2022,7.08,0,Yes,76,No,Yes,7.6,Startup,1,3. 7-8,3. 70-79,0
+S0430,Civil,Male,2024,6.81,0,Yes,83,No,Yes,2.9,Startup,1,2. 6-7,4. 80-89,0
+S0431,Electrical,Male,2025,8.44,0,Yes,78,No,Yes,6,Core,1,4. 8+,3. 70-79,0
+S0432,Civil,Male,2022,7.64,1,No,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S0433,Civil,Male,2025,9.03,0,No,79,Yes,Yes,7,Core,1,4. 8+,3. 70-79,0
+S0434,Electrical,Male,2023,7.37,0,No,81,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0435,Computer,Female,2023,7.04,0,Yes,65,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0436,IT,Male,2022,6.8,2,No,85,No,Yes,7.5,Startup,1,2. 6-7,4. 80-89,2
+S0437,Computer,Male,2025,5.74,4,No,71,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S0438,E&TC,Female,2023,6.95,0,No,67,No,Yes,2.8,Core,1,2. 6-7,2. 60-69,0
+S0439,Civil,Male,2024,8.08,0,Yes,89,No,Yes,4.8,Core,1,4. 8+,4. 80-89,0
+S0440,Mechanical,Male,2025,7.64,0,No,63,No,Yes,4.3,Core,1,3. 7-8,2. 60-69,0
+S0441,Electrical,Male,2023,7.17,0,Yes,71,No,Yes,3.7,IT,1,3. 7-8,3. 70-79,0
+S0442,Computer,Male,2023,6.5,1,No,69,No,Yes,8.6,Startup,1,2. 6-7,2. 60-69,1
+S0443,Civil,Male,2025,7.25,0,No,95,No,Yes,5.1,Core,1,3. 7-8,5. 90+,0
+S0444,IT,Female,2024,8.26,0,Yes,73,No,Yes,6.7,IT,1,4. 8+,3. 70-79,0
+S0445,IT,Male,2025,7.74,0,Yes,58,No,Yes,4.9,IT,1,3. 7-8,1. Below 60,0
+S0446,Civil,Male,2023,7.2,0,No,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0447,Electrical,Male,2022,6.43,0,Yes,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0448,Mechanical,Male,2024,7.88,0,No,85,No,Yes,2.6,Core,1,3. 7-8,4. 80-89,0
+S0449,Computer,Female,2025,5,1,No,90,No,Yes,6,IT,1,1. Below 6,5. 90+,1
+S0450,Mechanical,Male,2022,7.44,0,No,89,No,Yes,4.3,IT,1,3. 7-8,4. 80-89,0
+S0451,Computer,Female,2023,9.71,0,Yes,85,No,Yes,8.5,Startup,1,4. 8+,4. 80-89,0
+S0452,Electrical,Male,2022,5.79,1,No,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0453,Civil,Male,2025,6.83,0,No,90,No,No,0,Not Placed,0,2. 6-7,5. 90+,0
+S0454,Computer,Male,2025,7.39,0,Yes,73,No,Yes,7.3,Startup,1,3. 7-8,3. 70-79,0
+S0455,Computer,Male,2025,6.98,0,Yes,69,Yes,Yes,10.1,IT,1,2. 6-7,2. 60-69,0
+S0456,IT,Male,2025,8.28,0,Yes,75,No,Yes,9.2,IT,1,4. 8+,3. 70-79,0
+S0457,Electrical,Male,2023,7.58,0,No,66,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0458,E&TC,Male,2022,7.34,0,No,72,No,Yes,5.6,Startup,1,3. 7-8,3. 70-79,0
+S0459,Civil,Male,2023,7.77,0,Yes,76,No,Yes,5.5,IT,1,3. 7-8,3. 70-79,0
+S0460,Mechanical,Male,2025,7.12,0,No,82,No,Yes,3.7,Core,1,3. 7-8,4. 80-89,0
+S0461,Mechanical,Male,2024,9.9,0,Yes,81,No,Yes,4,Core,1,4. 8+,4. 80-89,0
+S0462,Computer,Male,2023,7.54,0,Yes,66,No,Yes,7.7,IT,1,3. 7-8,2. 60-69,0
+S0463,Electrical,Male,2022,7.33,0,No,62,No,Yes,4,Other,1,3. 7-8,2. 60-69,0
+S0464,IT,Female,2023,5.81,0,Yes,74,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0465,Mechanical,Male,2023,6.61,0,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0466,Civil,Male,2023,8.08,0,No,74,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0467,Mechanical,Male,2025,5.9,1,Yes,68,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0468,Electrical,Male,2022,5.21,1,Yes,74,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0469,Computer,Male,2022,7.43,0,Yes,89,No,Yes,5,IT,1,3. 7-8,4. 80-89,0
+S0470,E&TC,Male,2023,8.43,0,Yes,73,No,Yes,5.2,Other,1,4. 8+,3. 70-79,0
+S0471,E&TC,Female,2022,7.24,0,No,77,No,Yes,7.2,Other,1,3. 7-8,3. 70-79,0
+S0472,E&TC,Male,2023,6.9,0,No,84,No,Yes,6.5,Other,1,2. 6-7,4. 80-89,0
+S0473,Computer,Female,2024,5.73,1,Yes,65,No,Yes,9.4,Startup,1,1. Below 6,2. 60-69,1
+S0474,Computer,Male,2023,7.81,0,Yes,78,No,Yes,9.3,Startup,1,3. 7-8,3. 70-79,0
+S0475,IT,Female,2024,7.95,0,Yes,78,No,Yes,11.9,IT,1,3. 7-8,3. 70-79,0
+S0476,IT,Male,2023,5.75,2,Yes,60,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S0477,E&TC,Female,2024,8.22,0,No,81,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0478,Mechanical,Male,2025,7.79,0,No,78,Yes,Yes,3.4,Other,1,3. 7-8,3. 70-79,0
+S0479,Mechanical,Male,2023,8.12,1,Yes,84,No,Yes,3.8,Core,1,4. 8+,4. 80-89,1
+S0480,E&TC,Male,2022,7.73,0,No,67,No,Yes,7.4,Startup,1,3. 7-8,2. 60-69,0
+S0481,E&TC,Male,2023,7.79,0,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0482,IT,Female,2022,7.82,0,Yes,90,No,Yes,7.9,Core,1,3. 7-8,5. 90+,0
+S0483,Mechanical,Male,2023,7.88,0,No,97,No,Yes,3.8,Core,1,3. 7-8,5. 90+,0
+S0484,IT,Female,2022,5.71,1,No,83,No,Yes,7.6,IT,1,1. Below 6,4. 80-89,1
+S0485,Computer,Female,2024,6.05,0,Yes,62,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0486,E&TC,Male,2023,6.54,1,Yes,78,No,Yes,4.9,IT,1,2. 6-7,3. 70-79,1
+S0487,E&TC,Male,2023,7.08,0,No,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0488,IT,Female,2023,7.7,0,No,80,No,Yes,5.7,IT,1,3. 7-8,4. 80-89,0
+S0489,Mechanical,Male,2025,7.39,0,No,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0490,Mechanical,Female,2024,8.11,0,No,63,No,Yes,3.6,Core,1,4. 8+,2. 60-69,0
+S0491,Civil,Male,2024,8.08,0,No,76,No,Yes,4.5,Core,1,4. 8+,3. 70-79,0
+S0492,Mechanical,Male,2023,6.31,1,No,80,No,Yes,4.5,Core,1,2. 6-7,4. 80-89,1
+S0493,Mechanical,Male,2023,7.31,0,Yes,79,No,Yes,7.4,Core,1,3. 7-8,3. 70-79,0
+S0494,IT,Male,2025,6.59,1,Yes,78,No,Yes,6.8,IT,1,2. 6-7,3. 70-79,1
+S0495,Civil,Male,2025,6.88,1,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0496,Mechanical,Male,2022,7.39,0,No,80,No,Yes,4.1,Core,1,3. 7-8,4. 80-89,0
+S0497,E&TC,Female,2022,5,3,No,74,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S0498,Mechanical,Male,2025,9.27,0,Yes,80,No,Yes,7.9,Core,1,4. 8+,4. 80-89,0
+S0499,E&TC,Male,2024,7.71,0,Yes,78,No,Yes,7.7,Core,1,3. 7-8,3. 70-79,0
+S0500,Mechanical,Male,2025,6.56,2,No,90,No,No,0,Not Placed,0,2. 6-7,5. 90+,2
+S0501,Civil,Male,2024,8.78,0,Yes,82,Yes,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0502,Electrical,Female,2024,6.84,0,Yes,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0503,Electrical,Male,2022,7.27,0,No,77,No,Yes,4.9,IT,1,3. 7-8,3. 70-79,0
+S0504,E&TC,Male,2025,6.76,1,No,73,No,Yes,3.3,Other,1,2. 6-7,3. 70-79,1
+S0505,Mechanical,Male,2024,8.59,0,No,76,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0506,Civil,Male,2024,6.96,0,Yes,77,No,Yes,3.3,Core,1,2. 6-7,3. 70-79,0
+S0507,IT,Male,2022,7.48,0,Yes,72,No,Yes,5.8,IT,1,3. 7-8,3. 70-79,0
+S0508,Electrical,Male,2025,8.23,0,Yes,78,No,Yes,5.3,Core,1,4. 8+,3. 70-79,0
+S0509,E&TC,Male,2023,7.73,0,Yes,70,No,Yes,5,Other,1,3. 7-8,3. 70-79,0
+S0510,Computer,Female,2023,7.35,1,Yes,77,No,Yes,13.8,IT,1,3. 7-8,3. 70-79,1
+S0511,Computer,Female,2022,8.4,0,Yes,85,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0512,Electrical,Female,2025,9.43,0,No,81,Yes,Yes,3.3,Core,1,4. 8+,4. 80-89,0
+S0513,Computer,Male,2022,7.69,0,Yes,59,No,Yes,6.5,IT,1,3. 7-8,1. Below 60,0
+S0514,IT,Male,2022,7.46,0,Yes,82,No,Yes,8.3,IT,1,3. 7-8,4. 80-89,0
+S0515,IT,Male,2022,7.5,0,Yes,78,Yes,Yes,9,IT,1,3. 7-8,3. 70-79,0
+S0516,Computer,Female,2023,8.58,0,Yes,71,Yes,Yes,4.5,Other,1,4. 8+,3. 70-79,0
+S0517,IT,Male,2024,6.81,0,Yes,82,Yes,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0518,Civil,Male,2023,6.8,0,Yes,62,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0519,Computer,Male,2025,6.02,2,Yes,82,No,No,0,Not Placed,0,2. 6-7,4. 80-89,2
+S0520,Civil,Male,2023,5.98,1,Yes,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0521,Electrical,Male,2023,6.68,0,No,54,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0522,E&TC,Male,2022,7.15,0,Yes,77,Yes,Yes,3.5,Other,1,3. 7-8,3. 70-79,0
+S0523,Computer,Male,2025,8.99,0,Yes,78,Yes,Yes,8.8,IT,1,4. 8+,3. 70-79,0
+S0524,Mechanical,Male,2025,7.58,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0525,Computer,Female,2024,6.58,0,Yes,68,No,Yes,12.4,IT,1,2. 6-7,2. 60-69,0
+S0526,E&TC,Male,2023,6.54,1,No,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0527,Electrical,Male,2022,8.39,0,Yes,75,No,Yes,9,Core,1,4. 8+,3. 70-79,0
+S0528,Electrical,Male,2025,8.16,0,No,62,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S0529,Civil,Male,2024,7.08,0,Yes,87,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0530,IT,Male,2025,6.95,0,Yes,73,No,Yes,6.7,Other,1,2. 6-7,3. 70-79,0
+S0531,Civil,Male,2023,8.06,0,Yes,72,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0532,Civil,Male,2022,6.16,2,No,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S0533,E&TC,Male,2023,7.55,1,Yes,84,No,Yes,5.5,Other,1,3. 7-8,4. 80-89,1
+S0534,Mechanical,Male,2024,9.15,0,No,70,No,Yes,3.9,Core,1,4. 8+,3. 70-79,0
+S0535,Computer,Male,2025,7.58,0,No,78,No,Yes,9.8,IT,1,3. 7-8,3. 70-79,0
+S0536,IT,Female,2025,6.65,0,Yes,69,No,Yes,11.4,IT,1,2. 6-7,2. 60-69,0
+S0537,Mechanical,Male,2024,7.47,0,Yes,72,No,Yes,6.9,Startup,1,3. 7-8,3. 70-79,0
+S0538,Computer,Male,2024,6.98,0,Yes,65,No,Yes,8.6,IT,1,2. 6-7,2. 60-69,0
+S0539,Computer,Male,2023,6.15,0,No,67,No,Yes,6.1,IT,1,2. 6-7,2. 60-69,0
+S0540,Electrical,Female,2023,7.78,0,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0541,Electrical,Male,2023,8.16,0,No,81,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0542,Mechanical,Male,2025,6.82,0,Yes,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0543,Electrical,Male,2024,6.81,1,No,74,No,Yes,4.6,Core,1,2. 6-7,3. 70-79,1
+S0544,Electrical,Male,2023,6.28,0,Yes,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0545,Computer,Female,2025,7.27,0,Yes,61,No,Yes,12.9,IT,1,3. 7-8,2. 60-69,0
+S0546,E&TC,Male,2025,6.69,0,Yes,74,No,Yes,4.9,Other,1,2. 6-7,3. 70-79,0
+S0547,E&TC,Female,2022,6.29,0,No,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0548,Computer,Female,2022,9.1,0,No,72,No,Yes,5.3,IT,1,4. 8+,3. 70-79,0
+S0549,Civil,Male,2025,7.47,0,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0550,E&TC,Male,2025,7.72,0,Yes,73,No,Yes,5.3,IT,1,3. 7-8,3. 70-79,0
+S0551,E&TC,Female,2025,8,0,Yes,67,Yes,Yes,5.5,Startup,1,4. 8+,2. 60-69,0
+S0552,Computer,Female,2022,8.09,0,Yes,91,No,Yes,5.5,IT,1,4. 8+,5. 90+,0
+S0553,IT,Female,2023,6.98,0,Yes,84,No,Yes,8.1,Startup,1,2. 6-7,4. 80-89,0
+S0554,Electrical,Male,2023,7.4,0,Yes,59,No,Yes,5.8,Other,1,3. 7-8,1. Below 60,0
+S0555,Computer,Male,2024,7.16,0,Yes,63,No,Yes,14.7,IT,1,3. 7-8,2. 60-69,0
+S0556,IT,Female,2024,7.74,0,Yes,83,No,Yes,5.4,IT,1,3. 7-8,4. 80-89,0
+S0557,IT,Male,2024,7.66,0,No,75,No,Yes,8.9,IT,1,3. 7-8,3. 70-79,0
+S0558,E&TC,Female,2024,6.86,1,No,88,No,Yes,6.8,Startup,1,2. 6-7,4. 80-89,1
+S0559,Mechanical,Female,2023,5.9,1,Yes,78,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0560,E&TC,Male,2022,7.33,0,No,79,No,Yes,6.1,Other,1,3. 7-8,3. 70-79,0
+S0561,Computer,Female,2024,7.22,0,Yes,67,Yes,Yes,6.6,IT,1,3. 7-8,2. 60-69,0
+S0562,IT,Male,2024,5.65,0,No,76,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0563,Electrical,Male,2025,7.61,0,Yes,66,No,Yes,3.8,Startup,1,3. 7-8,2. 60-69,0
+S0564,Mechanical,Male,2023,7.97,0,Yes,90,No,Yes,5.1,Startup,1,3. 7-8,5. 90+,0
+S0565,Mechanical,Male,2024,9.38,0,Yes,86,Yes,Yes,5.5,Other,1,4. 8+,4. 80-89,0
+S0566,Mechanical,Female,2024,6.75,0,Yes,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0567,Civil,Male,2024,6.57,0,Yes,81,No,Yes,3.5,Core,1,2. 6-7,4. 80-89,0
+S0568,Computer,Male,2022,6.4,0,Yes,94,No,Yes,12,IT,1,2. 6-7,5. 90+,0
+S0569,E&TC,Male,2024,7.39,0,No,75,No,Yes,4.7,Startup,1,3. 7-8,3. 70-79,0
+S0570,Mechanical,Male,2025,7.28,0,No,81,No,Yes,2.6,Startup,1,3. 7-8,4. 80-89,0
+S0571,IT,Female,2024,6.62,0,Yes,70,No,Yes,7,Startup,1,2. 6-7,3. 70-79,0
+S0572,Electrical,Male,2024,6.99,0,Yes,76,No,Yes,5.7,Other,1,2. 6-7,3. 70-79,0
+S0573,E&TC,Female,2025,5.42,1,No,57,No,Yes,5.3,Core,1,1. Below 6,1. Below 60,1
+S0574,Civil,Male,2023,7.88,0,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0575,Electrical,Male,2023,6.46,0,Yes,74,No,Yes,5.3,Startup,1,2. 6-7,3. 70-79,0
+S0576,E&TC,Female,2022,7.17,0,No,92,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0577,Electrical,Female,2024,5.87,4,No,56,No,No,0,Not Placed,0,1. Below 6,1. Below 60,3+
+S0578,Mechanical,Male,2025,6.58,0,Yes,72,No,Yes,7.1,Core,1,2. 6-7,3. 70-79,0
+S0579,Electrical,Female,2022,6.9,0,No,87,No,Yes,3.3,Core,1,2. 6-7,4. 80-89,0
+S0580,E&TC,Male,2023,7.19,0,No,74,No,Yes,4.7,IT,1,3. 7-8,3. 70-79,0
+S0581,E&TC,Female,2025,7.63,0,Yes,76,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0582,Mechanical,Male,2023,8.4,0,No,72,No,Yes,7.3,Core,1,4. 8+,3. 70-79,0
+S0583,Computer,Female,2023,8.06,0,Yes,70,No,Yes,5.2,IT,1,4. 8+,3. 70-79,0
+S0584,E&TC,Male,2024,8.07,0,Yes,62,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S0585,Electrical,Male,2024,8.45,0,No,74,No,Yes,4.9,Core,1,4. 8+,3. 70-79,0
+S0586,Mechanical,Female,2024,7.61,0,No,68,No,Yes,6.4,Other,1,3. 7-8,2. 60-69,0
+S0587,Computer,Female,2024,7.37,0,Yes,78,No,Yes,12.4,IT,1,3. 7-8,3. 70-79,0
+S0588,IT,Female,2024,8.26,0,Yes,72,Yes,Yes,9.7,IT,1,4. 8+,3. 70-79,0
+S0589,IT,Female,2023,8.32,0,No,75,No,Yes,9,IT,1,4. 8+,3. 70-79,0
+S0590,Computer,Male,2024,7.98,0,Yes,74,No,Yes,6.8,IT,1,3. 7-8,3. 70-79,0
+S0591,Electrical,Male,2023,5.84,2,No,71,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S0592,E&TC,Female,2023,6.44,0,No,69,No,Yes,7.4,IT,1,2. 6-7,2. 60-69,0
+S0593,IT,Male,2024,7.1,0,Yes,66,Yes,Yes,5.4,IT,1,3. 7-8,2. 60-69,0
+S0594,Mechanical,Male,2022,7.8,0,No,79,No,Yes,3.3,Other,1,3. 7-8,3. 70-79,0
+S0595,Computer,Female,2025,7.38,0,Yes,86,Yes,Yes,9.8,IT,1,3. 7-8,4. 80-89,0
+S0596,IT,Female,2023,8.37,0,No,81,No,Yes,6.5,Startup,1,4. 8+,4. 80-89,0
+S0597,Civil,Female,2024,8.23,0,Yes,74,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0598,Mechanical,Male,2022,8.18,0,Yes,78,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0599,Electrical,Male,2022,8.23,0,Yes,61,No,Yes,5.6,Startup,1,4. 8+,2. 60-69,0
+S0600,Mechanical,Male,2024,6.17,1,No,72,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0601,E&TC,Male,2023,7.63,0,No,74,No,Yes,6.1,IT,1,3. 7-8,3. 70-79,0
+S0602,Civil,Male,2023,6.5,1,No,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S0603,Electrical,Male,2023,5.67,1,No,65,No,Yes,7.1,Core,1,1. Below 6,2. 60-69,1
+S0604,Civil,Female,2023,6.79,0,Yes,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0605,Electrical,Male,2024,8.34,0,Yes,88,No,Yes,6,Core,1,4. 8+,4. 80-89,0
+S0606,Civil,Male,2024,7.46,0,No,87,No,Yes,3.4,Core,1,3. 7-8,4. 80-89,0
+S0607,Electrical,Female,2023,8.97,0,Yes,73,No,Yes,6.6,Other,1,4. 8+,3. 70-79,0
+S0608,Computer,Female,2025,7.56,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0609,Civil,Male,2022,9.25,0,Yes,78,No,Yes,3.7,Core,1,4. 8+,3. 70-79,0
+S0610,E&TC,Female,2022,7.36,0,Yes,84,No,Yes,7.4,Core,1,3. 7-8,4. 80-89,0
+S0611,Mechanical,Male,2022,7.12,0,No,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0612,Mechanical,Male,2025,5.95,0,Yes,73,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0613,Electrical,Male,2023,8.15,0,Yes,84,No,Yes,5.3,Core,1,4. 8+,4. 80-89,0
+S0614,Electrical,Male,2022,6.7,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0615,IT,Female,2023,6.77,0,Yes,87,No,Yes,8.4,IT,1,2. 6-7,4. 80-89,0
+S0616,Civil,Male,2023,8.2,0,No,79,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0617,Civil,Female,2025,8.09,0,No,71,No,Yes,2.5,Other,1,4. 8+,3. 70-79,0
+S0618,E&TC,Male,2022,8.22,0,No,77,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0619,Computer,Female,2023,7.07,0,Yes,87,No,Yes,4.6,IT,1,3. 7-8,4. 80-89,0
+S0620,Computer,Female,2024,7.35,0,Yes,73,No,Yes,5.8,Startup,1,3. 7-8,3. 70-79,0
+S0621,Civil,Male,2025,7,0,No,84,Yes,Yes,6.4,Core,1,3. 7-8,4. 80-89,0
+S0622,E&TC,Female,2023,7.9,0,Yes,72,No,Yes,4.3,IT,1,3. 7-8,3. 70-79,0
+S0623,Electrical,Female,2024,8.55,0,No,73,Yes,Yes,6.1,Core,1,4. 8+,3. 70-79,0
+S0624,E&TC,Male,2023,7.53,0,No,83,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0625,Electrical,Female,2024,8.93,0,Yes,73,Yes,Yes,4.6,Other,1,4. 8+,3. 70-79,0
+S0626,E&TC,Male,2025,8.01,0,Yes,86,No,Yes,5.5,IT,1,4. 8+,4. 80-89,0
+S0627,Civil,Male,2025,6.84,0,No,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0628,Computer,Female,2024,8.15,0,Yes,71,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0629,Mechanical,Male,2022,8.64,0,Yes,80,Yes,Yes,5.1,Startup,1,4. 8+,4. 80-89,0
+S0630,Civil,Female,2024,8.85,0,No,76,No,Yes,6.8,Core,1,4. 8+,3. 70-79,0
+S0631,Electrical,Male,2023,8.22,0,Yes,82,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0632,Civil,Male,2025,7.07,0,Yes,93,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0633,Computer,Female,2024,7.2,0,Yes,73,No,Yes,10.3,IT,1,3. 7-8,3. 70-79,0
+S0634,E&TC,Female,2025,7.72,0,No,82,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0635,Computer,Male,2024,8.91,0,Yes,81,No,Yes,10.5,IT,1,4. 8+,4. 80-89,0
+S0636,Computer,Male,2025,7.79,0,No,78,No,Yes,12,IT,1,3. 7-8,3. 70-79,0
+S0637,Mechanical,Male,2022,7.51,0,No,75,No,Yes,3.8,Core,1,3. 7-8,3. 70-79,0
+S0638,Civil,Male,2023,7.1,0,No,68,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0639,Civil,Male,2023,6.75,0,Yes,78,No,Yes,5.6,Core,1,2. 6-7,3. 70-79,0
+S0640,Electrical,Male,2024,7,0,No,73,No,Yes,5.9,Other,1,3. 7-8,3. 70-79,0
+S0641,Civil,Male,2024,7.17,0,Yes,68,No,Yes,5.4,Core,1,3. 7-8,2. 60-69,0
+S0642,Civil,Male,2025,8.6,0,No,89,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0643,Computer,Female,2023,7.18,0,Yes,77,No,Yes,8.3,IT,1,3. 7-8,3. 70-79,0
+S0644,IT,Male,2023,7.4,0,Yes,75,No,Yes,6.8,IT,1,3. 7-8,3. 70-79,0
+S0645,Mechanical,Male,2025,6.32,0,No,85,No,Yes,3.3,Core,1,2. 6-7,4. 80-89,0
+S0646,Electrical,Female,2023,7.79,0,No,61,No,Yes,3.8,Core,1,3. 7-8,2. 60-69,0
+S0647,Computer,Female,2024,8.63,0,No,92,No,Yes,6.7,IT,1,4. 8+,5. 90+,0
+S0648,Mechanical,Male,2023,8.56,0,Yes,72,No,Yes,5.7,Core,1,4. 8+,3. 70-79,0
+S0649,Mechanical,Male,2023,7.28,0,No,78,No,Yes,4.2,Core,1,3. 7-8,3. 70-79,0
+S0650,Computer,Female,2025,7.92,0,Yes,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0651,E&TC,Male,2022,7.06,0,No,67,No,Yes,5.9,Core,1,3. 7-8,2. 60-69,0
+S0652,Electrical,Male,2024,7.63,0,No,89,No,Yes,5.4,Other,1,3. 7-8,4. 80-89,0
+S0653,Mechanical,Male,2023,7.38,0,Yes,93,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0654,IT,Female,2025,7.4,0,Yes,75,Yes,Yes,5.7,Startup,1,3. 7-8,3. 70-79,0
+S0655,Electrical,Male,2025,7.27,0,No,79,No,Yes,3.4,Core,1,3. 7-8,3. 70-79,0
+S0656,E&TC,Male,2025,7.61,0,No,78,No,Yes,5,Startup,1,3. 7-8,3. 70-79,0
+S0657,Electrical,Male,2025,6.89,1,Yes,91,No,Yes,4,Core,1,2. 6-7,5. 90+,1
+S0658,IT,Female,2024,7.13,0,Yes,57,No,Yes,5.9,Startup,1,3. 7-8,1. Below 60,0
+S0659,Mechanical,Male,2024,8.64,0,No,84,Yes,Yes,7.7,IT,1,4. 8+,4. 80-89,0
+S0660,E&TC,Male,2022,9.64,0,Yes,77,Yes,Yes,4.1,IT,1,4. 8+,3. 70-79,0
+S0661,IT,Male,2025,6.27,0,No,52,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0662,Electrical,Male,2025,6.02,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0663,IT,Male,2024,6.49,0,Yes,91,No,Yes,13,Core,1,2. 6-7,5. 90+,0
+S0664,Computer,Male,2023,7.31,0,No,70,No,Yes,8.8,IT,1,3. 7-8,3. 70-79,0
+S0665,E&TC,Male,2022,8.01,0,Yes,86,No,Yes,7.8,Startup,1,4. 8+,4. 80-89,0
+S0666,Civil,Male,2023,7.58,0,No,88,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0667,Civil,Male,2024,7.2,0,No,76,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0668,Electrical,Male,2025,7.63,0,No,78,No,Yes,6.1,Core,1,3. 7-8,3. 70-79,0
+S0669,IT,Male,2023,6.73,0,Yes,59,No,Yes,8.9,IT,1,2. 6-7,1. Below 60,0
+S0670,E&TC,Male,2022,6.98,0,Yes,69,No,Yes,8.9,Core,1,2. 6-7,2. 60-69,0
+S0671,Computer,Male,2024,7.38,0,No,85,No,Yes,6,IT,1,3. 7-8,4. 80-89,0
+S0672,Mechanical,Male,2024,5.67,2,No,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S0673,Electrical,Male,2022,6.1,0,No,76,No,Yes,4.2,Startup,1,2. 6-7,3. 70-79,0
+S0674,Civil,Female,2024,6.04,5,No,74,No,Yes,2.9,Other,1,2. 6-7,3. 70-79,3+
+S0675,Mechanical,Male,2022,7.79,0,Yes,97,Yes,Yes,3.1,Core,1,3. 7-8,5. 90+,0
+S0676,E&TC,Female,2024,7.42,0,Yes,73,No,Yes,4.8,Startup,1,3. 7-8,3. 70-79,0
+S0677,Electrical,Male,2025,7.7,0,No,92,No,Yes,8,Core,1,3. 7-8,5. 90+,0
+S0678,E&TC,Female,2022,5.54,0,No,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0679,Computer,Male,2025,6.06,2,Yes,88,No,Yes,7.8,IT,1,2. 6-7,4. 80-89,2
+S0680,E&TC,Male,2022,7.8,0,Yes,67,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0681,Computer,Female,2022,5,3,Yes,71,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S0682,IT,Female,2025,8.45,0,Yes,76,No,Yes,14.1,Core,1,4. 8+,3. 70-79,0
+S0683,Computer,Male,2022,5.76,1,No,73,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0684,E&TC,Male,2025,7.96,0,No,89,No,Yes,9.8,IT,1,3. 7-8,4. 80-89,0
+S0685,Mechanical,Male,2025,6.3,0,Yes,77,No,Yes,10.6,Core,1,2. 6-7,3. 70-79,0
+S0686,E&TC,Female,2023,8.14,0,Yes,90,No,Yes,10.1,IT,1,4. 8+,5. 90+,0
+S0687,E&TC,Male,2025,9.9,0,Yes,78,No,Yes,12.4,Startup,1,4. 8+,3. 70-79,0
+S0688,Electrical,Male,2023,5.1,2,No,62,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S0689,Civil,Male,2024,7.68,0,No,78,No,Yes,4.4,Other,1,3. 7-8,3. 70-79,0
+S0690,Mechanical,Male,2023,5.47,2,No,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S0691,IT,Male,2024,7.73,0,No,76,No,Yes,7.7,Other,1,3. 7-8,3. 70-79,0
+S0692,Electrical,Male,2022,6.96,0,No,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0693,IT,Female,2024,7.47,0,Yes,88,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0694,IT,Male,2024,6.53,0,Yes,71,No,Yes,8,IT,1,2. 6-7,3. 70-79,0
+S0695,Electrical,Male,2024,7.85,1,Yes,91,No,Yes,5.2,Core,1,3. 7-8,5. 90+,1
+S0696,Mechanical,Male,2023,5.8,1,No,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0697,Civil,Male,2025,8.17,0,No,85,No,Yes,4.3,Other,1,4. 8+,4. 80-89,0
+S0698,Mechanical,Male,2025,6.73,0,No,80,No,Yes,5.4,Core,1,2. 6-7,4. 80-89,0
+S0699,Mechanical,Male,2022,5.84,1,No,65,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0700,IT,Female,2025,8.79,0,Yes,84,No,Yes,7.2,IT,1,4. 8+,4. 80-89,0
+S0701,IT,Female,2022,7.29,0,Yes,94,No,Yes,5.2,IT,1,3. 7-8,5. 90+,0
+S0702,IT,Female,2022,9.07,0,Yes,84,Yes,Yes,9.2,IT,1,4. 8+,4. 80-89,0
+S0703,Computer,Male,2024,8.5,0,Yes,88,No,Yes,7.7,Core,1,4. 8+,4. 80-89,0
+S0704,Electrical,Male,2025,6.43,2,No,80,No,Yes,3.8,Core,1,2. 6-7,4. 80-89,2
+S0705,IT,Female,2024,7.27,1,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S0706,Mechanical,Male,2024,7.21,0,No,78,No,Yes,4.3,IT,1,3. 7-8,3. 70-79,0
+S0707,Civil,Male,2023,8.42,0,Yes,85,No,Yes,4.1,Startup,1,4. 8+,4. 80-89,0
+S0708,Civil,Male,2022,7.44,0,Yes,84,Yes,Yes,5.9,Core,1,3. 7-8,4. 80-89,0
+S0709,E&TC,Male,2023,7.36,0,No,64,No,Yes,5.1,IT,1,3. 7-8,2. 60-69,0
+S0710,E&TC,Male,2023,7.02,0,Yes,78,Yes,Yes,7.8,IT,1,3. 7-8,3. 70-79,0
+S0711,Electrical,Male,2023,7.1,0,No,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0712,Mechanical,Male,2024,8.27,0,Yes,76,No,Yes,5.4,Other,1,4. 8+,3. 70-79,0
+S0713,Civil,Male,2024,7.05,1,Yes,87,No,Yes,4.1,Core,1,3. 7-8,4. 80-89,1
+S0714,Electrical,Male,2024,6.79,0,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0715,Civil,Male,2024,6.54,0,No,61,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0716,IT,Male,2024,6.85,1,No,82,No,Yes,7.3,IT,1,2. 6-7,4. 80-89,1
+S0717,Mechanical,Female,2023,5.84,0,No,59,No,No,0,Not Placed,0,1. Below 6,1. Below 60,0
+S0718,Computer,Male,2023,6.72,0,Yes,57,No,Yes,5.9,IT,1,2. 6-7,1. Below 60,0
+S0719,Mechanical,Male,2022,8.45,0,No,88,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S0720,Electrical,Male,2024,6.96,0,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0721,Mechanical,Male,2025,7.73,0,No,82,No,Yes,5,Other,1,3. 7-8,4. 80-89,0
+S0722,E&TC,Female,2022,5,1,No,65,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0723,Computer,Male,2025,7.91,0,Yes,66,No,Yes,11.5,IT,1,3. 7-8,2. 60-69,0
+S0724,Electrical,Male,2025,7,0,Yes,65,No,Yes,6.6,Core,1,3. 7-8,2. 60-69,0
+S0725,Computer,Male,2022,6.97,0,No,73,No,Yes,5.5,IT,1,2. 6-7,3. 70-79,0
+S0726,Computer,Male,2024,7.56,0,Yes,66,No,Yes,5.8,Startup,1,3. 7-8,2. 60-69,0
+S0727,IT,Female,2023,6.9,0,Yes,78,No,Yes,6.5,IT,1,2. 6-7,3. 70-79,0
+S0728,Computer,Male,2022,5.49,0,Yes,67,No,Yes,11.8,IT,1,1. Below 6,2. 60-69,0
+S0729,E&TC,Male,2025,8.03,0,No,80,No,Yes,5.8,IT,1,4. 8+,4. 80-89,0
+S0730,Mechanical,Male,2024,7.32,0,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0731,IT,Male,2023,7.07,0,Yes,79,No,Yes,6.1,Startup,1,3. 7-8,3. 70-79,0
+S0732,Computer,Male,2024,6.53,0,Yes,78,No,Yes,5.6,IT,1,2. 6-7,3. 70-79,0
+S0733,Computer,Male,2022,6.08,1,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0734,E&TC,Male,2025,7.4,0,No,78,No,Yes,4.4,Core,1,3. 7-8,3. 70-79,0
+S0735,Computer,Female,2025,8.85,0,Yes,83,Yes,Yes,7.6,IT,1,4. 8+,4. 80-89,0
+S0736,Civil,Male,2024,7.23,0,Yes,54,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S0737,IT,Female,2024,6.11,0,No,79,No,Yes,8.7,Startup,1,2. 6-7,3. 70-79,0
+S0738,IT,Male,2025,7.55,1,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S0739,E&TC,Male,2024,7.15,0,No,81,No,Yes,7,IT,1,3. 7-8,4. 80-89,0
+S0740,E&TC,Male,2023,7.98,0,No,67,No,Yes,4.1,Startup,1,3. 7-8,2. 60-69,0
+S0741,Computer,Male,2022,7.95,0,Yes,75,No,Yes,11.2,IT,1,3. 7-8,3. 70-79,0
+S0742,Computer,Male,2024,5,1,Yes,60,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0743,Electrical,Male,2022,7.64,0,Yes,84,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0744,Computer,Male,2023,6.5,1,No,61,No,Yes,9.4,Other,1,2. 6-7,2. 60-69,1
+S0745,E&TC,Male,2024,5.92,0,Yes,64,No,Yes,3.8,Core,1,1. Below 6,2. 60-69,0
+S0746,E&TC,Male,2023,7.03,0,Yes,80,No,Yes,5.5,Core,1,3. 7-8,4. 80-89,0
+S0747,IT,Female,2025,7.72,0,No,72,Yes,Yes,8,IT,1,3. 7-8,3. 70-79,0
+S0748,E&TC,Male,2022,5.72,0,No,63,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S0749,Civil,Male,2022,7.68,0,No,86,Yes,Yes,4.2,Core,1,3. 7-8,4. 80-89,0
+S0750,Electrical,Male,2023,7.84,0,Yes,86,No,Yes,3.2,Startup,1,3. 7-8,4. 80-89,0
+S0751,IT,Male,2022,7.39,0,Yes,83,No,Yes,8,IT,1,3. 7-8,4. 80-89,0
+S0752,IT,Female,2023,6.57,0,Yes,82,No,Yes,8.8,Startup,1,2. 6-7,4. 80-89,0
+S0753,IT,Male,2022,6.47,1,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0754,E&TC,Female,2025,8.12,0,No,77,No,Yes,8.5,Core,1,4. 8+,3. 70-79,0
+S0755,Civil,Male,2023,5.69,1,No,66,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0756,IT,Male,2024,8.31,0,Yes,81,No,Yes,6.7,IT,1,4. 8+,4. 80-89,0
+S0757,IT,Female,2022,7.2,0,Yes,71,No,Yes,6.6,Startup,1,3. 7-8,3. 70-79,0
+S0758,Electrical,Female,2022,7.06,0,No,72,No,Yes,4.4,Core,1,3. 7-8,3. 70-79,0
+S0759,Computer,Male,2025,5.86,1,No,77,Yes,Yes,8.2,Startup,1,1. Below 6,3. 70-79,1
+S0760,E&TC,Male,2023,7.07,0,No,86,No,Yes,5.4,Core,1,3. 7-8,4. 80-89,0
+S0761,Civil,Male,2022,7.6,0,Yes,81,No,Yes,5.1,Core,1,3. 7-8,4. 80-89,0
+S0762,Computer,Female,2025,6.2,1,Yes,89,Yes,Yes,6.1,Startup,1,2. 6-7,4. 80-89,1
+S0763,Computer,Male,2022,7.85,0,Yes,72,No,Yes,10.1,IT,1,3. 7-8,3. 70-79,0
+S0764,Computer,Male,2022,7.48,0,Yes,60,No,Yes,7.2,IT,1,3. 7-8,2. 60-69,0
+S0765,Electrical,Male,2023,6.57,0,Yes,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0766,Computer,Male,2022,8.17,0,Yes,72,No,Yes,8.8,IT,1,4. 8+,3. 70-79,0
+S0767,IT,Female,2022,5.37,1,Yes,68,No,Yes,11.2,IT,1,1. Below 6,2. 60-69,1
+S0768,Computer,Male,2023,7.71,0,No,62,No,Yes,5.6,IT,1,3. 7-8,2. 60-69,0
+S0769,Computer,Female,2022,8.86,0,Yes,73,No,Yes,8.7,IT,1,4. 8+,3. 70-79,0
+S0770,Mechanical,Male,2025,8.4,0,No,66,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S0771,IT,Female,2023,7.7,0,No,74,No,Yes,5.1,IT,1,3. 7-8,3. 70-79,0
+S0772,Mechanical,Male,2022,6.83,0,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0773,Mechanical,Male,2023,6.53,1,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0774,Electrical,Male,2024,6.88,0,No,86,No,Yes,4.8,Core,1,2. 6-7,4. 80-89,0
+S0775,Computer,Female,2025,7.89,0,Yes,84,No,Yes,12.1,IT,1,3. 7-8,4. 80-89,0
+S0776,Electrical,Male,2025,6.42,0,No,59,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0777,Mechanical,Male,2025,7.78,0,No,83,No,Yes,4.8,Core,1,3. 7-8,4. 80-89,0
+S0778,Computer,Female,2025,9.32,0,Yes,83,No,Yes,9.3,IT,1,4. 8+,4. 80-89,0
+S0779,Civil,Male,2024,6.99,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0780,Electrical,Male,2022,5.94,3,No,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S0781,IT,Male,2024,6.14,2,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0782,Electrical,Male,2023,7.85,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0783,E&TC,Male,2023,7.15,0,No,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0784,Mechanical,Male,2024,7.89,0,No,89,No,Yes,6.7,Other,1,3. 7-8,4. 80-89,0
+S0785,Electrical,Male,2023,6.67,1,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S0786,E&TC,Male,2023,7.95,0,No,69,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0787,Civil,Male,2024,6.91,0,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0788,IT,Male,2023,6.69,0,Yes,64,No,Yes,8.2,Startup,1,2. 6-7,2. 60-69,0
+S0789,Civil,Male,2024,6.69,0,Yes,59,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0790,Mechanical,Male,2025,6.02,0,Yes,69,No,Yes,5.7,Core,1,2. 6-7,2. 60-69,0
+S0791,IT,Male,2025,9.14,0,Yes,95,Yes,Yes,10.2,IT,1,4. 8+,5. 90+,0
+S0792,E&TC,Male,2024,7.11,0,Yes,75,No,Yes,2.5,IT,1,3. 7-8,3. 70-79,0
+S0793,IT,Female,2025,7.93,0,Yes,80,No,Yes,7.7,IT,1,3. 7-8,4. 80-89,0
+S0794,Computer,Male,2023,6.92,0,Yes,56,No,Yes,6.4,IT,1,2. 6-7,1. Below 60,0
+S0795,Computer,Male,2023,6.45,0,No,78,No,Yes,6.2,Other,1,2. 6-7,3. 70-79,0
+S0796,E&TC,Male,2024,6.99,0,No,76,No,Yes,7.9,Startup,1,2. 6-7,3. 70-79,0
+S0797,Computer,Male,2024,8.39,0,Yes,74,No,Yes,8.3,IT,1,4. 8+,3. 70-79,0
+S0798,Computer,Female,2025,6.93,0,Yes,77,No,Yes,14.6,IT,1,2. 6-7,3. 70-79,0
+S0799,Civil,Female,2022,6.27,1,Yes,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0800,Civil,Female,2023,7.19,0,No,66,No,Yes,2.7,Core,1,3. 7-8,2. 60-69,0
+S0801,Civil,Male,2023,7.5,0,Yes,80,No,Yes,3.2,Other,1,3. 7-8,4. 80-89,0
+S0802,IT,Female,2025,8.83,0,Yes,92,Yes,Yes,10.2,IT,1,4. 8+,5. 90+,0
+S0803,Electrical,Male,2022,7.47,0,No,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0804,Mechanical,Male,2024,7.68,0,No,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0805,Computer,Male,2025,8.05,1,Yes,77,No,Yes,8.3,Startup,1,4. 8+,3. 70-79,1
+S0806,Computer,Female,2023,6.36,0,No,81,No,Yes,8.4,IT,1,2. 6-7,4. 80-89,0
+S0807,Civil,Male,2025,6.18,2,No,62,No,Yes,3.6,Startup,1,2. 6-7,2. 60-69,2
+S0808,Computer,Female,2024,6.42,1,Yes,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0809,E&TC,Male,2024,6,2,No,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S0810,Electrical,Female,2023,7.87,0,Yes,80,Yes,Yes,5,Core,1,3. 7-8,4. 80-89,0
+S0811,Computer,Female,2023,7.66,0,Yes,72,No,Yes,8.2,IT,1,3. 7-8,3. 70-79,0
+S0812,Computer,Female,2024,7.47,0,Yes,72,No,Yes,9.3,IT,1,3. 7-8,3. 70-79,0
+S0813,Electrical,Male,2024,5,2,No,83,No,No,0,Not Placed,0,1. Below 6,4. 80-89,2
+S0814,Mechanical,Male,2023,8.95,0,No,69,Yes,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S0815,Computer,Male,2025,6.6,0,Yes,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0816,Electrical,Male,2025,9,0,Yes,97,Yes,No,0,Not Placed,0,4. 8+,5. 90+,0
+S0817,Electrical,Male,2025,5.85,2,Yes,78,No,Yes,5.6,Core,1,1. Below 6,3. 70-79,2
+S0818,Mechanical,Male,2023,6.37,0,Yes,62,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0819,Mechanical,Female,2022,5.12,2,Yes,58,No,No,0,Not Placed,0,1. Below 6,1. Below 60,2
+S0820,IT,Male,2025,7.68,0,Yes,71,No,Yes,12.3,Core,1,3. 7-8,3. 70-79,0
+S0821,Computer,Female,2024,6.41,1,No,75,No,Yes,7.3,IT,1,2. 6-7,3. 70-79,1
+S0822,Mechanical,Male,2025,6.13,2,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0823,IT,Female,2023,6.11,2,No,61,Yes,Yes,6,Startup,1,2. 6-7,2. 60-69,2
+S0824,Mechanical,Male,2025,7.8,0,No,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0825,Electrical,Female,2022,7.79,0,No,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0826,Computer,Male,2022,9.03,0,No,80,No,Yes,7.6,IT,1,4. 8+,4. 80-89,0
+S0827,Mechanical,Male,2025,6.48,0,No,92,No,Yes,6.5,Startup,1,2. 6-7,5. 90+,0
+S0828,IT,Male,2022,7.55,0,Yes,69,No,Yes,9.4,IT,1,3. 7-8,2. 60-69,0
+S0829,Electrical,Female,2025,5.99,1,No,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0830,IT,Male,2022,7.05,0,No,65,No,Yes,4.1,Startup,1,3. 7-8,2. 60-69,0
+S0831,Mechanical,Male,2022,6.63,0,Yes,80,No,Yes,2.7,Core,1,2. 6-7,4. 80-89,0
+S0832,Mechanical,Male,2023,7.52,0,No,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0833,E&TC,Female,2023,8.12,0,Yes,71,No,Yes,4.7,Core,1,4. 8+,3. 70-79,0
+S0834,Mechanical,Male,2025,7.99,0,Yes,75,No,Yes,5.3,Core,1,3. 7-8,3. 70-79,0
+S0835,Civil,Female,2025,6.29,0,No,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0836,Mechanical,Male,2024,8,0,Yes,81,No,Yes,4.9,Other,1,4. 8+,4. 80-89,0
+S0837,Civil,Male,2025,7.01,0,No,99,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0838,Electrical,Male,2025,6.86,0,No,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0839,E&TC,Female,2022,6.56,0,Yes,73,No,Yes,6.3,Core,1,2. 6-7,3. 70-79,0
+S0840,Mechanical,Male,2025,6.6,1,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S0841,Computer,Female,2025,8.97,0,Yes,69,Yes,Yes,9,IT,1,4. 8+,2. 60-69,0
+S0842,Civil,Male,2024,7.33,0,No,83,No,Yes,5.9,Startup,1,3. 7-8,4. 80-89,0
+S0843,Mechanical,Female,2025,7.26,0,No,82,No,Yes,5.5,Core,1,3. 7-8,4. 80-89,0
+S0844,E&TC,Male,2023,6.96,0,No,71,Yes,Yes,5.3,IT,1,2. 6-7,3. 70-79,0
+S0845,Computer,Male,2025,9.6,0,Yes,94,No,Yes,13.5,IT,1,4. 8+,5. 90+,0
+S0846,Electrical,Female,2025,8.32,0,Yes,80,No,Yes,3.3,Startup,1,4. 8+,4. 80-89,0
+S0847,E&TC,Female,2025,6.55,0,Yes,81,Yes,Yes,5.4,Other,1,2. 6-7,4. 80-89,0
+S0848,Civil,Male,2022,6.8,1,Yes,77,No,Yes,4.3,Other,1,2. 6-7,3. 70-79,1
+S0849,Computer,Male,2023,7.21,0,Yes,74,No,Yes,10.3,IT,1,3. 7-8,3. 70-79,0
+S0850,Electrical,Male,2024,7.28,0,Yes,68,No,Yes,3.1,IT,1,3. 7-8,2. 60-69,0
+S0851,Computer,Male,2023,6.77,0,Yes,73,Yes,Yes,7.9,Startup,1,2. 6-7,3. 70-79,0
+S0852,IT,Male,2023,7.74,0,Yes,85,No,Yes,8.8,IT,1,3. 7-8,4. 80-89,0
+S0853,Electrical,Male,2022,8.46,0,No,75,Yes,Yes,5.6,Core,1,4. 8+,3. 70-79,0
+S0854,Electrical,Male,2025,5.97,1,No,76,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S0855,IT,Male,2025,6.33,0,No,64,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0856,E&TC,Male,2022,6.77,0,No,82,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0857,Civil,Male,2023,6.66,0,Yes,77,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0858,Electrical,Male,2023,8.95,0,No,70,Yes,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0859,E&TC,Female,2025,8.1,0,Yes,77,No,Yes,8.3,Other,1,4. 8+,3. 70-79,0
+S0860,Mechanical,Male,2022,7.95,0,No,87,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S0861,Civil,Male,2023,6.81,0,No,63,No,Yes,4.8,Core,1,2. 6-7,2. 60-69,0
+S0862,Civil,Male,2024,6.79,0,Yes,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0863,Civil,Female,2022,5.74,2,Yes,71,No,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S0864,Mechanical,Male,2024,7.8,0,Yes,97,Yes,Yes,4.9,Core,1,3. 7-8,5. 90+,0
+S0865,Computer,Male,2023,7.84,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0866,Electrical,Male,2022,8.31,0,No,84,No,Yes,5.9,Other,1,4. 8+,4. 80-89,0
+S0867,Electrical,Female,2022,6.96,0,Yes,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0868,Civil,Female,2022,6.92,0,Yes,70,No,Yes,4,Core,1,2. 6-7,3. 70-79,0
+S0869,Computer,Male,2024,7.55,0,Yes,79,No,Yes,9.3,Other,1,3. 7-8,3. 70-79,0
+S0870,IT,Male,2024,8.15,0,Yes,75,No,Yes,10,Startup,1,4. 8+,3. 70-79,0
+S0871,Civil,Male,2022,5.73,1,Yes,68,No,Yes,3.9,Core,1,1. Below 6,2. 60-69,1
+S0872,Computer,Male,2023,8.06,0,Yes,64,No,Yes,10.1,Startup,1,4. 8+,2. 60-69,0
+S0873,Electrical,Male,2022,7.13,0,No,76,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0874,E&TC,Female,2022,6.25,1,No,81,No,Yes,6.6,Startup,1,2. 6-7,4. 80-89,1
+S0875,Civil,Male,2023,5.17,0,No,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0876,Electrical,Male,2022,7.03,0,No,85,No,Yes,5.6,Other,1,3. 7-8,4. 80-89,0
+S0877,E&TC,Male,2023,8.5,0,Yes,85,No,Yes,8.5,Core,1,4. 8+,4. 80-89,0
+S0878,IT,Male,2025,8.86,0,Yes,80,No,Yes,15.9,IT,1,4. 8+,4. 80-89,0
+S0879,Mechanical,Male,2023,7.42,0,Yes,71,No,Yes,5.9,Core,1,3. 7-8,3. 70-79,0
+S0880,Mechanical,Male,2024,8.87,0,Yes,77,No,Yes,4.6,Core,1,4. 8+,3. 70-79,0
+S0881,E&TC,Male,2022,7.16,0,No,63,No,Yes,6,Other,1,3. 7-8,2. 60-69,0
+S0882,Mechanical,Male,2024,7.96,1,No,76,No,Yes,5.3,Other,1,3. 7-8,3. 70-79,1
+S0883,Electrical,Male,2022,6.74,0,No,76,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0884,E&TC,Male,2024,6.74,1,Yes,90,Yes,Yes,6.6,Core,1,2. 6-7,5. 90+,1
+S0885,IT,Male,2025,6.74,0,Yes,79,No,Yes,11.3,Other,1,2. 6-7,3. 70-79,0
+S0886,E&TC,Female,2023,5.35,0,Yes,63,No,Yes,3.2,Core,1,1. Below 6,2. 60-69,0
+S0887,E&TC,Female,2025,8.36,0,No,67,No,Yes,8.5,Startup,1,4. 8+,2. 60-69,0
+S0888,Computer,Male,2024,6.82,0,No,73,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0889,Computer,Male,2025,6.68,0,Yes,82,No,Yes,14.3,IT,1,2. 6-7,4. 80-89,0
+S0890,Civil,Male,2022,5.99,0,No,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0891,IT,Male,2024,7.17,1,Yes,81,No,Yes,8.9,Startup,1,3. 7-8,4. 80-89,1
+S0892,Electrical,Female,2024,8.74,0,Yes,79,Yes,Yes,6.4,Startup,1,4. 8+,3. 70-79,0
+S0893,IT,Female,2023,9.23,0,Yes,89,Yes,Yes,7.9,Startup,1,4. 8+,4. 80-89,0
+S0894,Computer,Male,2022,5.91,0,Yes,58,No,No,0,Not Placed,0,1. Below 6,1. Below 60,0
+S0895,Civil,Female,2023,6.73,0,No,89,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0896,Electrical,Male,2022,6.22,1,No,63,No,Yes,4.4,Other,1,2. 6-7,2. 60-69,1
+S0897,IT,Female,2022,8.24,0,Yes,86,No,Yes,9.8,IT,1,4. 8+,4. 80-89,0
+S0898,IT,Male,2025,7.61,0,Yes,75,No,Yes,9.3,Startup,1,3. 7-8,3. 70-79,0
+S0899,IT,Female,2025,6.78,0,Yes,74,No,Yes,9.1,IT,1,2. 6-7,3. 70-79,0
+S0900,Mechanical,Male,2022,7.17,0,Yes,74,No,Yes,5.7,Core,1,3. 7-8,3. 70-79,0
+S0901,E&TC,Male,2024,6.77,0,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0902,IT,Female,2025,8.8,0,Yes,85,Yes,Yes,10.6,Startup,1,4. 8+,4. 80-89,0
+S0903,Computer,Female,2023,7.89,0,Yes,88,No,Yes,11.2,Startup,1,3. 7-8,4. 80-89,0
+S0904,E&TC,Female,2023,7.8,0,Yes,90,No,Yes,4.4,Other,1,3. 7-8,5. 90+,0
+S0905,Electrical,Male,2023,5,2,Yes,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S0906,Mechanical,Male,2024,7.04,0,No,91,No,Yes,5.6,Core,1,3. 7-8,5. 90+,0
+S0907,E&TC,Male,2025,9.07,0,Yes,82,Yes,Yes,10.4,IT,1,4. 8+,4. 80-89,0
+S0908,Computer,Male,2025,8.59,0,Yes,90,Yes,Yes,9.3,IT,1,4. 8+,5. 90+,0
+S0909,IT,Male,2022,5.69,1,Yes,75,No,Yes,10.8,Startup,1,1. Below 6,3. 70-79,1
+S0910,IT,Male,2025,7.07,0,No,71,No,Yes,5.4,Other,1,3. 7-8,3. 70-79,0
+S0911,Civil,Male,2022,5.97,0,Yes,74,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S0912,Electrical,Male,2023,8.69,0,Yes,85,No,Yes,5.3,Other,1,4. 8+,4. 80-89,0
+S0913,Electrical,Male,2023,7.37,0,No,76,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0914,Electrical,Male,2024,6.46,1,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0915,Electrical,Male,2022,7.18,0,Yes,84,No,Yes,4.2,Core,1,3. 7-8,4. 80-89,0
+S0916,Electrical,Female,2025,5,4,No,69,No,No,0,Not Placed,0,1. Below 6,2. 60-69,3+
+S0917,Computer,Female,2025,6.42,0,No,50,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S0918,Computer,Male,2024,7.43,0,Yes,92,No,Yes,13,Startup,1,3. 7-8,5. 90+,0
+S0919,IT,Female,2022,8.11,0,Yes,76,No,Yes,12.6,IT,1,4. 8+,3. 70-79,0
+S0920,Mechanical,Male,2023,5.35,0,No,63,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S0921,Computer,Male,2024,7.06,0,Yes,65,No,Yes,8.4,Other,1,3. 7-8,2. 60-69,0
+S0922,Electrical,Male,2022,8.06,0,No,76,No,Yes,6.7,Core,1,4. 8+,3. 70-79,0
+S0923,Mechanical,Male,2023,5.79,1,No,67,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0924,Mechanical,Male,2024,7.31,0,No,70,Yes,Yes,7.1,Core,1,3. 7-8,3. 70-79,0
+S0925,Computer,Male,2022,7.46,0,Yes,71,No,Yes,8.8,IT,1,3. 7-8,3. 70-79,0
+S0926,IT,Female,2023,8.89,0,Yes,86,Yes,Yes,8.6,Startup,1,4. 8+,4. 80-89,0
+S0927,Computer,Male,2022,7.19,0,No,94,No,Yes,9.9,IT,1,3. 7-8,5. 90+,0
+S0928,Electrical,Male,2023,7,0,Yes,83,No,Yes,3.9,Core,1,3. 7-8,4. 80-89,0
+S0929,Mechanical,Male,2025,7.87,0,Yes,88,No,Yes,5.1,Startup,1,3. 7-8,4. 80-89,0
+S0930,Civil,Male,2023,5.86,1,No,69,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S0931,IT,Female,2024,7.15,0,Yes,77,No,Yes,13.9,Other,1,3. 7-8,3. 70-79,0
+S0932,E&TC,Male,2022,6.79,0,Yes,79,No,Yes,4.8,Core,1,2. 6-7,3. 70-79,0
+S0933,E&TC,Male,2024,7.07,0,Yes,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0934,Civil,Male,2022,7.81,0,No,74,No,Yes,5.2,Core,1,3. 7-8,3. 70-79,0
+S0935,Civil,Female,2022,7.55,0,Yes,85,No,Yes,5,Core,1,3. 7-8,4. 80-89,0
+S0936,IT,Female,2024,6.68,0,No,84,No,Yes,6.6,IT,1,2. 6-7,4. 80-89,0
+S0937,Electrical,Male,2024,7.27,0,No,77,No,Yes,5,Core,1,3. 7-8,3. 70-79,0
+S0938,Computer,Female,2025,8.74,0,Yes,70,Yes,Yes,15.3,IT,1,4. 8+,3. 70-79,0
+S0939,Electrical,Male,2022,6.4,0,Yes,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0940,Computer,Male,2022,7.53,0,No,64,Yes,Yes,9.6,IT,1,3. 7-8,2. 60-69,0
+S0941,IT,Male,2025,7.18,0,Yes,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0942,Electrical,Female,2024,7.09,0,No,78,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0943,Computer,Male,2024,5.93,1,No,70,No,Yes,9.2,IT,1,1. Below 6,3. 70-79,1
+S0944,E&TC,Female,2024,8.47,0,Yes,82,No,Yes,9.4,IT,1,4. 8+,4. 80-89,0
+S0945,E&TC,Male,2022,6.5,1,No,78,No,Yes,4.7,IT,1,2. 6-7,3. 70-79,1
+S0946,IT,Male,2022,8.27,0,Yes,82,No,Yes,6,Startup,1,4. 8+,4. 80-89,0
+S0947,Civil,Female,2023,6.49,0,No,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0948,Electrical,Female,2023,6.59,1,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0949,Electrical,Female,2025,8.24,0,No,83,No,Yes,8,Core,1,4. 8+,4. 80-89,0
+S0950,IT,Male,2025,8.24,0,Yes,93,No,Yes,8.3,IT,1,4. 8+,5. 90+,0
+S0951,Mechanical,Male,2022,7.29,0,No,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0952,IT,Female,2023,8.04,0,Yes,83,No,Yes,10.2,IT,1,4. 8+,4. 80-89,0
+S0953,IT,Female,2023,7.09,0,Yes,84,No,Yes,6.1,Startup,1,3. 7-8,4. 80-89,0
+S0954,Computer,Male,2023,7.39,0,Yes,75,No,Yes,9.8,Startup,1,3. 7-8,3. 70-79,0
+S0955,Electrical,Male,2023,6.55,2,No,84,No,No,0,Not Placed,0,2. 6-7,4. 80-89,2
+S0956,Electrical,Male,2024,7.96,0,Yes,89,No,Yes,3.8,Core,1,3. 7-8,4. 80-89,0
+S0957,Civil,Male,2023,6.43,1,No,86,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S0958,Mechanical,Male,2025,8.44,0,No,84,Yes,Yes,4.8,Startup,1,4. 8+,4. 80-89,0
+S0959,E&TC,Male,2025,6.92,0,Yes,96,No,Yes,4.7,Startup,1,2. 6-7,5. 90+,0
+S0960,Mechanical,Male,2023,7.12,0,Yes,70,No,Yes,3.7,Core,1,3. 7-8,3. 70-79,0
+S0961,Mechanical,Male,2024,7.78,0,No,97,No,Yes,4.2,Core,1,3. 7-8,5. 90+,0
+S0962,E&TC,Female,2022,7.22,0,Yes,83,No,Yes,3,IT,1,3. 7-8,4. 80-89,0
+S0963,Computer,Female,2022,7.13,0,Yes,88,No,Yes,6.3,IT,1,3. 7-8,4. 80-89,0
+S0964,Computer,Male,2025,7.37,0,Yes,74,No,Yes,11,IT,1,3. 7-8,3. 70-79,0
+S0965,Electrical,Female,2022,7.95,1,No,86,No,No,0,Not Placed,0,3. 7-8,4. 80-89,1
+S0966,E&TC,Male,2023,6.6,0,No,87,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S0967,Electrical,Male,2023,7.04,0,No,66,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0968,Computer,Male,2024,7.41,0,Yes,75,No,Yes,9.7,IT,1,3. 7-8,3. 70-79,0
+S0969,Mechanical,Male,2024,7.88,0,No,59,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S0970,IT,Male,2022,7.26,0,Yes,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0971,IT,Male,2022,8.98,0,No,74,No,Yes,5.7,Other,1,4. 8+,3. 70-79,0
+S0972,Computer,Female,2023,7.26,1,Yes,74,No,Yes,10.2,IT,1,3. 7-8,3. 70-79,1
+S0973,Computer,Male,2025,7.19,0,Yes,99,No,Yes,6.8,IT,1,3. 7-8,5. 90+,0
+S0974,Electrical,Male,2022,7,0,No,91,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0975,IT,Male,2024,6.17,0,Yes,60,No,Yes,8.9,Other,1,2. 6-7,2. 60-69,0
+S0976,Mechanical,Male,2023,6.17,0,No,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0977,E&TC,Female,2024,6.72,0,Yes,82,No,Yes,5.4,Core,1,2. 6-7,4. 80-89,0
+S0978,E&TC,Male,2023,8.22,0,No,76,No,Yes,5,IT,1,4. 8+,3. 70-79,0
+S0979,Mechanical,Male,2024,7.07,0,No,77,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0980,IT,Female,2024,6.91,0,No,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S0981,Electrical,Male,2022,8.25,0,No,67,Yes,Yes,4.8,Other,1,4. 8+,2. 60-69,0
+S0982,Civil,Male,2024,8.45,0,Yes,70,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S0983,Civil,Female,2025,8.18,0,No,80,No,Yes,8.5,Core,1,4. 8+,4. 80-89,0
+S0984,E&TC,Male,2025,6.43,2,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S0985,Computer,Female,2023,6.95,0,Yes,69,No,Yes,7,IT,1,2. 6-7,2. 60-69,0
+S0986,Electrical,Male,2024,8.78,0,Yes,74,No,Yes,5.8,Core,1,4. 8+,3. 70-79,0
+S0987,E&TC,Female,2024,7.42,0,Yes,76,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0988,Computer,Male,2025,7.16,0,Yes,84,No,Yes,10.8,IT,1,3. 7-8,4. 80-89,0
+S0989,E&TC,Female,2024,7.85,0,No,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S0990,Civil,Male,2024,7.96,0,No,93,Yes,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S0991,Mechanical,Female,2022,6.59,0,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S0992,Civil,Male,2024,7.25,0,No,78,No,Yes,3,Other,1,3. 7-8,3. 70-79,0
+S0993,Civil,Male,2024,7.88,0,Yes,75,No,Yes,2.8,Core,1,3. 7-8,3. 70-79,0
+S0994,IT,Female,2022,6.31,1,No,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S0995,Electrical,Male,2023,7.16,0,Yes,69,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S0996,E&TC,Male,2025,6.2,0,Yes,90,No,No,0,Not Placed,0,2. 6-7,5. 90+,0
+S0997,Mechanical,Male,2024,6.21,1,Yes,58,No,No,0,Not Placed,0,2. 6-7,1. Below 60,1
+S0998,Computer,Female,2025,6.89,0,Yes,91,No,Yes,7.3,Startup,1,2. 6-7,5. 90+,0
+S0999,Electrical,Female,2023,7.58,0,Yes,78,No,Yes,6.3,IT,1,3. 7-8,3. 70-79,0
+S1000,IT,Male,2023,7.06,0,Yes,81,No,Yes,6.9,Other,1,3. 7-8,4. 80-89,0
+S1001,Computer,Male,2023,6.82,1,Yes,87,No,Yes,8,IT,1,2. 6-7,4. 80-89,1
+S1002,E&TC,Female,2023,7.25,0,Yes,84,No,Yes,7.3,Other,1,3. 7-8,4. 80-89,0
+S1003,Computer,Male,2023,6.37,1,No,67,No,Yes,6.2,IT,1,2. 6-7,2. 60-69,1
+S1004,Computer,Male,2024,7.79,0,Yes,83,No,Yes,8.8,Startup,1,3. 7-8,4. 80-89,0
+S1005,Mechanical,Male,2022,8.12,0,No,96,No,Yes,3,Other,1,4. 8+,5. 90+,0
+S1006,E&TC,Male,2023,7.13,0,No,68,Yes,Yes,5.7,Core,1,3. 7-8,2. 60-69,0
+S1007,Electrical,Male,2025,6.97,0,No,94,No,No,0,Not Placed,0,2. 6-7,5. 90+,0
+S1008,IT,Female,2025,7.69,0,Yes,81,No,Yes,8.3,IT,1,3. 7-8,4. 80-89,0
+S1009,Civil,Male,2024,5.22,2,No,66,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S1010,E&TC,Female,2023,7.68,0,No,69,No,Yes,6.7,Core,1,3. 7-8,2. 60-69,0
+S1011,Mechanical,Male,2022,9.89,0,No,82,Yes,Yes,3.7,Core,1,4. 8+,4. 80-89,0
+S1012,Mechanical,Male,2024,6.99,0,No,58,No,Yes,4.2,Core,1,2. 6-7,1. Below 60,0
+S1013,E&TC,Male,2022,7.09,1,Yes,72,No,Yes,3.9,Core,1,3. 7-8,3. 70-79,1
+S1014,Electrical,Female,2022,7.82,0,No,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1015,E&TC,Female,2025,8.68,0,No,71,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1016,Computer,Male,2024,8.28,0,Yes,86,No,Yes,8.6,Other,1,4. 8+,4. 80-89,0
+S1017,Mechanical,Male,2023,5.16,0,No,68,No,Yes,6,Other,1,1. Below 6,2. 60-69,0
+S1018,Electrical,Male,2022,7.66,1,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S1019,Computer,Female,2024,9.71,0,Yes,81,No,Yes,9,IT,1,4. 8+,4. 80-89,0
+S1020,E&TC,Male,2025,7.76,0,Yes,81,No,Yes,4,IT,1,3. 7-8,4. 80-89,0
+S1021,Electrical,Female,2023,6.11,0,Yes,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1022,Civil,Male,2025,7.3,0,Yes,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1023,Electrical,Female,2023,6,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1024,Mechanical,Male,2025,8.21,0,No,79,Yes,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1025,Mechanical,Male,2022,6.24,0,No,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1026,IT,Female,2022,7.42,0,Yes,74,No,Yes,6.4,IT,1,3. 7-8,3. 70-79,0
+S1027,Electrical,Male,2024,6.38,0,Yes,79,No,Yes,3.1,Startup,1,2. 6-7,3. 70-79,0
+S1028,E&TC,Male,2022,6.71,0,No,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1029,Civil,Female,2022,8.39,0,No,78,No,Yes,2.9,Other,1,4. 8+,3. 70-79,0
+S1030,E&TC,Female,2025,7.29,0,Yes,82,No,Yes,6.9,Core,1,3. 7-8,4. 80-89,0
+S1031,Mechanical,Male,2022,6.6,0,No,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1032,Civil,Male,2022,6.02,0,Yes,64,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1033,E&TC,Female,2023,5.52,0,No,69,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S1034,Electrical,Male,2025,6.02,0,No,86,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1035,E&TC,Female,2023,7.3,0,Yes,78,No,Yes,3.8,IT,1,3. 7-8,3. 70-79,0
+S1036,Mechanical,Male,2025,7.98,0,No,76,No,Yes,5,Core,1,3. 7-8,3. 70-79,0
+S1037,E&TC,Male,2023,6.7,1,No,88,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1038,E&TC,Female,2024,8.61,1,No,78,No,Yes,5.7,Core,1,4. 8+,3. 70-79,1
+S1039,E&TC,Female,2024,6.55,0,No,94,No,Yes,4.4,Other,1,2. 6-7,5. 90+,0
+S1040,Computer,Female,2024,7.19,0,Yes,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1041,Computer,Female,2023,6.43,0,No,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1042,Mechanical,Male,2023,7.99,0,No,77,No,Yes,4.9,Core,1,3. 7-8,3. 70-79,0
+S1043,Mechanical,Male,2024,8.99,1,No,79,No,Yes,3.7,Core,1,4. 8+,3. 70-79,1
+S1044,Mechanical,Male,2025,5.51,3,No,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,3+
+S1045,Computer,Female,2024,7.09,0,Yes,99,No,Yes,11,IT,1,3. 7-8,5. 90+,0
+S1046,IT,Male,2025,8.49,0,Yes,83,No,Yes,6.7,IT,1,4. 8+,4. 80-89,0
+S1047,IT,Male,2024,6.05,1,Yes,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1048,Civil,Male,2022,7.56,0,No,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1049,Electrical,Male,2025,8.25,0,Yes,74,No,Yes,4.7,Core,1,4. 8+,3. 70-79,0
+S1050,IT,Female,2025,7.42,0,No,86,No,Yes,6.2,Startup,1,3. 7-8,4. 80-89,0
+S1051,Mechanical,Male,2023,7.6,0,No,62,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1052,Computer,Female,2022,8.98,0,No,71,Yes,Yes,10.7,IT,1,4. 8+,3. 70-79,0
+S1053,IT,Female,2024,9.1,0,No,79,Yes,Yes,9,IT,1,4. 8+,3. 70-79,0
+S1054,Computer,Male,2022,7.34,0,Yes,89,No,Yes,4.2,Other,1,3. 7-8,4. 80-89,0
+S1055,IT,Male,2025,6.87,0,Yes,72,No,Yes,8.1,Startup,1,2. 6-7,3. 70-79,0
+S1056,Mechanical,Male,2025,6.27,1,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1057,Electrical,Male,2023,8.03,0,Yes,79,No,Yes,3.2,Core,1,4. 8+,3. 70-79,0
+S1058,IT,Female,2025,6.12,1,Yes,84,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1059,Mechanical,Male,2025,6.87,0,No,61,No,Yes,4,Core,1,2. 6-7,2. 60-69,0
+S1060,Civil,Male,2023,7.14,0,No,82,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1061,Electrical,Female,2022,6.7,0,No,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1062,Mechanical,Male,2024,7.35,0,Yes,85,Yes,Yes,4.7,Other,1,3. 7-8,4. 80-89,0
+S1063,IT,Male,2023,9.66,0,Yes,76,Yes,Yes,7.8,Startup,1,4. 8+,3. 70-79,0
+S1064,Mechanical,Male,2023,6.99,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1065,IT,Male,2023,6.96,0,Yes,74,No,Yes,8.7,Other,1,2. 6-7,3. 70-79,0
+S1066,Electrical,Male,2022,8.06,0,Yes,70,No,Yes,6.4,IT,1,4. 8+,3. 70-79,0
+S1067,E&TC,Female,2022,7.42,0,No,65,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1068,Civil,Female,2025,8.35,0,No,74,No,Yes,3.4,Core,1,4. 8+,3. 70-79,0
+S1069,Computer,Male,2024,7.55,0,No,78,No,Yes,6.6,IT,1,3. 7-8,3. 70-79,0
+S1070,E&TC,Female,2025,6.98,0,Yes,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1071,Electrical,Male,2025,5.54,1,No,68,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1072,Mechanical,Male,2023,5.64,0,Yes,54,No,No,0,Not Placed,0,1. Below 6,1. Below 60,0
+S1073,E&TC,Male,2022,5.55,0,No,68,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S1074,Electrical,Male,2024,7.49,0,Yes,86,No,Yes,5,Other,1,3. 7-8,4. 80-89,0
+S1075,Electrical,Male,2024,5.92,1,No,79,No,Yes,2.8,Startup,1,1. Below 6,3. 70-79,1
+S1076,IT,Female,2022,8.48,0,Yes,79,No,Yes,7.1,IT,1,4. 8+,3. 70-79,0
+S1077,Mechanical,Male,2025,7.13,0,Yes,78,No,Yes,7,Other,1,3. 7-8,3. 70-79,0
+S1078,E&TC,Female,2025,6.98,0,Yes,68,No,Yes,3.7,Other,1,2. 6-7,2. 60-69,0
+S1079,Mechanical,Male,2025,6.34,1,Yes,88,Yes,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1080,IT,Male,2022,7.91,0,Yes,97,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S1081,IT,Female,2024,6.63,2,No,76,Yes,Yes,6.2,IT,1,2. 6-7,3. 70-79,2
+S1082,Electrical,Male,2023,6.26,0,Yes,96,No,Yes,4.1,Core,1,2. 6-7,5. 90+,0
+S1083,Electrical,Male,2022,8.22,0,Yes,73,No,Yes,9.2,Core,1,4. 8+,3. 70-79,0
+S1084,Electrical,Male,2022,7.47,0,No,66,No,Yes,4,IT,1,3. 7-8,2. 60-69,0
+S1085,Electrical,Female,2024,6.94,0,Yes,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1086,Civil,Male,2025,7.63,0,No,75,No,Yes,3.5,Core,1,3. 7-8,3. 70-79,0
+S1087,Civil,Male,2025,7.06,0,No,96,No,Yes,2.9,Core,1,3. 7-8,5. 90+,0
+S1088,Civil,Male,2022,7.39,0,No,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1089,E&TC,Female,2024,6.46,0,No,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1090,E&TC,Male,2023,9.06,0,Yes,73,Yes,Yes,6.2,Other,1,4. 8+,3. 70-79,0
+S1091,IT,Male,2024,6.83,1,No,85,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1092,Mechanical,Male,2024,8.5,0,No,89,No,Yes,5.1,Other,1,4. 8+,4. 80-89,0
+S1093,IT,Male,2022,7.18,0,Yes,72,No,Yes,6,Other,1,3. 7-8,3. 70-79,0
+S1094,IT,Male,2025,8.08,0,No,62,No,Yes,9.7,Startup,1,4. 8+,2. 60-69,0
+S1095,Mechanical,Male,2023,7.76,0,No,68,No,Yes,4.9,Core,1,3. 7-8,2. 60-69,0
+S1096,E&TC,Male,2024,8.23,0,No,95,No,Yes,7,Core,1,4. 8+,5. 90+,0
+S1097,IT,Female,2025,6.59,0,No,80,No,Yes,6.3,Startup,1,2. 6-7,4. 80-89,0
+S1098,Civil,Male,2022,8.02,0,Yes,79,No,Yes,4.7,Core,1,4. 8+,3. 70-79,0
+S1099,Electrical,Female,2025,8.81,0,No,98,No,Yes,4.7,Startup,1,4. 8+,5. 90+,0
+S1100,Computer,Female,2024,7.17,0,No,94,No,Yes,12.1,IT,1,3. 7-8,5. 90+,0
+S1101,Computer,Male,2023,7.43,0,No,76,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1102,IT,Male,2025,6.88,0,Yes,75,No,Yes,7.8,IT,1,2. 6-7,3. 70-79,0
+S1103,Civil,Male,2025,6.74,1,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1104,Electrical,Male,2023,8.69,0,No,78,Yes,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1105,Computer,Female,2025,6.5,0,Yes,61,No,Yes,8.4,IT,1,2. 6-7,2. 60-69,0
+S1106,Civil,Male,2024,6.2,1,No,60,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1107,Computer,Female,2023,8.85,0,Yes,65,Yes,Yes,8.3,Startup,1,4. 8+,2. 60-69,0
+S1108,E&TC,Male,2023,7.76,0,No,87,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1109,Electrical,Male,2024,9.06,0,No,68,No,Yes,4.4,Core,1,4. 8+,2. 60-69,0
+S1110,IT,Male,2022,6.94,0,Yes,93,No,Yes,8.1,Startup,1,2. 6-7,5. 90+,0
+S1111,Computer,Male,2025,7.51,0,No,70,No,Yes,10.3,IT,1,3. 7-8,3. 70-79,0
+S1112,E&TC,Female,2024,6.61,0,No,90,Yes,Yes,4.2,Startup,1,2. 6-7,5. 90+,0
+S1113,Mechanical,Male,2025,7.23,0,No,73,No,Yes,4.6,Core,1,3. 7-8,3. 70-79,0
+S1114,Electrical,Male,2023,5.55,2,No,57,Yes,No,0,Not Placed,0,1. Below 6,1. Below 60,2
+S1115,Electrical,Male,2024,7.77,0,Yes,89,No,Yes,5.4,Core,1,3. 7-8,4. 80-89,0
+S1116,Computer,Female,2025,7.69,0,Yes,90,No,Yes,9.9,IT,1,3. 7-8,5. 90+,0
+S1117,Computer,Female,2024,7.35,0,Yes,68,No,Yes,5.5,IT,1,3. 7-8,2. 60-69,0
+S1118,Civil,Male,2023,6.7,2,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S1119,IT,Female,2024,6.54,2,No,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S1120,Electrical,Male,2022,7.8,0,No,77,No,Yes,3.7,IT,1,3. 7-8,3. 70-79,0
+S1121,Mechanical,Male,2025,6.05,3,Yes,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,3+
+S1122,Computer,Male,2023,7.86,0,Yes,75,No,Yes,6.1,Core,1,3. 7-8,3. 70-79,0
+S1123,Electrical,Male,2024,9.02,0,Yes,65,Yes,Yes,5.5,Core,1,4. 8+,2. 60-69,0
+S1124,Computer,Male,2025,8.74,0,Yes,75,Yes,Yes,7.3,Startup,1,4. 8+,3. 70-79,0
+S1125,E&TC,Female,2023,5.85,4,No,78,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S1126,Mechanical,Male,2025,6.62,1,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1127,E&TC,Female,2022,7.58,0,Yes,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1128,Civil,Male,2025,6.99,0,Yes,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1129,Mechanical,Male,2023,5.84,1,No,66,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1130,Electrical,Male,2023,7.5,0,No,90,No,Yes,4.1,Other,1,3. 7-8,5. 90+,0
+S1131,Electrical,Male,2023,7.14,0,No,66,No,Yes,3.3,Core,1,3. 7-8,2. 60-69,0
+S1132,Mechanical,Female,2022,8.82,0,No,87,Yes,Yes,4.3,Other,1,4. 8+,4. 80-89,0
+S1133,Computer,Male,2023,7.17,0,Yes,76,No,Yes,6.4,Startup,1,3. 7-8,3. 70-79,0
+S1134,Civil,Male,2022,8.1,0,No,81,No,Yes,5.1,Core,1,4. 8+,4. 80-89,0
+S1135,Electrical,Male,2022,6.01,0,No,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1136,IT,Male,2024,6.42,0,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1137,E&TC,Male,2025,7.85,0,No,78,No,Yes,6.2,Startup,1,3. 7-8,3. 70-79,0
+S1138,E&TC,Male,2022,8.18,0,Yes,74,No,Yes,6.2,Other,1,4. 8+,3. 70-79,0
+S1139,Computer,Male,2023,6.54,1,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1140,Mechanical,Male,2024,7.12,0,Yes,80,No,Yes,4.4,IT,1,3. 7-8,4. 80-89,0
+S1141,E&TC,Male,2023,5.96,3,No,92,No,No,0,Not Placed,0,1. Below 6,5. 90+,3+
+S1142,Civil,Male,2023,6.89,0,No,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1143,Electrical,Male,2024,7.9,0,No,61,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1144,Civil,Male,2023,6.66,0,No,85,No,Yes,2.4,Core,1,2. 6-7,4. 80-89,0
+S1145,E&TC,Male,2023,6.98,0,Yes,74,No,Yes,4.9,Core,1,2. 6-7,3. 70-79,0
+S1146,IT,Male,2025,6.33,0,Yes,91,No,Yes,5.9,IT,1,2. 6-7,5. 90+,0
+S1147,Civil,Female,2022,6.47,2,Yes,87,Yes,No,0,Not Placed,0,2. 6-7,4. 80-89,2
+S1148,Civil,Male,2024,8.63,0,Yes,76,Yes,Yes,4.9,Core,1,4. 8+,3. 70-79,0
+S1149,E&TC,Male,2025,7.27,0,No,83,No,Yes,6.3,Core,1,3. 7-8,4. 80-89,0
+S1150,Electrical,Female,2025,6.25,0,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1151,Computer,Female,2025,7.12,0,Yes,76,No,Yes,9.5,Startup,1,3. 7-8,3. 70-79,0
+S1152,Electrical,Female,2022,5.71,1,No,78,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1153,Computer,Female,2024,6.49,0,Yes,84,No,Yes,12,IT,1,2. 6-7,4. 80-89,0
+S1154,Computer,Male,2025,8.62,0,Yes,88,Yes,Yes,8,IT,1,4. 8+,4. 80-89,0
+S1155,Mechanical,Male,2023,6.97,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1156,Computer,Female,2023,9.1,0,Yes,99,No,Yes,8,Startup,1,4. 8+,5. 90+,0
+S1157,Computer,Female,2023,7.31,0,Yes,73,No,Yes,11.7,IT,1,3. 7-8,3. 70-79,0
+S1158,Computer,Male,2025,7.37,0,Yes,62,Yes,Yes,9.2,IT,1,3. 7-8,2. 60-69,0
+S1159,E&TC,Female,2024,7.78,0,Yes,65,No,Yes,5.4,IT,1,3. 7-8,2. 60-69,0
+S1160,Civil,Male,2022,5,0,No,83,Yes,No,0,Not Placed,0,1. Below 6,4. 80-89,0
+S1161,Computer,Female,2024,7.58,0,Yes,76,No,Yes,14.9,IT,1,3. 7-8,3. 70-79,0
+S1162,Mechanical,Female,2022,7.06,1,Yes,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S1163,Civil,Male,2022,8.39,0,No,75,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1164,Computer,Female,2022,8.27,0,Yes,75,No,Yes,10.8,IT,1,4. 8+,3. 70-79,0
+S1165,Computer,Male,2023,6.38,1,Yes,66,No,Yes,7.9,IT,1,2. 6-7,2. 60-69,1
+S1166,Electrical,Male,2025,8.27,0,Yes,83,No,Yes,4.4,Startup,1,4. 8+,4. 80-89,0
+S1167,Civil,Male,2023,6.81,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1168,Mechanical,Male,2022,6.29,2,Yes,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S1169,Civil,Male,2023,7.23,0,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1170,Computer,Female,2022,7.22,0,Yes,72,No,Yes,12.7,IT,1,3. 7-8,3. 70-79,0
+S1171,E&TC,Male,2022,8.58,0,No,67,Yes,Yes,5.9,Other,1,4. 8+,2. 60-69,0
+S1172,Civil,Male,2023,7.36,0,Yes,63,No,Yes,4.3,Other,1,3. 7-8,2. 60-69,0
+S1173,IT,Female,2024,7.54,0,Yes,99,No,Yes,9.4,IT,1,3. 7-8,5. 90+,0
+S1174,Civil,Male,2023,7.86,1,No,91,No,No,0,Not Placed,0,3. 7-8,5. 90+,1
+S1175,E&TC,Male,2024,8.18,0,Yes,91,Yes,Yes,7.6,IT,1,4. 8+,5. 90+,0
+S1176,Civil,Female,2023,7.76,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1177,E&TC,Male,2025,8.48,0,No,80,No,Yes,6.5,Other,1,4. 8+,4. 80-89,0
+S1178,E&TC,Male,2025,7.75,0,No,70,No,Yes,6.9,IT,1,3. 7-8,3. 70-79,0
+S1179,IT,Female,2024,7.5,0,Yes,65,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1180,IT,Male,2025,8.47,0,Yes,75,Yes,Yes,9.2,IT,1,4. 8+,3. 70-79,0
+S1181,Civil,Male,2022,6.97,0,Yes,87,No,Yes,4.9,Core,1,2. 6-7,4. 80-89,0
+S1182,Computer,Female,2023,7.43,0,No,84,No,Yes,6.7,Startup,1,3. 7-8,4. 80-89,0
+S1183,Computer,Male,2022,8.95,0,Yes,73,Yes,Yes,15.7,IT,1,4. 8+,3. 70-79,0
+S1184,Computer,Female,2025,8.86,0,Yes,78,No,Yes,6.7,IT,1,4. 8+,3. 70-79,0
+S1185,Computer,Female,2022,7.39,0,No,83,No,Yes,8.9,IT,1,3. 7-8,4. 80-89,0
+S1186,Civil,Male,2025,6.64,1,No,69,Yes,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1187,E&TC,Female,2024,8.52,0,Yes,81,Yes,Yes,4.2,Startup,1,4. 8+,4. 80-89,0
+S1188,Electrical,Male,2022,7.87,0,Yes,82,No,Yes,5,Core,1,3. 7-8,4. 80-89,0
+S1189,Computer,Female,2025,7.68,0,Yes,81,No,Yes,7.6,Startup,1,3. 7-8,4. 80-89,0
+S1190,Mechanical,Male,2024,6.81,0,Yes,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1191,E&TC,Female,2022,7.5,0,Yes,71,No,Yes,6,Core,1,3. 7-8,3. 70-79,0
+S1192,E&TC,Male,2023,7.18,0,No,71,No,Yes,5.8,Core,1,3. 7-8,3. 70-79,0
+S1193,Electrical,Male,2022,6.55,0,Yes,64,No,Yes,3.7,Core,1,2. 6-7,2. 60-69,0
+S1194,Electrical,Male,2023,7.27,0,No,62,Yes,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1195,Electrical,Male,2024,7.39,0,Yes,76,No,Yes,5,Core,1,3. 7-8,3. 70-79,0
+S1196,IT,Male,2025,7.01,0,Yes,83,No,Yes,11.2,IT,1,3. 7-8,4. 80-89,0
+S1197,IT,Male,2023,8.16,0,No,66,No,Yes,5.1,Startup,1,4. 8+,2. 60-69,0
+S1198,Mechanical,Male,2024,8.26,0,Yes,82,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S1199,IT,Male,2022,8.22,0,Yes,86,No,Yes,6.3,IT,1,4. 8+,4. 80-89,0
+S1200,Civil,Male,2025,6.8,0,No,58,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S1201,Mechanical,Male,2025,7.78,0,No,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1202,Mechanical,Male,2025,7.17,0,Yes,91,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S1203,Civil,Male,2024,5.94,1,No,77,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1204,Civil,Male,2025,7.66,0,No,61,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1205,Computer,Female,2024,7.53,1,Yes,83,No,Yes,11.3,Other,1,3. 7-8,4. 80-89,1
+S1206,Computer,Female,2025,9.73,0,Yes,77,No,Yes,10,IT,1,4. 8+,3. 70-79,0
+S1207,Mechanical,Male,2024,8.41,0,Yes,86,No,Yes,5.3,Core,1,4. 8+,4. 80-89,0
+S1208,E&TC,Male,2023,7.84,0,Yes,72,No,Yes,7.8,Core,1,3. 7-8,3. 70-79,0
+S1209,IT,Female,2024,7.57,0,Yes,77,No,Yes,6.2,Startup,1,3. 7-8,3. 70-79,0
+S1210,E&TC,Female,2022,7.35,0,Yes,72,No,Yes,4.9,IT,1,3. 7-8,3. 70-79,0
+S1211,Civil,Male,2024,6.15,0,No,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1212,Civil,Male,2023,5.48,1,No,66,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1213,Mechanical,Male,2023,6.31,0,Yes,71,No,Yes,3.8,Core,1,2. 6-7,3. 70-79,0
+S1214,E&TC,Male,2022,7.16,0,Yes,65,No,Yes,5.1,Core,1,3. 7-8,2. 60-69,0
+S1215,IT,Male,2024,5.46,3,Yes,75,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S1216,Mechanical,Male,2025,6.61,0,No,76,No,Yes,6.3,Core,1,2. 6-7,3. 70-79,0
+S1217,IT,Female,2024,7.13,0,No,61,No,Yes,4.4,Startup,1,3. 7-8,2. 60-69,0
+S1218,Mechanical,Male,2025,6.91,1,No,84,Yes,Yes,3.1,Other,1,2. 6-7,4. 80-89,1
+S1219,Mechanical,Male,2024,6.5,0,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1220,Computer,Female,2024,7.09,0,Yes,77,No,Yes,5.9,IT,1,3. 7-8,3. 70-79,0
+S1221,Computer,Male,2025,8.95,0,No,88,Yes,Yes,13,Startup,1,4. 8+,4. 80-89,0
+S1222,IT,Male,2023,7.95,0,Yes,81,No,Yes,6.7,IT,1,3. 7-8,4. 80-89,0
+S1223,Electrical,Male,2024,6.65,0,Yes,85,No,Yes,4.5,Other,1,2. 6-7,4. 80-89,0
+S1224,Mechanical,Male,2025,7.04,0,Yes,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1225,Computer,Male,2022,7.37,0,Yes,86,No,Yes,5.6,Other,1,3. 7-8,4. 80-89,0
+S1226,Electrical,Male,2024,6.46,0,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1227,E&TC,Female,2022,6.51,0,Yes,78,No,Yes,5.1,Startup,1,2. 6-7,3. 70-79,0
+S1228,E&TC,Female,2023,8.11,0,Yes,82,No,Yes,7.6,Other,1,4. 8+,4. 80-89,0
+S1229,Electrical,Male,2022,6.77,0,Yes,86,No,Yes,5.3,Other,1,2. 6-7,4. 80-89,0
+S1230,Computer,Male,2022,6.41,0,No,80,Yes,Yes,7.5,IT,1,2. 6-7,4. 80-89,0
+S1231,IT,Male,2024,7.31,0,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1232,Mechanical,Male,2025,7.21,0,No,70,No,Yes,2.9,IT,1,3. 7-8,3. 70-79,0
+S1233,IT,Male,2024,5.57,1,No,71,No,Yes,5.9,IT,1,1. Below 6,3. 70-79,1
+S1234,Mechanical,Male,2023,7.06,0,No,69,Yes,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1235,IT,Male,2022,8.13,1,Yes,69,No,Yes,8.3,IT,1,4. 8+,2. 60-69,1
+S1236,Computer,Female,2024,7.81,0,Yes,59,No,Yes,6.8,IT,1,3. 7-8,1. Below 60,0
+S1237,IT,Male,2023,9.36,0,Yes,69,Yes,Yes,10.2,IT,1,4. 8+,2. 60-69,0
+S1238,E&TC,Male,2025,8.33,0,Yes,97,No,Yes,7.7,Startup,1,4. 8+,5. 90+,0
+S1239,Computer,Female,2023,8.7,0,Yes,75,No,Yes,8.1,IT,1,4. 8+,3. 70-79,0
+S1240,Computer,Female,2022,9.9,0,Yes,99,No,Yes,12.1,IT,1,4. 8+,5. 90+,0
+S1241,Electrical,Male,2022,7.83,0,Yes,82,No,Yes,5,Core,1,3. 7-8,4. 80-89,0
+S1242,IT,Female,2022,7.5,0,Yes,76,No,Yes,10.7,Other,1,3. 7-8,3. 70-79,0
+S1243,E&TC,Male,2024,8.08,0,Yes,65,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S1244,Computer,Female,2022,6.9,0,Yes,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1245,E&TC,Female,2022,7.3,0,Yes,93,No,Yes,10.1,IT,1,3. 7-8,5. 90+,0
+S1246,IT,Male,2024,6.77,0,No,89,No,Yes,5.1,IT,1,2. 6-7,4. 80-89,0
+S1247,Mechanical,Female,2025,7.46,0,Yes,79,No,Yes,6,Core,1,3. 7-8,3. 70-79,0
+S1248,IT,Female,2023,6.76,0,Yes,64,No,Yes,10.8,Other,1,2. 6-7,2. 60-69,0
+S1249,Electrical,Male,2022,6.53,1,Yes,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1250,Electrical,Female,2023,7.52,0,No,69,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1251,Computer,Female,2022,7.28,0,Yes,88,No,Yes,6.7,IT,1,3. 7-8,4. 80-89,0
+S1252,Computer,Female,2023,5.67,0,Yes,86,No,No,0,Not Placed,0,1. Below 6,4. 80-89,0
+S1253,Computer,Female,2023,6.09,2,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S1254,Mechanical,Male,2024,6.07,1,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1255,Computer,Female,2025,6.61,0,Yes,88,No,Yes,7.2,IT,1,2. 6-7,4. 80-89,0
+S1256,Electrical,Male,2025,7.52,0,Yes,68,No,Yes,4.3,IT,1,3. 7-8,2. 60-69,0
+S1257,Civil,Male,2024,7.25,0,Yes,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1258,Civil,Male,2025,8.01,0,No,83,No,Yes,3.9,Core,1,4. 8+,4. 80-89,0
+S1259,Mechanical,Male,2022,7.78,0,Yes,70,No,Yes,4.5,Startup,1,3. 7-8,3. 70-79,0
+S1260,Electrical,Male,2022,8.11,0,No,73,No,Yes,4.6,Core,1,4. 8+,3. 70-79,0
+S1261,Computer,Male,2022,7.95,1,No,72,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S1262,E&TC,Male,2024,7.39,0,No,89,Yes,Yes,6.7,Startup,1,3. 7-8,4. 80-89,0
+S1263,IT,Male,2023,8.34,0,Yes,97,No,Yes,4.7,IT,1,4. 8+,5. 90+,0
+S1264,Electrical,Female,2025,7.98,0,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1265,Mechanical,Male,2024,7.44,0,No,74,No,Yes,3.4,Other,1,3. 7-8,3. 70-79,0
+S1266,Civil,Male,2022,8.19,0,No,74,No,Yes,5,Core,1,4. 8+,3. 70-79,0
+S1267,Computer,Male,2025,5.29,3,Yes,70,No,Yes,9.2,Other,1,1. Below 6,3. 70-79,3+
+S1268,Electrical,Male,2023,6.89,1,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1269,E&TC,Female,2025,6.92,0,No,74,No,Yes,3.9,IT,1,2. 6-7,3. 70-79,0
+S1270,E&TC,Male,2024,8.24,0,No,83,No,Yes,6.5,Core,1,4. 8+,4. 80-89,0
+S1271,Electrical,Female,2024,8.56,0,No,76,No,Yes,7.2,Core,1,4. 8+,3. 70-79,0
+S1272,E&TC,Male,2024,5.89,0,No,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1273,E&TC,Male,2023,8.47,1,Yes,78,No,Yes,5.9,Startup,1,4. 8+,3. 70-79,1
+S1274,Mechanical,Male,2022,6.05,1,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1275,Computer,Female,2023,6.37,0,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1276,IT,Male,2025,7.14,0,Yes,83,No,Yes,5.7,Startup,1,3. 7-8,4. 80-89,0
+S1277,IT,Female,2022,7.06,1,Yes,60,No,No,0,Not Placed,0,3. 7-8,2. 60-69,1
+S1278,Computer,Male,2023,6,1,Yes,87,Yes,Yes,10.5,IT,1,2. 6-7,4. 80-89,1
+S1279,Electrical,Male,2025,7.73,0,No,79,No,Yes,7.7,IT,1,3. 7-8,3. 70-79,0
+S1280,Mechanical,Male,2023,7.71,0,No,83,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1281,E&TC,Female,2022,8.15,0,Yes,85,No,Yes,4.6,IT,1,4. 8+,4. 80-89,0
+S1282,E&TC,Female,2022,6.81,1,Yes,68,No,Yes,5.6,IT,1,2. 6-7,2. 60-69,1
+S1283,E&TC,Female,2025,7.16,0,No,68,No,Yes,7.1,Startup,1,3. 7-8,2. 60-69,0
+S1284,Mechanical,Female,2025,7.07,0,No,66,No,Yes,4.6,Core,1,3. 7-8,2. 60-69,0
+S1285,Electrical,Male,2023,8.67,0,Yes,78,No,Yes,3.3,Core,1,4. 8+,3. 70-79,0
+S1286,Electrical,Male,2023,5,3,No,76,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S1287,E&TC,Female,2022,6.34,1,Yes,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1288,IT,Female,2022,7.35,0,Yes,82,No,Yes,8.7,IT,1,3. 7-8,4. 80-89,0
+S1289,E&TC,Female,2024,6.22,1,No,52,No,No,0,Not Placed,0,2. 6-7,1. Below 60,1
+S1290,Mechanical,Female,2022,6.87,0,No,72,No,Yes,3.3,Core,1,2. 6-7,3. 70-79,0
+S1291,E&TC,Male,2022,7.09,0,No,86,No,Yes,3.7,Other,1,3. 7-8,4. 80-89,0
+S1292,Mechanical,Male,2025,6.51,1,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1293,Mechanical,Female,2022,7.16,0,Yes,68,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1294,IT,Male,2023,7.92,0,Yes,72,No,Yes,4.9,IT,1,3. 7-8,3. 70-79,0
+S1295,E&TC,Male,2024,6.99,0,Yes,50,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S1296,E&TC,Male,2022,6.79,1,Yes,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1297,Computer,Female,2024,7.25,0,No,86,No,Yes,11.3,Other,1,3. 7-8,4. 80-89,0
+S1298,Computer,Female,2023,7.39,0,Yes,71,No,Yes,7,Startup,1,3. 7-8,3. 70-79,0
+S1299,Civil,Male,2023,5.48,0,No,67,Yes,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S1300,E&TC,Male,2022,7.62,0,Yes,56,No,Yes,6.4,Core,1,3. 7-8,1. Below 60,0
+S1301,IT,Male,2025,6.94,0,Yes,61,No,Yes,8.9,IT,1,2. 6-7,2. 60-69,0
+S1302,Mechanical,Male,2023,8.24,0,Yes,90,No,Yes,5.3,Core,1,4. 8+,5. 90+,0
+S1303,Civil,Male,2025,7.58,0,No,83,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1304,IT,Male,2023,8.4,0,Yes,68,No,Yes,8.8,Startup,1,4. 8+,2. 60-69,0
+S1305,Civil,Male,2025,6.14,0,No,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1306,Electrical,Male,2023,6.82,0,Yes,75,No,Yes,5.5,IT,1,2. 6-7,3. 70-79,0
+S1307,Mechanical,Male,2024,5.98,1,No,62,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1308,Mechanical,Male,2023,6.47,0,No,56,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S1309,Computer,Male,2022,8.53,0,Yes,79,Yes,Yes,9.7,Other,1,4. 8+,3. 70-79,0
+S1310,Electrical,Male,2024,8.49,0,Yes,85,No,Yes,4.3,Core,1,4. 8+,4. 80-89,0
+S1311,E&TC,Male,2023,6.17,3,Yes,78,No,Yes,4.2,Core,1,2. 6-7,3. 70-79,3+
+S1312,Electrical,Male,2023,6.74,1,Yes,82,Yes,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1313,Mechanical,Male,2023,7.03,0,No,62,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1314,Computer,Female,2023,7.93,0,Yes,79,No,Yes,8.8,IT,1,3. 7-8,3. 70-79,0
+S1315,Computer,Female,2024,5.82,2,Yes,69,No,Yes,7.8,Startup,1,1. Below 6,2. 60-69,2
+S1316,Civil,Female,2022,5.61,0,No,70,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1317,Mechanical,Male,2022,7.54,0,Yes,75,No,Yes,5.5,Core,1,3. 7-8,3. 70-79,0
+S1318,Computer,Female,2023,5.65,1,No,65,No,Yes,10.2,IT,1,1. Below 6,2. 60-69,1
+S1319,Civil,Male,2024,6.65,0,Yes,50,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S1320,Electrical,Female,2025,7.3,0,No,87,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1321,E&TC,Female,2024,7.57,0,Yes,80,No,Yes,6.4,IT,1,3. 7-8,4. 80-89,0
+S1322,E&TC,Male,2022,7.07,0,Yes,62,No,Yes,4.5,Core,1,3. 7-8,2. 60-69,0
+S1323,Computer,Female,2022,7.07,0,Yes,80,No,Yes,4.7,IT,1,3. 7-8,4. 80-89,0
+S1324,Civil,Male,2024,7.81,0,No,74,No,Yes,3.3,Other,1,3. 7-8,3. 70-79,0
+S1325,IT,Male,2023,7.61,0,Yes,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1326,Electrical,Male,2022,6.57,0,No,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1327,E&TC,Female,2022,7.23,0,Yes,81,No,Yes,3.9,IT,1,3. 7-8,4. 80-89,0
+S1328,Mechanical,Male,2023,7.44,0,No,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1329,IT,Male,2024,8.9,1,Yes,71,Yes,Yes,6.7,Other,1,4. 8+,3. 70-79,1
+S1330,Computer,Male,2024,8.11,0,No,89,No,Yes,9,Startup,1,4. 8+,4. 80-89,0
+S1331,Civil,Female,2024,8.14,0,No,77,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1332,E&TC,Male,2025,6.65,0,No,73,No,Yes,5.2,Startup,1,2. 6-7,3. 70-79,0
+S1333,Mechanical,Male,2022,6.63,0,No,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1334,Electrical,Male,2023,6.94,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1335,Electrical,Male,2025,7.02,1,No,71,No,Yes,7.7,Other,1,3. 7-8,3. 70-79,1
+S1336,Electrical,Female,2022,6.24,0,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1337,IT,Female,2025,8.49,0,No,66,No,Yes,8.6,IT,1,4. 8+,2. 60-69,0
+S1338,Mechanical,Male,2023,7.9,0,Yes,80,No,Yes,8.5,Core,1,3. 7-8,4. 80-89,0
+S1339,Electrical,Male,2024,6.87,0,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1340,E&TC,Male,2025,7.78,0,No,85,No,Yes,6.6,IT,1,3. 7-8,4. 80-89,0
+S1341,Computer,Male,2022,7.6,0,No,82,No,Yes,11.2,IT,1,3. 7-8,4. 80-89,0
+S1342,Civil,Male,2024,7.7,0,No,81,Yes,Yes,3.7,Core,1,3. 7-8,4. 80-89,0
+S1343,E&TC,Male,2022,5.99,0,Yes,58,No,Yes,3.9,Startup,1,1. Below 6,1. Below 60,0
+S1344,Mechanical,Male,2023,6.97,0,No,74,No,Yes,3.9,Other,1,2. 6-7,3. 70-79,0
+S1345,Electrical,Male,2025,7.1,0,Yes,65,No,Yes,5,Core,1,3. 7-8,2. 60-69,0
+S1346,Mechanical,Male,2025,7.66,0,No,77,No,Yes,3.8,Startup,1,3. 7-8,3. 70-79,0
+S1347,E&TC,Male,2024,6.63,0,Yes,53,No,Yes,4.2,IT,1,2. 6-7,1. Below 60,0
+S1348,E&TC,Male,2025,5,3,No,56,No,No,0,Not Placed,0,1. Below 6,1. Below 60,3+
+S1349,E&TC,Female,2024,6.23,1,Yes,84,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1350,Computer,Female,2022,7.35,0,Yes,80,No,Yes,9.9,IT,1,3. 7-8,4. 80-89,0
+S1351,Civil,Male,2024,7.11,0,No,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1352,Electrical,Male,2022,8.67,0,Yes,72,No,Yes,4.1,IT,1,4. 8+,3. 70-79,0
+S1353,IT,Female,2025,7.87,0,Yes,68,No,Yes,5.1,IT,1,3. 7-8,2. 60-69,0
+S1354,IT,Male,2025,7.42,0,Yes,78,No,Yes,5.6,IT,1,3. 7-8,3. 70-79,0
+S1355,Electrical,Male,2024,7.12,0,No,73,No,Yes,4.3,Core,1,3. 7-8,3. 70-79,0
+S1356,Computer,Female,2024,8.39,0,Yes,93,No,Yes,7,IT,1,4. 8+,5. 90+,0
+S1357,Mechanical,Female,2023,6.57,1,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1358,E&TC,Male,2022,7.07,0,No,76,No,Yes,4.9,Core,1,3. 7-8,3. 70-79,0
+S1359,Civil,Male,2022,6.07,1,No,60,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1360,Computer,Male,2023,8.68,0,Yes,77,No,Yes,11.1,Startup,1,4. 8+,3. 70-79,0
+S1361,Mechanical,Male,2025,7.45,0,Yes,78,Yes,Yes,5.7,Core,1,3. 7-8,3. 70-79,0
+S1362,E&TC,Female,2025,6.56,0,Yes,71,No,Yes,4.6,Startup,1,2. 6-7,3. 70-79,0
+S1363,Mechanical,Male,2022,7,0,No,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1364,Computer,Female,2024,7.86,0,Yes,81,No,Yes,6.3,IT,1,3. 7-8,4. 80-89,0
+S1365,E&TC,Male,2023,6.97,0,Yes,89,No,Yes,4.8,Core,1,2. 6-7,4. 80-89,0
+S1366,Mechanical,Male,2022,6.62,2,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S1367,IT,Male,2022,6.76,2,Yes,85,Yes,Yes,9,IT,1,2. 6-7,4. 80-89,2
+S1368,Computer,Male,2025,7.71,0,Yes,83,No,Yes,11.5,Other,1,3. 7-8,4. 80-89,0
+S1369,IT,Male,2024,7.03,0,No,85,No,Yes,7.7,IT,1,3. 7-8,4. 80-89,0
+S1370,E&TC,Female,2024,6.79,0,Yes,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1371,Computer,Male,2022,6.2,0,Yes,71,No,Yes,11.6,IT,1,2. 6-7,3. 70-79,0
+S1372,Electrical,Male,2022,7.22,0,Yes,74,No,Yes,8.2,Other,1,3. 7-8,3. 70-79,0
+S1373,E&TC,Male,2024,7.04,0,Yes,80,No,Yes,4.9,Startup,1,3. 7-8,4. 80-89,0
+S1374,Civil,Male,2023,6.76,0,Yes,82,No,Yes,6.3,Startup,1,2. 6-7,4. 80-89,0
+S1375,Electrical,Male,2022,7.33,1,Yes,78,No,Yes,4.7,Other,1,3. 7-8,3. 70-79,1
+S1376,Computer,Male,2023,8.07,0,Yes,87,Yes,Yes,12.1,IT,1,4. 8+,4. 80-89,0
+S1377,Mechanical,Male,2023,7.73,0,Yes,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1378,Electrical,Male,2024,7.65,0,No,85,No,Yes,5.8,Startup,1,3. 7-8,4. 80-89,0
+S1379,Mechanical,Male,2023,6.88,0,No,84,Yes,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1380,E&TC,Female,2022,6.69,0,Yes,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1381,E&TC,Male,2022,6.26,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1382,Computer,Male,2023,6.87,1,Yes,81,No,Yes,4.9,IT,1,2. 6-7,4. 80-89,1
+S1383,Mechanical,Male,2022,7.12,0,No,68,No,Yes,3.4,Other,1,3. 7-8,2. 60-69,0
+S1384,Electrical,Female,2024,6.44,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1385,Electrical,Male,2024,7.24,0,Yes,79,No,Yes,3.6,Core,1,3. 7-8,3. 70-79,0
+S1386,Computer,Female,2023,6.53,0,Yes,62,No,Yes,5.1,IT,1,2. 6-7,2. 60-69,0
+S1387,Civil,Female,2023,5.56,1,No,75,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1388,IT,Male,2025,8.09,0,Yes,67,No,Yes,10.2,IT,1,4. 8+,2. 60-69,0
+S1389,Electrical,Female,2023,6.72,0,Yes,71,No,Yes,8.7,Startup,1,2. 6-7,3. 70-79,0
+S1390,Computer,Female,2025,6.65,0,Yes,75,No,Yes,7.9,IT,1,2. 6-7,3. 70-79,0
+S1391,Electrical,Male,2023,6.17,2,No,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S1392,Electrical,Male,2025,7.53,0,No,78,No,Yes,6,Startup,1,3. 7-8,3. 70-79,0
+S1393,Computer,Male,2025,8.64,0,Yes,81,Yes,Yes,14.2,IT,1,4. 8+,4. 80-89,0
+S1394,Computer,Male,2022,7.04,0,No,68,No,Yes,8.5,IT,1,3. 7-8,2. 60-69,0
+S1395,Electrical,Male,2025,6.96,0,No,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1396,Computer,Male,2023,8.36,0,Yes,73,No,Yes,9.2,IT,1,4. 8+,3. 70-79,0
+S1397,Mechanical,Male,2022,5.47,2,No,91,No,No,0,Not Placed,0,1. Below 6,5. 90+,2
+S1398,Electrical,Male,2024,8.92,0,No,80,Yes,Yes,4.7,Core,1,4. 8+,4. 80-89,0
+S1399,Mechanical,Male,2024,9.3,0,No,72,Yes,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1400,E&TC,Female,2022,5,2,No,61,Yes,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S1401,E&TC,Male,2022,7.11,0,No,86,No,Yes,6.1,Startup,1,3. 7-8,4. 80-89,0
+S1402,Computer,Male,2025,6.75,0,Yes,71,No,Yes,10.9,Other,1,2. 6-7,3. 70-79,0
+S1403,Electrical,Female,2024,6.91,0,Yes,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1404,IT,Female,2023,6.97,0,No,83,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1405,IT,Male,2024,8.08,1,Yes,75,No,Yes,9.1,Startup,1,4. 8+,3. 70-79,1
+S1406,IT,Female,2024,7.25,0,Yes,82,No,Yes,8.6,IT,1,3. 7-8,4. 80-89,0
+S1407,Electrical,Male,2025,6.33,2,No,82,No,Yes,4.4,Core,1,2. 6-7,4. 80-89,2
+S1408,Computer,Female,2022,7.25,0,Yes,79,No,Yes,5.6,Other,1,3. 7-8,3. 70-79,0
+S1409,Electrical,Male,2023,7.61,0,No,99,No,Yes,6.1,Core,1,3. 7-8,5. 90+,0
+S1410,Civil,Male,2025,5.98,0,Yes,57,No,No,0,Not Placed,0,1. Below 6,1. Below 60,0
+S1411,Electrical,Male,2024,5.67,1,Yes,64,No,Yes,3.2,Other,1,1. Below 6,2. 60-69,1
+S1412,Electrical,Male,2022,8.94,0,Yes,79,Yes,Yes,6.5,Core,1,4. 8+,3. 70-79,0
+S1413,Electrical,Male,2022,6.57,3,Yes,94,No,Yes,6,Startup,1,2. 6-7,5. 90+,3+
+S1414,Electrical,Female,2023,7.03,0,Yes,92,No,Yes,3.6,Core,1,3. 7-8,5. 90+,0
+S1415,Computer,Male,2025,7.04,0,Yes,87,Yes,Yes,7.3,Startup,1,3. 7-8,4. 80-89,0
+S1416,Civil,Male,2025,7.54,0,Yes,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1417,Mechanical,Male,2022,8.7,0,Yes,74,Yes,Yes,9.3,Other,1,4. 8+,3. 70-79,0
+S1418,Mechanical,Male,2025,7.62,0,Yes,70,No,Yes,4.8,Other,1,3. 7-8,3. 70-79,0
+S1419,Electrical,Male,2022,5.78,1,No,65,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1420,Electrical,Male,2022,5.9,1,No,86,No,No,0,Not Placed,0,1. Below 6,4. 80-89,1
+S1421,Civil,Male,2025,6.69,0,Yes,72,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1422,E&TC,Male,2022,6.96,0,Yes,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1423,E&TC,Male,2023,5.65,0,No,78,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1424,E&TC,Male,2022,7.94,0,Yes,63,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1425,E&TC,Male,2023,6.22,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1426,E&TC,Male,2024,8.54,0,No,70,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1427,Computer,Female,2024,9.04,0,Yes,79,No,Yes,6.8,IT,1,4. 8+,3. 70-79,0
+S1428,Computer,Female,2024,7.18,0,No,71,No,Yes,10.1,Startup,1,3. 7-8,3. 70-79,0
+S1429,Civil,Male,2024,7.45,1,No,71,No,Yes,3.2,Core,1,3. 7-8,3. 70-79,1
+S1430,E&TC,Male,2022,6.09,2,Yes,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S1431,Electrical,Male,2022,7.71,0,Yes,80,No,Yes,3,Core,1,3. 7-8,4. 80-89,0
+S1432,Mechanical,Male,2022,6.65,1,Yes,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1433,Computer,Female,2025,6.42,0,Yes,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1434,Computer,Male,2022,7.14,0,Yes,68,No,Yes,10.1,Startup,1,3. 7-8,2. 60-69,0
+S1435,IT,Male,2024,6.93,0,Yes,81,No,Yes,5.8,IT,1,2. 6-7,4. 80-89,0
+S1436,Electrical,Male,2023,6.86,0,Yes,73,No,Yes,5.4,Core,1,2. 6-7,3. 70-79,0
+S1437,IT,Female,2024,8.2,0,Yes,75,No,Yes,6.4,Startup,1,4. 8+,3. 70-79,0
+S1438,Mechanical,Male,2023,6.39,3,Yes,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,3+
+S1439,Electrical,Male,2025,8.71,0,Yes,78,No,Yes,6.6,Core,1,4. 8+,3. 70-79,0
+S1440,Electrical,Male,2025,5.96,0,Yes,89,No,Yes,5,Core,1,1. Below 6,4. 80-89,0
+S1441,IT,Male,2023,8.8,0,Yes,80,Yes,Yes,4,IT,1,4. 8+,4. 80-89,0
+S1442,Computer,Male,2025,6.49,1,Yes,64,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1443,Computer,Female,2023,7.4,0,No,85,No,Yes,9.1,Startup,1,3. 7-8,4. 80-89,0
+S1444,Computer,Male,2023,6.96,1,Yes,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1445,IT,Male,2025,7.04,0,Yes,78,No,Yes,7,IT,1,3. 7-8,3. 70-79,0
+S1446,Mechanical,Male,2022,7.82,0,No,72,No,Yes,6.8,Core,1,3. 7-8,3. 70-79,0
+S1447,Electrical,Male,2024,8.5,0,Yes,91,No,Yes,6,Core,1,4. 8+,5. 90+,0
+S1448,Mechanical,Female,2022,8.17,0,Yes,74,No,Yes,6.2,Startup,1,4. 8+,3. 70-79,0
+S1449,Mechanical,Female,2025,6.74,0,Yes,87,No,Yes,3.8,Core,1,2. 6-7,4. 80-89,0
+S1450,IT,Female,2023,7.52,0,Yes,68,No,Yes,6.2,IT,1,3. 7-8,2. 60-69,0
+S1451,Civil,Female,2025,6.35,0,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1452,Mechanical,Male,2025,6.21,0,Yes,86,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1453,Electrical,Male,2023,6.12,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1454,Electrical,Male,2022,6.76,0,No,95,No,No,0,Not Placed,0,2. 6-7,5. 90+,0
+S1455,E&TC,Male,2022,7.42,0,Yes,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1456,Computer,Female,2022,5.68,1,Yes,74,No,Yes,8,Other,1,1. Below 6,3. 70-79,1
+S1457,IT,Female,2025,7.31,0,No,93,No,Yes,6.4,Startup,1,3. 7-8,5. 90+,0
+S1458,E&TC,Female,2025,8.56,1,Yes,66,Yes,Yes,8.8,Core,1,4. 8+,2. 60-69,1
+S1459,Electrical,Male,2022,8.16,0,No,64,No,Yes,4.7,Startup,1,4. 8+,2. 60-69,0
+S1460,E&TC,Female,2024,6.67,0,Yes,67,No,Yes,3.9,Other,1,2. 6-7,2. 60-69,0
+S1461,Civil,Male,2024,5.79,1,No,79,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1462,Mechanical,Male,2024,7.51,0,No,62,No,Yes,3.6,Core,1,3. 7-8,2. 60-69,0
+S1463,IT,Male,2024,5.26,2,Yes,76,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S1464,IT,Male,2022,8.35,0,No,84,No,Yes,9.8,IT,1,4. 8+,4. 80-89,0
+S1465,Mechanical,Male,2024,6.91,0,No,93,No,No,0,Not Placed,0,2. 6-7,5. 90+,0
+S1466,Mechanical,Female,2022,8.75,0,No,90,No,Yes,4.6,Core,1,4. 8+,5. 90+,0
+S1467,E&TC,Male,2025,5.65,1,Yes,75,Yes,Yes,4.9,Other,1,1. Below 6,3. 70-79,1
+S1468,IT,Male,2023,8.18,0,Yes,91,No,Yes,10.8,Startup,1,4. 8+,5. 90+,0
+S1469,Civil,Male,2025,6.96,0,Yes,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1470,Computer,Female,2024,7.1,0,No,72,No,Yes,6.2,IT,1,3. 7-8,3. 70-79,0
+S1471,Electrical,Male,2024,5.92,2,Yes,62,No,Yes,2.5,Other,1,1. Below 6,2. 60-69,2
+S1472,IT,Male,2023,7.89,0,Yes,73,Yes,Yes,6.2,Startup,1,3. 7-8,3. 70-79,0
+S1473,Computer,Male,2023,8.01,0,No,78,No,Yes,9,IT,1,4. 8+,3. 70-79,0
+S1474,E&TC,Female,2025,8.81,0,Yes,82,No,Yes,5.7,Other,1,4. 8+,4. 80-89,0
+S1475,Mechanical,Male,2025,8.01,0,No,59,No,Yes,3,Startup,1,4. 8+,1. Below 60,0
+S1476,E&TC,Male,2025,6.67,0,Yes,72,No,Yes,7.3,Startup,1,2. 6-7,3. 70-79,0
+S1477,E&TC,Female,2022,6.3,3,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,3+
+S1478,Electrical,Male,2022,5.92,3,Yes,77,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S1479,E&TC,Female,2022,8.53,0,Yes,95,Yes,Yes,6.3,Other,1,4. 8+,5. 90+,0
+S1480,E&TC,Male,2023,6.5,1,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1481,E&TC,Male,2023,8.53,0,Yes,72,No,Yes,6.7,IT,1,4. 8+,3. 70-79,0
+S1482,Computer,Male,2022,7.87,0,Yes,62,No,Yes,10.1,Startup,1,3. 7-8,2. 60-69,0
+S1483,Mechanical,Male,2022,7.4,0,Yes,83,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1484,IT,Male,2024,7.07,0,No,68,No,Yes,4.9,IT,1,3. 7-8,2. 60-69,0
+S1485,Mechanical,Male,2025,7.69,0,Yes,85,No,Yes,5.4,Other,1,3. 7-8,4. 80-89,0
+S1486,Computer,Male,2025,7.39,0,Yes,89,No,Yes,11.4,Startup,1,3. 7-8,4. 80-89,0
+S1487,Electrical,Male,2025,6.82,0,Yes,61,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1488,E&TC,Female,2025,7.83,0,Yes,83,No,Yes,8,Startup,1,3. 7-8,4. 80-89,0
+S1489,Electrical,Male,2024,7.02,0,No,87,No,Yes,5.6,Startup,1,3. 7-8,4. 80-89,0
+S1490,E&TC,Male,2022,6.48,0,Yes,83,No,Yes,6.3,Startup,1,2. 6-7,4. 80-89,0
+S1491,Computer,Female,2024,7.94,0,No,59,No,Yes,5.1,IT,1,3. 7-8,1. Below 60,0
+S1492,Civil,Female,2022,6.99,0,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1493,Mechanical,Male,2024,7.54,0,No,65,No,Yes,4.5,Core,1,3. 7-8,2. 60-69,0
+S1494,Civil,Male,2022,6.64,1,No,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1495,E&TC,Female,2022,6.11,0,Yes,76,No,Yes,4.1,IT,1,2. 6-7,3. 70-79,0
+S1496,Mechanical,Male,2023,8.66,0,No,56,No,No,0,Not Placed,0,4. 8+,1. Below 60,0
+S1497,Electrical,Male,2025,8.54,0,No,77,Yes,Yes,7.1,Other,1,4. 8+,3. 70-79,0
+S1498,Mechanical,Male,2023,7.9,0,No,85,No,Yes,6.3,Core,1,3. 7-8,4. 80-89,0
+S1499,E&TC,Male,2022,6.85,1,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1500,Mechanical,Male,2025,6.83,0,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1501,Mechanical,Male,2025,8.34,0,No,76,No,Yes,3.6,Core,1,4. 8+,3. 70-79,0
+S1502,Electrical,Male,2023,6.83,0,Yes,65,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1503,E&TC,Female,2024,6.63,0,No,74,No,Yes,5,IT,1,2. 6-7,3. 70-79,0
+S1504,E&TC,Male,2023,8.89,0,Yes,82,No,Yes,6.6,Core,1,4. 8+,4. 80-89,0
+S1505,Civil,Male,2025,7.01,1,No,81,No,Yes,5,Core,1,3. 7-8,4. 80-89,1
+S1506,E&TC,Male,2023,8.79,0,Yes,87,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S1507,Civil,Male,2024,5.79,2,Yes,73,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S1508,E&TC,Female,2025,7.67,0,Yes,87,No,Yes,3.6,Other,1,3. 7-8,4. 80-89,0
+S1509,IT,Male,2024,9.21,0,Yes,79,Yes,Yes,4.5,Startup,1,4. 8+,3. 70-79,0
+S1510,Civil,Male,2022,7.08,0,No,63,No,Yes,4,Core,1,3. 7-8,2. 60-69,0
+S1511,Computer,Male,2022,7.16,0,No,80,Yes,Yes,4,Startup,1,3. 7-8,4. 80-89,0
+S1512,IT,Male,2022,6.3,1,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1513,Mechanical,Male,2022,8.07,0,No,83,No,Yes,4.8,Core,1,4. 8+,4. 80-89,0
+S1514,Civil,Female,2022,6.36,1,No,62,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1515,Electrical,Male,2022,7.06,0,No,92,No,Yes,5.4,Core,1,3. 7-8,5. 90+,0
+S1516,IT,Male,2023,6.24,0,No,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1517,Computer,Male,2023,8.8,0,Yes,78,No,Yes,13.3,IT,1,4. 8+,3. 70-79,0
+S1518,Electrical,Male,2024,8.19,0,Yes,71,No,Yes,4.4,Startup,1,4. 8+,3. 70-79,0
+S1519,Computer,Female,2022,7.37,0,Yes,86,No,Yes,9.2,IT,1,3. 7-8,4. 80-89,0
+S1520,IT,Male,2022,6.31,1,Yes,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1521,IT,Female,2025,8.73,0,Yes,99,No,Yes,9.9,IT,1,4. 8+,5. 90+,0
+S1522,Mechanical,Male,2024,6.77,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1523,Electrical,Male,2025,6.16,0,No,88,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1524,Civil,Male,2024,5.46,0,Yes,69,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S1525,Civil,Male,2025,6.47,0,Yes,88,No,Yes,3,Core,1,2. 6-7,4. 80-89,0
+S1526,Computer,Female,2024,6.09,1,No,66,No,Yes,9.9,IT,1,2. 6-7,2. 60-69,1
+S1527,E&TC,Male,2022,6.64,0,Yes,74,No,Yes,6,Core,1,2. 6-7,3. 70-79,0
+S1528,E&TC,Male,2022,7.87,0,Yes,85,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1529,Computer,Male,2024,7.06,0,No,82,No,Yes,6.8,IT,1,3. 7-8,4. 80-89,0
+S1530,IT,Male,2025,7.67,0,No,87,No,Yes,7.5,Other,1,3. 7-8,4. 80-89,0
+S1531,IT,Female,2025,6.7,0,Yes,70,No,Yes,7.2,IT,1,2. 6-7,3. 70-79,0
+S1532,Computer,Female,2023,7.46,0,Yes,78,No,Yes,11,IT,1,3. 7-8,3. 70-79,0
+S1533,Mechanical,Male,2022,8.83,0,Yes,92,No,Yes,4.7,IT,1,4. 8+,5. 90+,0
+S1534,Civil,Male,2025,6.74,0,Yes,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1535,Computer,Male,2024,7.75,0,Yes,83,Yes,Yes,9.6,IT,1,3. 7-8,4. 80-89,0
+S1536,E&TC,Male,2025,5.79,0,No,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1537,Civil,Male,2025,8.42,0,Yes,82,No,Yes,3.8,Startup,1,4. 8+,4. 80-89,0
+S1538,Civil,Male,2025,6.62,0,Yes,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1539,Civil,Male,2025,8,0,Yes,71,No,Yes,3.4,Core,1,4. 8+,3. 70-79,0
+S1540,E&TC,Male,2024,7.09,0,Yes,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1541,Civil,Male,2023,7.6,0,Yes,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1542,IT,Male,2024,7.95,0,Yes,77,No,Yes,8.3,IT,1,3. 7-8,3. 70-79,0
+S1543,E&TC,Male,2023,6.79,0,No,89,No,Yes,4,Other,1,2. 6-7,4. 80-89,0
+S1544,Computer,Male,2022,8.38,1,Yes,89,No,Yes,11.6,Startup,1,4. 8+,4. 80-89,1
+S1545,E&TC,Female,2024,6.52,1,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1546,E&TC,Male,2022,7.9,0,Yes,71,No,Yes,6.9,IT,1,3. 7-8,3. 70-79,0
+S1547,IT,Female,2024,7,0,No,68,No,Yes,5.7,IT,1,3. 7-8,2. 60-69,0
+S1548,Civil,Male,2023,7.36,0,No,94,No,Yes,4.2,Other,1,3. 7-8,5. 90+,0
+S1549,IT,Male,2024,6.93,0,Yes,66,No,Yes,6.1,Startup,1,2. 6-7,2. 60-69,0
+S1550,IT,Male,2024,7.39,0,Yes,78,No,Yes,4.9,Other,1,3. 7-8,3. 70-79,0
+S1551,Computer,Female,2022,6.43,1,No,77,No,Yes,6.6,IT,1,2. 6-7,3. 70-79,1
+S1552,E&TC,Male,2024,7.42,0,Yes,74,No,Yes,5.7,Startup,1,3. 7-8,3. 70-79,0
+S1553,IT,Female,2022,7.39,0,Yes,68,No,Yes,8.9,IT,1,3. 7-8,2. 60-69,0
+S1554,E&TC,Male,2024,6.71,0,Yes,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1555,IT,Male,2024,7.3,0,No,71,No,Yes,7.4,IT,1,3. 7-8,3. 70-79,0
+S1556,Civil,Male,2024,7.17,0,Yes,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1557,Electrical,Male,2025,6.6,1,No,86,No,Yes,5.8,Startup,1,2. 6-7,4. 80-89,1
+S1558,E&TC,Male,2024,7.08,0,Yes,76,No,Yes,4.3,Startup,1,3. 7-8,3. 70-79,0
+S1559,Mechanical,Male,2022,6.2,2,No,68,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S1560,Electrical,Male,2025,9.26,0,Yes,83,No,Yes,5,IT,1,4. 8+,4. 80-89,0
+S1561,Electrical,Male,2023,8.1,0,No,85,No,Yes,7.7,Core,1,4. 8+,4. 80-89,0
+S1562,Mechanical,Male,2024,7.35,0,No,73,No,Yes,2.6,Startup,1,3. 7-8,3. 70-79,0
+S1563,Electrical,Male,2024,8.2,0,Yes,87,No,Yes,4.6,Core,1,4. 8+,4. 80-89,0
+S1564,Electrical,Male,2023,5.37,1,No,59,No,No,0,Not Placed,0,1. Below 6,1. Below 60,1
+S1565,Civil,Male,2025,5,2,No,80,No,No,0,Not Placed,0,1. Below 6,4. 80-89,2
+S1566,E&TC,Female,2024,6.84,0,No,75,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1567,Computer,Female,2023,6.16,0,Yes,72,No,Yes,6.1,IT,1,2. 6-7,3. 70-79,0
+S1568,Computer,Male,2025,7.19,0,Yes,70,No,Yes,8.3,IT,1,3. 7-8,3. 70-79,0
+S1569,E&TC,Female,2023,7.39,0,Yes,66,No,Yes,5.1,IT,1,3. 7-8,2. 60-69,0
+S1570,E&TC,Male,2024,8.03,0,Yes,63,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S1571,E&TC,Male,2024,6.18,1,Yes,66,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1572,Mechanical,Male,2024,7.46,0,Yes,82,No,Yes,5.8,Other,1,3. 7-8,4. 80-89,0
+S1573,Mechanical,Male,2025,7.11,0,Yes,67,No,Yes,5.1,Core,1,3. 7-8,2. 60-69,0
+S1574,Electrical,Male,2025,7.46,0,No,63,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1575,Computer,Female,2025,6.93,0,No,67,No,Yes,5.5,IT,1,2. 6-7,2. 60-69,0
+S1576,IT,Female,2023,8.59,0,No,77,Yes,Yes,6.4,Startup,1,4. 8+,3. 70-79,0
+S1577,Civil,Female,2024,6.96,0,No,72,No,Yes,3.9,Core,1,2. 6-7,3. 70-79,0
+S1578,Electrical,Male,2024,8.75,0,No,79,No,Yes,6.2,Core,1,4. 8+,3. 70-79,0
+S1579,Electrical,Male,2022,6.44,0,Yes,83,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1580,Electrical,Female,2024,7.82,0,No,89,No,Yes,9.5,Core,1,3. 7-8,4. 80-89,0
+S1581,Electrical,Male,2022,7.1,0,Yes,94,Yes,Yes,6.1,Other,1,3. 7-8,5. 90+,0
+S1582,IT,Male,2022,7.06,0,Yes,61,No,Yes,5.7,Startup,1,3. 7-8,2. 60-69,0
+S1583,E&TC,Female,2023,7.77,0,No,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1584,IT,Female,2025,7.08,0,No,82,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1585,Mechanical,Male,2022,5,3,Yes,65,No,No,0,Not Placed,0,1. Below 6,2. 60-69,3+
+S1586,Electrical,Male,2024,5,3,No,77,No,No,0,Not Placed,0,1. Below 6,3. 70-79,3+
+S1587,E&TC,Male,2024,8.35,0,Yes,81,No,Yes,5.8,Startup,1,4. 8+,4. 80-89,0
+S1588,Mechanical,Male,2025,8.21,0,Yes,93,No,Yes,5.3,Core,1,4. 8+,5. 90+,0
+S1589,IT,Female,2024,9.05,0,Yes,91,Yes,Yes,7.2,Startup,1,4. 8+,5. 90+,0
+S1590,Computer,Male,2024,7.38,0,Yes,86,No,Yes,10,IT,1,3. 7-8,4. 80-89,0
+S1591,IT,Male,2025,6.19,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1592,Computer,Male,2025,7.02,0,Yes,75,No,Yes,4.6,IT,1,3. 7-8,3. 70-79,0
+S1593,Electrical,Male,2024,7.16,0,Yes,73,No,Yes,5.8,IT,1,3. 7-8,3. 70-79,0
+S1594,E&TC,Female,2025,6.29,1,No,60,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1595,Electrical,Female,2022,8.63,0,Yes,94,Yes,Yes,4.7,IT,1,4. 8+,5. 90+,0
+S1596,Civil,Male,2022,9.07,0,Yes,88,No,Yes,4.5,Core,1,4. 8+,4. 80-89,0
+S1597,IT,Female,2023,7.78,0,Yes,75,No,Yes,11.8,IT,1,3. 7-8,3. 70-79,0
+S1598,Computer,Male,2022,7.39,0,Yes,88,No,Yes,6.2,Other,1,3. 7-8,4. 80-89,0
+S1599,Civil,Female,2025,5.88,0,No,66,No,Yes,4,Other,1,1. Below 6,2. 60-69,0
+S1600,IT,Male,2024,8.74,1,Yes,64,No,Yes,10.3,IT,1,4. 8+,2. 60-69,1
+S1601,Electrical,Female,2023,7.22,0,No,85,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1602,Computer,Female,2024,7.14,0,Yes,64,Yes,Yes,9.1,Other,1,3. 7-8,2. 60-69,0
+S1603,Mechanical,Male,2024,7.53,0,No,75,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1604,Civil,Male,2025,6.52,1,Yes,76,Yes,Yes,2.6,Startup,1,2. 6-7,3. 70-79,1
+S1605,IT,Female,2025,7.48,0,No,80,No,Yes,10.5,IT,1,3. 7-8,4. 80-89,0
+S1606,IT,Male,2023,6.05,2,Yes,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,2
+S1607,Electrical,Male,2024,8.13,0,Yes,84,No,Yes,4.9,Other,1,4. 8+,4. 80-89,0
+S1608,IT,Female,2025,7.26,0,No,81,No,Yes,6.1,Startup,1,3. 7-8,4. 80-89,0
+S1609,E&TC,Male,2023,8.24,0,Yes,72,No,Yes,5.5,Core,1,4. 8+,3. 70-79,0
+S1610,E&TC,Male,2025,7.02,0,Yes,78,No,Yes,5.1,IT,1,3. 7-8,3. 70-79,0
+S1611,IT,Male,2025,7.23,0,Yes,63,No,Yes,5.5,IT,1,3. 7-8,2. 60-69,0
+S1612,Civil,Male,2023,5.96,0,No,86,No,Yes,3.9,Other,1,1. Below 6,4. 80-89,0
+S1613,Civil,Male,2025,7.73,0,No,65,Yes,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1614,E&TC,Male,2022,6.41,0,Yes,71,No,Yes,4.6,IT,1,2. 6-7,3. 70-79,0
+S1615,Electrical,Female,2023,6.71,0,Yes,63,No,Yes,5.9,IT,1,2. 6-7,2. 60-69,0
+S1616,IT,Female,2024,7.35,0,Yes,70,No,Yes,8.9,IT,1,3. 7-8,3. 70-79,0
+S1617,Computer,Male,2024,7.51,0,Yes,77,No,Yes,14,IT,1,3. 7-8,3. 70-79,0
+S1618,Mechanical,Male,2025,5.56,1,Yes,66,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1619,Electrical,Male,2022,6.94,0,No,86,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1620,Computer,Male,2023,8.12,0,Yes,81,No,Yes,8.6,IT,1,4. 8+,4. 80-89,0
+S1621,IT,Female,2022,7.01,0,No,71,Yes,Yes,5.6,Other,1,3. 7-8,3. 70-79,0
+S1622,Mechanical,Male,2024,6.9,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1623,Civil,Male,2023,7.2,0,Yes,87,No,Yes,2.8,Core,1,3. 7-8,4. 80-89,0
+S1624,Computer,Female,2024,7.29,0,No,84,Yes,Yes,15,Startup,1,3. 7-8,4. 80-89,0
+S1625,E&TC,Male,2025,6.27,1,No,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1626,Civil,Female,2025,7.02,0,No,69,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1627,E&TC,Female,2024,8.09,0,Yes,83,No,Yes,7.1,Core,1,4. 8+,4. 80-89,0
+S1628,IT,Male,2024,6.4,0,Yes,77,No,Yes,6,IT,1,2. 6-7,3. 70-79,0
+S1629,IT,Male,2024,7.01,0,Yes,66,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1630,E&TC,Male,2023,5.96,0,No,79,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1631,E&TC,Male,2022,8.05,0,Yes,71,No,Yes,9.5,IT,1,4. 8+,3. 70-79,0
+S1632,Electrical,Male,2024,7.07,0,Yes,87,No,Yes,7.3,Core,1,3. 7-8,4. 80-89,0
+S1633,Mechanical,Male,2024,6.33,2,No,78,No,Yes,2.9,Other,1,2. 6-7,3. 70-79,2
+S1634,Civil,Male,2025,7.13,0,Yes,66,No,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1635,Electrical,Male,2024,6.07,0,No,68,Yes,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1636,E&TC,Male,2022,6.27,1,No,68,No,Yes,4.1,Startup,1,2. 6-7,2. 60-69,1
+S1637,E&TC,Male,2024,5.89,0,No,74,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1638,Electrical,Male,2025,6.19,1,Yes,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1639,IT,Female,2023,8.57,0,Yes,70,Yes,Yes,7.9,IT,1,4. 8+,3. 70-79,0
+S1640,Civil,Male,2023,6.39,1,No,61,Yes,Yes,2.8,Other,1,2. 6-7,2. 60-69,1
+S1641,Civil,Female,2024,7.47,1,Yes,82,No,No,0,Not Placed,0,3. 7-8,4. 80-89,1
+S1642,Computer,Female,2024,6.65,0,No,77,No,Yes,7.7,Startup,1,2. 6-7,3. 70-79,0
+S1643,E&TC,Male,2024,7.88,0,No,79,No,Yes,6.6,IT,1,3. 7-8,3. 70-79,0
+S1644,IT,Female,2023,6.43,1,Yes,76,No,Yes,5,Core,1,2. 6-7,3. 70-79,1
+S1645,IT,Male,2022,7.39,0,Yes,71,No,Yes,8.4,Startup,1,3. 7-8,3. 70-79,0
+S1646,E&TC,Male,2025,7.25,0,No,78,No,Yes,7.3,Startup,1,3. 7-8,3. 70-79,0
+S1647,IT,Female,2024,9.45,0,Yes,99,Yes,Yes,9.5,IT,1,4. 8+,5. 90+,0
+S1648,Civil,Male,2024,7.62,0,No,88,No,Yes,3.9,Core,1,3. 7-8,4. 80-89,0
+S1649,Electrical,Male,2024,6.62,0,No,72,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1650,Civil,Male,2023,7.67,0,Yes,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1651,IT,Male,2024,9.27,0,Yes,56,No,Yes,7,IT,1,4. 8+,1. Below 60,0
+S1652,IT,Female,2023,5.88,1,Yes,82,No,No,0,Not Placed,0,1. Below 6,4. 80-89,1
+S1653,IT,Female,2025,6.59,0,Yes,81,No,Yes,9.3,IT,1,2. 6-7,4. 80-89,0
+S1654,Computer,Female,2023,7.19,0,No,71,No,Yes,5.8,IT,1,3. 7-8,3. 70-79,0
+S1655,Electrical,Male,2024,6.77,2,No,62,No,No,0,Not Placed,0,2. 6-7,2. 60-69,2
+S1656,E&TC,Female,2023,6.9,1,No,65,No,Yes,5.5,Core,1,2. 6-7,2. 60-69,1
+S1657,IT,Male,2022,6.18,1,No,77,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1658,Electrical,Male,2023,8.41,0,Yes,79,No,Yes,5.4,Core,1,4. 8+,3. 70-79,0
+S1659,E&TC,Male,2023,5.92,0,No,78,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1660,Computer,Female,2023,7.22,0,Yes,77,No,Yes,12,IT,1,3. 7-8,3. 70-79,0
+S1661,Computer,Male,2022,8.34,0,Yes,88,No,Yes,7.8,IT,1,4. 8+,4. 80-89,0
+S1662,Mechanical,Male,2025,7.07,0,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1663,Civil,Male,2025,6.17,1,No,80,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1664,IT,Male,2022,6.14,1,No,54,No,Yes,5.8,IT,1,2. 6-7,1. Below 60,1
+S1665,Electrical,Female,2022,6.94,0,Yes,64,No,Yes,3.5,Core,1,2. 6-7,2. 60-69,0
+S1666,Electrical,Male,2025,6.47,1,No,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1667,Electrical,Male,2025,7.33,0,No,86,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1668,IT,Male,2025,6.09,1,No,90,Yes,No,0,Not Placed,0,2. 6-7,5. 90+,1
+S1669,Computer,Male,2025,8.13,0,Yes,77,No,Yes,10.3,Startup,1,4. 8+,3. 70-79,0
+S1670,Electrical,Male,2022,7.25,0,No,71,No,Yes,4.1,Other,1,3. 7-8,3. 70-79,0
+S1671,IT,Female,2023,7.52,0,No,59,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S1672,Mechanical,Male,2023,8.4,0,Yes,87,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S1673,Civil,Female,2023,6.66,0,No,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1674,Computer,Female,2022,6.75,2,Yes,99,No,Yes,6.7,IT,1,2. 6-7,5. 90+,2
+S1675,Civil,Female,2024,6.56,0,No,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1676,Electrical,Male,2022,6.98,0,No,94,No,Yes,3.7,Other,1,2. 6-7,5. 90+,0
+S1677,Civil,Male,2023,6.97,0,No,82,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1678,E&TC,Male,2022,6.45,1,No,64,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1679,Electrical,Male,2024,5.33,1,No,72,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1680,Mechanical,Male,2022,6.6,0,No,81,No,Yes,5,Other,1,2. 6-7,4. 80-89,0
+S1681,Civil,Male,2025,7.37,0,No,74,No,Yes,2.9,Core,1,3. 7-8,3. 70-79,0
+S1682,Civil,Male,2024,7.17,0,No,83,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1683,Civil,Male,2023,8.13,0,No,86,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S1684,IT,Male,2024,9.11,0,Yes,87,Yes,Yes,6.3,Other,1,4. 8+,4. 80-89,0
+S1685,Computer,Male,2024,8.08,0,Yes,78,No,Yes,11.7,IT,1,4. 8+,3. 70-79,0
+S1686,IT,Male,2023,8.59,0,Yes,70,Yes,Yes,7.8,IT,1,4. 8+,3. 70-79,0
+S1687,E&TC,Female,2022,7.89,0,Yes,77,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1688,E&TC,Male,2025,8.74,0,Yes,82,No,Yes,8,Startup,1,4. 8+,4. 80-89,0
+S1689,Mechanical,Male,2022,8.77,0,No,64,Yes,Yes,4.3,Core,1,4. 8+,2. 60-69,0
+S1690,E&TC,Female,2022,8.06,0,No,80,No,Yes,5.5,IT,1,4. 8+,4. 80-89,0
+S1691,Civil,Male,2024,7.69,0,No,77,No,Yes,4.2,Core,1,3. 7-8,3. 70-79,0
+S1692,Electrical,Female,2025,6.97,0,Yes,64,No,Yes,7.3,IT,1,2. 6-7,2. 60-69,0
+S1693,IT,Male,2023,7.31,0,Yes,73,No,Yes,11.1,IT,1,3. 7-8,3. 70-79,0
+S1694,Civil,Male,2022,6.75,0,No,72,No,Yes,5.3,Core,1,2. 6-7,3. 70-79,0
+S1695,Mechanical,Female,2022,7.66,0,No,95,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S1696,Mechanical,Male,2022,6.45,1,Yes,76,No,Yes,3.9,Other,1,2. 6-7,3. 70-79,1
+S1697,IT,Female,2022,7.18,0,No,85,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1698,Civil,Male,2022,5,1,Yes,68,Yes,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1699,Electrical,Male,2025,8.7,0,Yes,64,No,Yes,4.1,Core,1,4. 8+,2. 60-69,0
+S1700,Civil,Male,2023,6.85,0,No,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1701,Electrical,Male,2022,7.56,0,Yes,71,No,Yes,6.3,Other,1,3. 7-8,3. 70-79,0
+S1702,Electrical,Male,2025,8.46,0,Yes,77,No,Yes,7.8,IT,1,4. 8+,3. 70-79,0
+S1703,E&TC,Male,2022,7.47,0,No,67,No,Yes,7.4,IT,1,3. 7-8,2. 60-69,0
+S1704,Mechanical,Male,2023,8.4,0,Yes,80,No,Yes,5.1,Other,1,4. 8+,4. 80-89,0
+S1705,E&TC,Male,2022,6.08,1,Yes,82,No,Yes,6.6,IT,1,2. 6-7,4. 80-89,1
+S1706,Electrical,Male,2025,9.31,0,Yes,91,No,Yes,6.8,Core,1,4. 8+,5. 90+,0
+S1707,Computer,Male,2023,8.38,1,Yes,94,No,Yes,9.6,Startup,1,4. 8+,5. 90+,1
+S1708,E&TC,Male,2022,7.39,0,Yes,92,No,Yes,6,IT,1,3. 7-8,5. 90+,0
+S1709,Electrical,Male,2023,8.43,0,Yes,61,No,Yes,5.5,IT,1,4. 8+,2. 60-69,0
+S1710,IT,Male,2025,6.3,0,No,63,No,Yes,5.4,Other,1,2. 6-7,2. 60-69,0
+S1711,Civil,Male,2024,6.79,0,No,58,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S1712,E&TC,Male,2022,8.5,0,Yes,86,No,Yes,5,Core,1,4. 8+,4. 80-89,0
+S1713,Electrical,Male,2023,5.47,0,No,65,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S1714,Electrical,Female,2025,7.65,0,Yes,73,No,Yes,4.2,Core,1,3. 7-8,3. 70-79,0
+S1715,IT,Male,2023,7.83,0,Yes,76,Yes,Yes,5,IT,1,3. 7-8,3. 70-79,0
+S1716,Civil,Male,2022,8.82,0,Yes,84,No,Yes,4.8,Core,1,4. 8+,4. 80-89,0
+S1717,IT,Male,2022,5.93,1,No,59,No,Yes,6.6,IT,1,1. Below 6,1. Below 60,1
+S1718,Mechanical,Male,2023,8.55,0,Yes,69,Yes,Yes,6.3,Core,1,4. 8+,2. 60-69,0
+S1719,Mechanical,Male,2023,6.6,0,No,74,No,Yes,6.1,Core,1,2. 6-7,3. 70-79,0
+S1720,Civil,Male,2023,6.65,0,No,85,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1721,Computer,Male,2023,6.3,0,No,73,Yes,Yes,11.2,Startup,1,2. 6-7,3. 70-79,0
+S1722,IT,Female,2023,6.37,1,Yes,66,No,Yes,10.9,Startup,1,2. 6-7,2. 60-69,1
+S1723,Civil,Male,2023,7.41,0,Yes,57,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S1724,Mechanical,Male,2024,6.1,0,No,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1725,E&TC,Male,2024,7.87,0,Yes,71,No,Yes,4.7,Core,1,3. 7-8,3. 70-79,0
+S1726,Computer,Female,2022,6.8,0,Yes,64,Yes,Yes,5.7,IT,1,2. 6-7,2. 60-69,0
+S1727,E&TC,Male,2023,6.11,1,No,57,No,No,0,Not Placed,0,2. 6-7,1. Below 60,1
+S1728,Electrical,Male,2025,6.67,0,No,61,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1729,Computer,Male,2022,7.7,0,Yes,69,No,Yes,11.6,IT,1,3. 7-8,2. 60-69,0
+S1730,E&TC,Female,2024,6.95,0,Yes,73,No,Yes,8.2,Startup,1,2. 6-7,3. 70-79,0
+S1731,Electrical,Male,2024,7.18,0,No,65,No,Yes,7.2,Core,1,3. 7-8,2. 60-69,0
+S1732,Computer,Male,2025,8.03,0,Yes,80,No,Yes,10.4,Startup,1,4. 8+,4. 80-89,0
+S1733,Civil,Male,2024,8.02,0,No,76,No,Yes,2.4,Core,1,4. 8+,3. 70-79,0
+S1734,IT,Male,2024,7.07,0,No,96,No,Yes,7.8,Other,1,3. 7-8,5. 90+,0
+S1735,Electrical,Male,2024,6.21,0,No,58,No,Yes,5.2,Other,1,2. 6-7,1. Below 60,0
+S1736,Civil,Male,2025,7.12,0,No,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1737,Electrical,Female,2023,7.57,0,No,79,No,Yes,6.7,IT,1,3. 7-8,3. 70-79,0
+S1738,IT,Male,2025,6.04,0,Yes,63,No,Yes,10.7,IT,1,2. 6-7,2. 60-69,0
+S1739,Mechanical,Male,2022,6.3,1,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1740,Civil,Male,2025,6.4,1,No,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1741,IT,Male,2023,7.16,0,Yes,77,Yes,Yes,9.8,IT,1,3. 7-8,3. 70-79,0
+S1742,IT,Female,2025,6.67,0,Yes,87,No,Yes,6.3,IT,1,2. 6-7,4. 80-89,0
+S1743,Computer,Female,2022,8.04,0,Yes,59,No,Yes,6.8,Startup,1,4. 8+,1. Below 60,0
+S1744,Electrical,Male,2025,5.71,1,No,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1745,Civil,Male,2024,5.63,1,No,85,No,No,0,Not Placed,0,1. Below 6,4. 80-89,1
+S1746,Mechanical,Male,2025,6.8,0,No,83,No,Yes,5.1,Core,1,2. 6-7,4. 80-89,0
+S1747,Civil,Male,2023,6.89,0,No,80,No,Yes,3.1,Core,1,2. 6-7,4. 80-89,0
+S1748,Mechanical,Female,2023,5.79,1,No,83,No,No,0,Not Placed,0,1. Below 6,4. 80-89,1
+S1749,E&TC,Female,2025,6.65,1,No,57,No,No,0,Not Placed,0,2. 6-7,1. Below 60,1
+S1750,E&TC,Female,2024,6.84,0,No,82,No,Yes,7.8,Other,1,2. 6-7,4. 80-89,0
+S1751,Mechanical,Male,2024,6.75,1,Yes,84,No,Yes,2.9,Other,1,2. 6-7,4. 80-89,1
+S1752,IT,Male,2023,7.49,0,Yes,71,No,Yes,9.1,IT,1,3. 7-8,3. 70-79,0
+S1753,Electrical,Male,2024,6.55,1,Yes,98,Yes,No,0,Not Placed,0,2. 6-7,5. 90+,1
+S1754,Civil,Male,2023,8.38,0,No,81,No,No,0,Not Placed,0,4. 8+,4. 80-89,0
+S1755,E&TC,Male,2024,7.64,0,Yes,58,No,Yes,6.3,Other,1,3. 7-8,1. Below 60,0
+S1756,Mechanical,Male,2023,6.37,0,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1757,Computer,Male,2024,7.49,1,No,70,No,Yes,7.7,IT,1,3. 7-8,3. 70-79,1
+S1758,Electrical,Male,2025,7.26,0,Yes,87,No,Yes,3.9,Core,1,3. 7-8,4. 80-89,0
+S1759,Electrical,Male,2022,8.24,0,Yes,84,No,Yes,3,Core,1,4. 8+,4. 80-89,0
+S1760,Electrical,Male,2022,6.61,1,Yes,69,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1761,IT,Female,2023,8.04,0,Yes,92,No,Yes,6.9,Core,1,4. 8+,5. 90+,0
+S1762,Computer,Male,2022,7.44,0,Yes,85,No,Yes,7.6,IT,1,3. 7-8,4. 80-89,0
+S1763,IT,Female,2023,8.69,0,Yes,73,No,Yes,11.2,IT,1,4. 8+,3. 70-79,0
+S1764,Computer,Male,2025,8.56,0,No,79,No,Yes,6.9,IT,1,4. 8+,3. 70-79,0
+S1765,Computer,Female,2025,7.58,0,Yes,82,Yes,Yes,10.1,Other,1,3. 7-8,4. 80-89,0
+S1766,Computer,Female,2023,7.16,0,Yes,73,No,Yes,6.1,IT,1,3. 7-8,3. 70-79,0
+S1767,Electrical,Female,2024,7.61,0,Yes,74,No,Yes,5.9,Startup,1,3. 7-8,3. 70-79,0
+S1768,Computer,Female,2024,7.24,0,Yes,76,No,Yes,4.7,Startup,1,3. 7-8,3. 70-79,0
+S1769,Computer,Male,2023,8.91,0,Yes,72,Yes,Yes,17,IT,1,4. 8+,3. 70-79,0
+S1770,Civil,Male,2022,7.12,0,No,56,No,Yes,3.8,IT,1,3. 7-8,1. Below 60,0
+S1771,Mechanical,Male,2022,6.73,1,Yes,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1772,Civil,Male,2024,6.64,0,Yes,56,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S1773,Mechanical,Male,2025,6.01,1,Yes,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,1
+S1774,Electrical,Female,2024,7.65,0,No,61,No,Yes,2.4,Core,1,3. 7-8,2. 60-69,0
+S1775,Mechanical,Male,2023,6.36,1,No,59,No,Yes,3.5,Core,1,2. 6-7,1. Below 60,1
+S1776,Mechanical,Male,2023,8.09,0,Yes,83,No,Yes,3.9,Other,1,4. 8+,4. 80-89,0
+S1777,Civil,Male,2024,5.89,1,No,70,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1778,E&TC,Male,2023,7.31,0,Yes,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1779,E&TC,Male,2025,8.24,0,No,67,No,No,0,Not Placed,0,4. 8+,2. 60-69,0
+S1780,E&TC,Female,2025,5.26,2,No,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,2
+S1781,Computer,Female,2025,9.22,0,Yes,85,No,Yes,8,IT,1,4. 8+,4. 80-89,0
+S1782,Civil,Male,2024,6.67,0,No,74,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1783,IT,Male,2023,7.48,0,Yes,84,No,Yes,7,Startup,1,3. 7-8,4. 80-89,0
+S1784,Computer,Male,2022,7.91,0,Yes,87,No,Yes,7.5,Startup,1,3. 7-8,4. 80-89,0
+S1785,IT,Female,2024,8,0,Yes,76,No,Yes,6.3,Other,1,4. 8+,3. 70-79,0
+S1786,Electrical,Female,2025,7.4,0,No,60,No,Yes,3.4,Core,1,3. 7-8,2. 60-69,0
+S1787,IT,Female,2024,8.25,0,Yes,72,No,Yes,10.1,Other,1,4. 8+,3. 70-79,0
+S1788,Civil,Female,2024,7.52,0,No,76,Yes,Yes,5.6,Core,1,3. 7-8,3. 70-79,0
+S1789,Electrical,Female,2025,8.73,0,Yes,74,Yes,Yes,5,Core,1,4. 8+,3. 70-79,0
+S1790,Computer,Male,2025,7.87,0,Yes,69,No,Yes,9,Startup,1,3. 7-8,2. 60-69,0
+S1791,Civil,Male,2025,8.82,0,Yes,81,No,Yes,3.4,Core,1,4. 8+,4. 80-89,0
+S1792,IT,Male,2024,8.16,0,No,99,No,Yes,7.6,Startup,1,4. 8+,5. 90+,0
+S1793,IT,Female,2023,5.72,1,No,67,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1794,Civil,Female,2023,9.4,0,Yes,83,Yes,Yes,5,Core,1,4. 8+,4. 80-89,0
+S1795,Electrical,Male,2024,6.63,0,No,62,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1796,IT,Female,2023,8.7,0,No,92,Yes,Yes,7.1,Startup,1,4. 8+,5. 90+,0
+S1797,Mechanical,Male,2022,7.12,0,Yes,84,No,Yes,5.3,Other,1,3. 7-8,4. 80-89,0
+S1798,IT,Female,2024,8.3,0,No,87,No,Yes,8.1,Core,1,4. 8+,4. 80-89,0
+S1799,Mechanical,Male,2024,6.48,4,Yes,86,No,No,0,Not Placed,0,2. 6-7,4. 80-89,3+
+S1800,Mechanical,Male,2024,7.66,0,No,74,No,Yes,3.4,IT,1,3. 7-8,3. 70-79,0
+S1801,Mechanical,Male,2022,6.87,1,Yes,72,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1802,Mechanical,Male,2022,8.52,0,Yes,95,No,Yes,7.1,Core,1,4. 8+,5. 90+,0
+S1803,Computer,Male,2022,7.79,0,Yes,83,No,Yes,8.5,Startup,1,3. 7-8,4. 80-89,0
+S1804,Civil,Female,2022,7.89,0,Yes,58,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S1805,Mechanical,Male,2024,5.15,2,No,74,No,No,0,Not Placed,0,1. Below 6,3. 70-79,2
+S1806,Civil,Male,2023,6.97,0,No,70,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1807,Computer,Male,2023,7.77,1,Yes,86,No,Yes,14.3,IT,1,3. 7-8,4. 80-89,1
+S1808,E&TC,Male,2023,7.4,0,Yes,80,No,Yes,6.4,Other,1,3. 7-8,4. 80-89,0
+S1809,E&TC,Female,2022,8.07,0,Yes,63,No,Yes,10.3,Core,1,4. 8+,2. 60-69,0
+S1810,Computer,Male,2025,7.07,0,Yes,78,Yes,Yes,12,IT,1,3. 7-8,3. 70-79,0
+S1811,IT,Male,2023,7.39,1,No,78,No,Yes,7.6,Startup,1,3. 7-8,3. 70-79,1
+S1812,E&TC,Female,2023,8.26,0,No,82,No,Yes,4.5,Startup,1,4. 8+,4. 80-89,0
+S1813,Civil,Female,2022,5,1,No,75,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1814,IT,Female,2025,7.88,0,Yes,92,No,Yes,6.5,IT,1,3. 7-8,5. 90+,0
+S1815,Civil,Male,2024,6.75,0,No,78,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1816,Mechanical,Male,2024,6.28,0,No,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1817,Civil,Female,2025,7.35,0,Yes,87,No,Yes,5,IT,1,3. 7-8,4. 80-89,0
+S1818,E&TC,Female,2025,8.3,0,Yes,99,No,Yes,6.2,Other,1,4. 8+,5. 90+,0
+S1819,E&TC,Male,2023,8.14,0,No,87,No,Yes,4.7,Startup,1,4. 8+,4. 80-89,0
+S1820,Mechanical,Female,2022,6.98,0,Yes,77,Yes,Yes,6,Core,1,2. 6-7,3. 70-79,0
+S1821,Electrical,Female,2022,7.94,0,Yes,82,No,Yes,5.3,Core,1,3. 7-8,4. 80-89,0
+S1822,E&TC,Male,2025,7.98,0,Yes,81,No,Yes,7.5,IT,1,3. 7-8,4. 80-89,0
+S1823,Mechanical,Male,2023,7.02,0,No,76,No,Yes,3.4,Core,1,3. 7-8,3. 70-79,0
+S1824,Mechanical,Male,2023,6.48,0,No,93,Yes,Yes,5.7,Core,1,2. 6-7,5. 90+,0
+S1825,Civil,Male,2025,6.48,0,No,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1826,Computer,Male,2023,8.15,0,Yes,89,No,Yes,10.5,IT,1,4. 8+,4. 80-89,0
+S1827,Mechanical,Male,2024,7.06,0,No,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1828,E&TC,Male,2024,6.26,0,Yes,60,No,Yes,7.6,Startup,1,2. 6-7,2. 60-69,0
+S1829,Electrical,Female,2022,5.63,1,No,70,Yes,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1830,E&TC,Female,2025,7.95,0,Yes,73,No,Yes,7.7,Core,1,3. 7-8,3. 70-79,0
+S1831,E&TC,Female,2024,6.71,1,No,80,No,Yes,5,Startup,1,2. 6-7,4. 80-89,1
+S1832,Electrical,Female,2023,7.45,0,No,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1833,E&TC,Male,2025,8.32,0,No,70,No,Yes,5.3,Core,1,4. 8+,3. 70-79,0
+S1834,IT,Female,2025,6.17,0,No,86,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1835,IT,Female,2024,7.31,0,Yes,86,No,Yes,12.6,IT,1,3. 7-8,4. 80-89,0
+S1836,Computer,Male,2025,7.25,0,Yes,90,No,Yes,8.1,IT,1,3. 7-8,5. 90+,0
+S1837,Computer,Male,2022,7.74,1,Yes,80,No,Yes,11,IT,1,3. 7-8,4. 80-89,1
+S1838,E&TC,Female,2022,8.32,0,Yes,79,No,Yes,5.4,Startup,1,4. 8+,3. 70-79,0
+S1839,Civil,Female,2022,5.85,0,No,78,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1840,Civil,Female,2024,7.56,0,Yes,72,Yes,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1841,Computer,Female,2025,8.33,0,Yes,81,No,Yes,5.5,Other,1,4. 8+,4. 80-89,0
+S1842,Mechanical,Male,2025,6.93,0,No,74,Yes,Yes,3.1,Startup,1,2. 6-7,3. 70-79,0
+S1843,Computer,Male,2022,7.28,0,Yes,63,No,Yes,9.8,Startup,1,3. 7-8,2. 60-69,0
+S1844,Electrical,Male,2022,7.53,0,Yes,78,No,Yes,6.2,Other,1,3. 7-8,3. 70-79,0
+S1845,Computer,Male,2025,7.71,0,Yes,74,No,Yes,10,Startup,1,3. 7-8,3. 70-79,0
+S1846,Mechanical,Male,2022,7.62,0,No,75,No,Yes,6.3,Core,1,3. 7-8,3. 70-79,0
+S1847,IT,Male,2024,7.86,0,No,81,No,Yes,8.1,Startup,1,3. 7-8,4. 80-89,0
+S1848,Mechanical,Male,2025,6.22,1,Yes,85,No,Yes,3.7,Core,1,2. 6-7,4. 80-89,1
+S1849,E&TC,Female,2025,8.09,0,No,71,No,No,0,Not Placed,0,4. 8+,3. 70-79,0
+S1850,Civil,Male,2025,8.1,0,No,76,No,Yes,4.9,Core,1,4. 8+,3. 70-79,0
+S1851,IT,Male,2025,7.52,0,Yes,70,Yes,Yes,8.1,Startup,1,3. 7-8,3. 70-79,0
+S1852,Electrical,Female,2024,5.81,0,No,64,Yes,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S1853,E&TC,Female,2024,7.1,0,No,70,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1854,Civil,Male,2023,7.22,0,Yes,74,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1855,Electrical,Male,2023,6.12,0,Yes,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1856,Electrical,Male,2023,6.83,0,No,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1857,IT,Male,2025,6.08,1,Yes,63,No,Yes,6.1,Startup,1,2. 6-7,2. 60-69,1
+S1858,IT,Male,2024,7.9,0,Yes,90,No,Yes,9,IT,1,3. 7-8,5. 90+,0
+S1859,IT,Female,2024,7.5,0,Yes,85,No,Yes,7.9,Other,1,3. 7-8,4. 80-89,0
+S1860,IT,Female,2022,5.87,1,Yes,64,No,No,0,Not Placed,0,1. Below 6,2. 60-69,1
+S1861,Mechanical,Male,2023,7.42,0,No,88,No,Yes,3.8,Core,1,3. 7-8,4. 80-89,0
+S1862,Electrical,Male,2025,7.1,0,Yes,79,Yes,Yes,4.8,Startup,1,3. 7-8,3. 70-79,0
+S1863,Electrical,Female,2024,7.61,0,No,76,No,Yes,7,Other,1,3. 7-8,3. 70-79,0
+S1864,Mechanical,Male,2023,6.75,1,No,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1865,Mechanical,Male,2022,6.38,2,Yes,73,No,Yes,6.8,Core,1,2. 6-7,3. 70-79,2
+S1866,Electrical,Male,2022,6.46,0,Yes,79,No,Yes,5.1,Other,1,2. 6-7,3. 70-79,0
+S1867,Electrical,Male,2024,6.67,2,Yes,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,2
+S1868,IT,Male,2025,7.37,1,Yes,73,No,Yes,7.8,Startup,1,3. 7-8,3. 70-79,1
+S1869,Mechanical,Male,2022,7.23,0,Yes,58,No,No,0,Not Placed,0,3. 7-8,1. Below 60,0
+S1870,Electrical,Male,2023,6.98,0,No,80,No,Yes,3.1,Startup,1,2. 6-7,4. 80-89,0
+S1871,IT,Female,2023,6.97,0,Yes,72,No,Yes,12.2,Other,1,2. 6-7,3. 70-79,0
+S1872,E&TC,Male,2024,6.88,0,Yes,82,No,Yes,7.5,Startup,1,2. 6-7,4. 80-89,0
+S1873,Electrical,Male,2024,9.41,0,Yes,87,Yes,Yes,6.9,Core,1,4. 8+,4. 80-89,0
+S1874,Electrical,Female,2025,6.46,0,Yes,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1875,Electrical,Male,2022,6.65,1,Yes,84,No,Yes,2.6,Core,1,2. 6-7,4. 80-89,1
+S1876,Civil,Male,2025,9.9,0,No,86,No,Yes,4.5,Core,1,4. 8+,4. 80-89,0
+S1877,IT,Female,2025,7.73,0,Yes,79,No,Yes,7.6,IT,1,3. 7-8,3. 70-79,0
+S1878,IT,Female,2025,6.11,1,Yes,71,Yes,Yes,8.7,IT,1,2. 6-7,3. 70-79,1
+S1879,Mechanical,Male,2024,7.86,0,No,93,No,No,0,Not Placed,0,3. 7-8,5. 90+,0
+S1880,Mechanical,Male,2025,6.28,1,No,67,No,Yes,3.7,Core,1,2. 6-7,2. 60-69,1
+S1881,E&TC,Male,2025,8.02,0,No,76,No,Yes,5.1,Startup,1,4. 8+,3. 70-79,0
+S1882,Mechanical,Male,2022,6.91,0,Yes,64,No,Yes,5.6,Other,1,2. 6-7,2. 60-69,0
+S1883,E&TC,Male,2023,6.8,0,No,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1884,Civil,Male,2022,8.5,0,Yes,75,No,Yes,3.6,Other,1,4. 8+,3. 70-79,0
+S1885,IT,Male,2025,7.86,0,No,74,No,Yes,6.2,IT,1,3. 7-8,3. 70-79,0
+S1886,IT,Female,2025,8.23,0,Yes,74,No,Yes,8.5,IT,1,4. 8+,3. 70-79,0
+S1887,Computer,Male,2025,7.79,0,Yes,78,No,Yes,13.1,IT,1,3. 7-8,3. 70-79,0
+S1888,IT,Male,2024,6.95,0,Yes,64,No,Yes,9.5,IT,1,2. 6-7,2. 60-69,0
+S1889,Electrical,Male,2025,7.7,0,No,57,No,Yes,6.4,Core,1,3. 7-8,1. Below 60,0
+S1890,E&TC,Female,2024,8.29,0,Yes,83,No,Yes,6.1,Core,1,4. 8+,4. 80-89,0
+S1891,IT,Male,2024,7.47,0,Yes,58,No,Yes,11.8,Other,1,3. 7-8,1. Below 60,0
+S1892,Civil,Male,2024,8.67,0,No,88,No,Yes,2.6,Core,1,4. 8+,4. 80-89,0
+S1893,Mechanical,Male,2023,7.87,0,No,92,No,Yes,8.1,Other,1,3. 7-8,5. 90+,0
+S1894,Computer,Male,2024,7.59,0,Yes,76,No,Yes,16.2,Startup,1,3. 7-8,3. 70-79,0
+S1895,IT,Female,2022,7.58,0,Yes,89,No,Yes,8.8,Startup,1,3. 7-8,4. 80-89,0
+S1896,Computer,Female,2023,7.52,0,Yes,77,No,Yes,11.2,IT,1,3. 7-8,3. 70-79,0
+S1897,Mechanical,Male,2025,5.97,1,No,87,No,Yes,4.1,Core,1,1. Below 6,4. 80-89,1
+S1898,IT,Male,2022,7.27,0,Yes,72,No,Yes,7.2,Other,1,3. 7-8,3. 70-79,0
+S1899,Computer,Male,2025,7.6,0,Yes,56,No,Yes,7.5,IT,1,3. 7-8,1. Below 60,0
+S1900,Computer,Female,2025,7.03,0,No,75,No,Yes,7.9,IT,1,3. 7-8,3. 70-79,0
+S1901,Mechanical,Male,2024,7.4,0,No,92,No,Yes,5.2,Other,1,3. 7-8,5. 90+,0
+S1902,Computer,Female,2025,7.42,0,Yes,81,No,Yes,9.9,Startup,1,3. 7-8,4. 80-89,0
+S1903,Electrical,Male,2024,7.85,1,No,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,1
+S1904,Computer,Male,2024,8,0,Yes,81,No,Yes,15.8,Startup,1,4. 8+,4. 80-89,0
+S1905,Mechanical,Male,2023,7.25,0,Yes,85,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1906,E&TC,Male,2025,5.97,1,No,72,No,Yes,5.1,IT,1,1. Below 6,3. 70-79,1
+S1907,E&TC,Male,2025,8.81,0,No,99,No,Yes,3.7,Core,1,4. 8+,5. 90+,0
+S1908,Computer,Male,2024,7.27,0,Yes,72,No,Yes,13.9,Startup,1,3. 7-8,3. 70-79,0
+S1909,Civil,Male,2023,6.98,0,No,84,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1910,Electrical,Male,2025,6.84,0,No,82,No,Yes,3.2,Core,1,2. 6-7,4. 80-89,0
+S1911,Computer,Female,2022,6.96,0,Yes,69,Yes,Yes,7.4,IT,1,2. 6-7,2. 60-69,0
+S1912,Computer,Male,2022,8.79,0,Yes,77,Yes,Yes,10.2,IT,1,4. 8+,3. 70-79,0
+S1913,Electrical,Male,2022,8.4,0,No,89,No,Yes,5.5,Core,1,4. 8+,4. 80-89,0
+S1914,Mechanical,Male,2022,7.5,0,Yes,78,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1915,Computer,Female,2022,7.3,0,Yes,79,No,Yes,5.9,IT,1,3. 7-8,3. 70-79,0
+S1916,IT,Female,2023,7.91,0,Yes,63,No,Yes,6.4,Startup,1,3. 7-8,2. 60-69,0
+S1917,Mechanical,Male,2022,7.17,0,No,82,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1918,Civil,Male,2024,6.88,0,Yes,78,No,Yes,2.8,Core,1,2. 6-7,3. 70-79,0
+S1919,Mechanical,Male,2024,7.4,0,No,76,No,Yes,5.3,Core,1,3. 7-8,3. 70-79,0
+S1920,Electrical,Male,2025,6.75,0,No,78,No,Yes,6.3,Other,1,2. 6-7,3. 70-79,0
+S1921,E&TC,Female,2022,7.43,0,No,73,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1922,IT,Male,2025,7.53,0,Yes,72,No,Yes,5.5,Other,1,3. 7-8,3. 70-79,0
+S1923,E&TC,Female,2022,7.74,0,Yes,75,No,Yes,7.7,Startup,1,3. 7-8,3. 70-79,0
+S1924,E&TC,Female,2025,6.64,1,Yes,70,Yes,Yes,7.2,Other,1,2. 6-7,3. 70-79,1
+S1925,IT,Male,2024,7.99,1,Yes,98,No,Yes,6.6,IT,1,3. 7-8,5. 90+,1
+S1926,Computer,Female,2022,6.58,0,Yes,82,No,Yes,4.9,IT,1,2. 6-7,4. 80-89,0
+S1927,E&TC,Male,2025,6.68,0,Yes,66,No,Yes,4.1,IT,1,2. 6-7,2. 60-69,0
+S1928,Civil,Female,2022,6.57,2,Yes,92,No,No,0,Not Placed,0,2. 6-7,5. 90+,2
+S1929,Computer,Male,2023,6.44,0,Yes,70,No,Yes,7.1,IT,1,2. 6-7,3. 70-79,0
+S1930,E&TC,Male,2024,8.11,0,Yes,79,No,Yes,9.1,Startup,1,4. 8+,3. 70-79,0
+S1931,Mechanical,Male,2024,6.23,0,Yes,81,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1932,Mechanical,Female,2022,6.47,0,No,56,No,No,0,Not Placed,0,2. 6-7,1. Below 60,0
+S1933,Civil,Male,2025,8.18,0,No,77,No,Yes,4,Other,1,4. 8+,3. 70-79,0
+S1934,Civil,Male,2022,6.54,0,No,69,No,Yes,2.9,IT,1,2. 6-7,2. 60-69,0
+S1935,Civil,Female,2023,6.88,0,No,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1936,Computer,Female,2025,6.49,0,Yes,77,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1937,E&TC,Female,2024,7.95,0,No,78,No,Yes,5.7,Core,1,3. 7-8,3. 70-79,0
+S1938,Mechanical,Male,2024,7.86,0,No,77,No,Yes,3.2,Other,1,3. 7-8,3. 70-79,0
+S1939,IT,Male,2024,8.02,0,Yes,88,No,Yes,9.2,IT,1,4. 8+,4. 80-89,0
+S1940,Computer,Male,2025,7.88,0,Yes,81,No,Yes,6.9,IT,1,3. 7-8,4. 80-89,0
+S1941,IT,Female,2025,7.42,0,Yes,77,No,Yes,6.1,IT,1,3. 7-8,3. 70-79,0
+S1942,E&TC,Male,2023,6.73,0,No,76,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1943,E&TC,Male,2023,6.47,0,No,90,No,Yes,5.6,IT,1,2. 6-7,5. 90+,0
+S1944,Computer,Female,2025,8.56,0,Yes,82,Yes,Yes,15.2,IT,1,4. 8+,4. 80-89,0
+S1945,Civil,Female,2022,7.74,0,Yes,73,No,Yes,8.1,Core,1,3. 7-8,3. 70-79,0
+S1946,Electrical,Male,2022,6.53,1,Yes,57,No,No,0,Not Placed,0,2. 6-7,1. Below 60,1
+S1947,IT,Male,2024,7.39,0,Yes,64,No,Yes,5.8,IT,1,3. 7-8,2. 60-69,0
+S1948,Electrical,Male,2023,6.88,0,Yes,71,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1949,Computer,Male,2025,6.38,1,Yes,73,Yes,Yes,7.1,IT,1,2. 6-7,3. 70-79,1
+S1950,Electrical,Male,2022,7.31,0,No,71,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1951,Electrical,Male,2022,6.78,1,Yes,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,1
+S1952,Computer,Female,2025,6.54,0,Yes,69,No,Yes,9.8,IT,1,2. 6-7,2. 60-69,0
+S1953,Civil,Female,2025,5.72,0,Yes,63,No,No,0,Not Placed,0,1. Below 6,2. 60-69,0
+S1954,Electrical,Male,2025,5.74,0,No,77,No,No,0,Not Placed,0,1. Below 6,3. 70-79,0
+S1955,Electrical,Male,2022,6.82,0,No,87,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1956,Electrical,Male,2024,7.07,0,No,66,No,Yes,6.4,IT,1,3. 7-8,2. 60-69,0
+S1957,Mechanical,Female,2022,6.31,0,No,76,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1958,Computer,Male,2024,7.99,0,No,61,No,Yes,4.6,IT,1,3. 7-8,2. 60-69,0
+S1959,Electrical,Male,2024,7.09,0,No,62,Yes,No,0,Not Placed,0,3. 7-8,2. 60-69,0
+S1960,Mechanical,Male,2024,7.62,0,No,72,No,Yes,4.6,Core,1,3. 7-8,3. 70-79,0
+S1961,Mechanical,Male,2023,6.94,0,Yes,85,No,Yes,4.1,Other,1,2. 6-7,4. 80-89,0
+S1962,E&TC,Male,2023,6.49,0,No,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1963,Mechanical,Male,2022,7.2,0,Yes,69,No,Yes,2.8,Startup,1,3. 7-8,2. 60-69,0
+S1964,Computer,Male,2024,6.26,0,No,74,Yes,Yes,5.3,IT,1,2. 6-7,3. 70-79,0
+S1965,Civil,Male,2023,7.54,0,Yes,77,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1966,Computer,Male,2022,6.56,0,Yes,67,No,No,0,Not Placed,0,2. 6-7,2. 60-69,0
+S1967,Civil,Male,2025,7.88,0,Yes,96,No,Yes,3.8,Core,1,3. 7-8,5. 90+,0
+S1968,Electrical,Male,2022,6.85,0,No,73,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1969,E&TC,Male,2022,8.16,0,No,80,No,Yes,5.6,Core,1,4. 8+,4. 80-89,0
+S1970,E&TC,Male,2022,6.19,0,Yes,69,No,Yes,7.1,Core,1,2. 6-7,2. 60-69,0
+S1971,IT,Male,2025,6.74,0,Yes,79,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1972,Electrical,Male,2022,7.49,0,Yes,88,No,Yes,5.6,Startup,1,3. 7-8,4. 80-89,0
+S1973,Civil,Female,2023,8.1,0,No,94,No,No,0,Not Placed,0,4. 8+,5. 90+,0
+S1974,E&TC,Female,2023,8.7,0,Yes,74,No,Yes,7.9,Other,1,4. 8+,3. 70-79,0
+S1975,Computer,Male,2025,7.44,0,Yes,87,No,Yes,8.9,IT,1,3. 7-8,4. 80-89,0
+S1976,IT,Male,2025,9,0,Yes,86,Yes,Yes,6.8,IT,1,4. 8+,4. 80-89,0
+S1977,E&TC,Male,2024,6.94,0,No,84,No,No,0,Not Placed,0,2. 6-7,4. 80-89,0
+S1978,Electrical,Male,2023,8.14,0,No,78,No,Yes,4.6,Core,1,4. 8+,3. 70-79,0
+S1979,Civil,Male,2023,6.2,0,No,71,Yes,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1980,IT,Male,2022,7.73,0,No,86,No,Yes,8.8,IT,1,3. 7-8,4. 80-89,0
+S1981,Electrical,Male,2022,5.04,1,No,78,No,No,0,Not Placed,0,1. Below 6,3. 70-79,1
+S1982,E&TC,Female,2022,6.19,0,Yes,87,No,Yes,7.2,IT,1,2. 6-7,4. 80-89,0
+S1983,Electrical,Male,2023,7.57,0,No,79,No,No,0,Not Placed,0,3. 7-8,3. 70-79,0
+S1984,IT,Female,2022,6.17,0,Yes,72,No,Yes,7,Startup,1,2. 6-7,3. 70-79,0
+S1985,Mechanical,Male,2023,7.48,0,No,55,No,Yes,3.5,IT,1,3. 7-8,1. Below 60,0
+S1986,Electrical,Male,2022,7.97,0,Yes,64,No,Yes,5.7,Startup,1,3. 7-8,2. 60-69,0
+S1987,IT,Male,2023,6.9,0,Yes,72,No,Yes,8.6,Startup,1,2. 6-7,3. 70-79,0
+S1988,Civil,Male,2022,6.18,3,Yes,63,No,No,0,Not Placed,0,2. 6-7,2. 60-69,3+
+S1989,Electrical,Male,2024,6.72,1,No,82,No,No,0,Not Placed,0,2. 6-7,4. 80-89,1
+S1990,Computer,Female,2024,6.53,0,No,62,Yes,Yes,11,IT,1,2. 6-7,2. 60-69,0
+S1991,Computer,Male,2024,7.31,1,Yes,72,No,Yes,7.3,Other,1,3. 7-8,3. 70-79,1
+S1992,Mechanical,Male,2023,7.19,0,Yes,72,No,Yes,4,Other,1,3. 7-8,3. 70-79,0
+S1993,IT,Male,2022,7.07,0,Yes,86,No,Yes,9.4,IT,1,3. 7-8,4. 80-89,0
+S1994,Computer,Male,2025,8.91,0,Yes,76,No,Yes,8.4,Other,1,4. 8+,3. 70-79,0
+S1995,E&TC,Female,2025,6.55,0,Yes,78,No,No,0,Not Placed,0,2. 6-7,3. 70-79,0
+S1996,Civil,Male,2023,8.3,0,No,81,No,Yes,3.7,Other,1,4. 8+,4. 80-89,0
+S1997,IT,Male,2024,6.41,2,Yes,82,No,Yes,10.4,IT,1,2. 6-7,4. 80-89,2
+S1998,IT,Female,2022,7.42,0,Yes,84,No,No,0,Not Placed,0,3. 7-8,4. 80-89,0
+S1999,Electrical,Male,2022,8.21,0,Yes,79,No,Yes,3.6,Core,1,4. 8+,3. 70-79,0
+S2000,Mechanical,Male,2024,8.12,0,Yes,63,No,Yes,8.9,Core,1,4. 8+,2. 60-69,0
