@@ -6,13 +6,13 @@ A data analytics project focused on analyzing university placement performance, 
 ##  Dashboard Preview
 
 ### 1. Placement Overview
-![Placement Overview](placement-overview.png)
+![Placement Overview](placement_overview.png)
 
 ### 2. Student Performance
-![Student Performance](student-performance.png)
+![Student Performance](student_performance.png)
 
 ### 3. Trends & Companies
-![Trends & Companies](trends-companies.png)
+![Trends & Companies](trends_companies.png)
 
 ##  Project Objectives
 
@@ -37,7 +37,7 @@ A data analytics project focused on analyzing university placement performance, 
 - **Data Files:** `university_placement_data.csv` and `student_placement.xlsx`
 - **Dashboard File:** `Placement.pbix`
 
-## 📈 Key Insights
+##  Key Insights
 
 - **Total Students:** 2,000
 - **Students Placed:** 1,295
