@@ -93,4 +93,3 @@ A data analytics project focused on analyzing university placement performance, 
 - Publish the dashboard using Power BI Service.
 - Expand the analysis with additional student performance indicators.
 
-oject useful, consider giving the repository a star!
